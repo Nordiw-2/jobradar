@@ -8,6 +8,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { JobCard } from "@/components/job-card";
 import { useText } from "@/components/language-provider";
+import { toSlug } from "@/lib/seo";
 import type { Job } from "@/lib/types";
 
 type HomePageProps = {
@@ -75,7 +76,7 @@ export function HomePage({ newTodayCount, newTodayJobs, closingSoonJobs }: HomeP
         </h2>
         <div className="flex flex-wrap gap-2">
           {MOROCCAN_CITIES.map((city) => (
-            <Link key={city} href={`/search?city=${encodeURIComponent(city)}`}>
+            <Link key={city} href={`/ville/${toSlug(city)}`}>
               <Button variant="outline" size="sm">
                 {city}
               </Button>

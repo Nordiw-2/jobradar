@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import type { Metadata } from "next";
 import { ExternalLink, MapPin, Building2, BadgeInfo } from "lucide-react";
 import { JobTracker } from "@/components/job-tracker";
 import { LangSnippet } from "@/components/lang-snippet";
@@ -10,11 +11,65 @@ import { findJobById } from "@/lib/data";
 import { cleanText } from "@/lib/job-normalize";
 import { parseFilters, type SearchParamValue } from "@/lib/query";
 import { sourceLabel } from "@/lib/source";
+import { canonical, CONTRACT_TO_EMPLOYMENT_TYPE, serializeJsonLd } from "@/lib/seo";
+import type { Job } from "@/lib/types";
+
+export const revalidate = 300;
 
 type JobDetailProps = {
   params: Promise<{ id: string }>;
   searchParams?: Promise<Record<string, SearchParamValue>>;
 };
+
+export async function generateMetadata({ params }: JobDetailProps): Promise<Metadata> {
+  const { id } = await params;
+  const job = await findJobById(id);
+  if (!job) return { title: "Offre introuvable | JobRadar.ma" };
+  const titleParts = [job.title, job.company, job.city].filter(Boolean);
+  const title = titleParts.join(" – ");
+  const description = cleanText(job.ourSnippet).slice(0, 155) || `Offre d'emploi: ${job.title}`;
+  return {
+    title,
+    description,
+    alternates: { canonical: canonical(`/jobs/${job.id}`) },
+    openGraph: {
+      title,
+      description,
+      url: canonical(`/jobs/${job.id}`),
+      type: "website"
+    }
+  };
+}
+
+function buildJobPostingJsonLd(job: Job): Record<string, unknown> {
+  const schema: Record<string, unknown> = {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    title: job.title,
+    description: cleanText(job.ourSnippet),
+    url: canonical(`/jobs/${job.id}`),
+    directApply: false
+  };
+  if (job.postedAt) schema.datePosted = job.postedAt.split("T")[0];
+  if (job.company) {
+    schema.hiringOrganization = { "@type": "Organization", name: job.company };
+  }
+  if (job.city) {
+    schema.jobLocation = {
+      "@type": "Place",
+      address: {
+        "@type": "PostalAddress",
+        addressLocality: job.city,
+        addressCountry: "MA"
+      }
+    };
+  }
+  if (job.contract && CONTRACT_TO_EMPLOYMENT_TYPE[job.contract]) {
+    schema.employmentType = CONTRACT_TO_EMPLOYMENT_TYPE[job.contract];
+  }
+  if (job.remote === "Remote") schema.jobLocationType = "TELECOMMUTE";
+  return schema;
+}
 
 export default async function JobDetailPage({ params, searchParams }: JobDetailProps) {
   const { id } = await params;
@@ -23,6 +78,8 @@ export default async function JobDetailPage({ params, searchParams }: JobDetailP
   if (!job) {
     notFound();
   }
+
+  const jsonLd = buildJobPostingJsonLd(job);
 
   const infoRows = [
     ["Entreprise", job.company],
@@ -36,7 +93,12 @@ export default async function JobDetailPage({ params, searchParams }: JobDetailP
   ].filter(([, value]) => cleanText(value));
 
   return (
-    <div className="grid gap-4 lg:grid-cols-[1fr,320px]">
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: serializeJsonLd(jsonLd) }}
+      />
+      <div className="grid gap-4 lg:grid-cols-[1fr,320px]">
       <Card>
         <CardHeader className="space-y-3">
           <div className="flex flex-wrap gap-2">
@@ -110,5 +172,6 @@ export default async function JobDetailPage({ params, searchParams }: JobDetailP
         </CardContent>
       </Card>
     </div>
+    </>
   );
 }

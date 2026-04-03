@@ -5,6 +5,8 @@ import type { Job, JobDataFile } from "@/lib/types";
 import { normalizeAndDedupe } from "@/ingest/pipeline";
 import { sourceAdapters } from "@/ingest/sources";
 import type { RawJob } from "@/ingest/types";
+import { notifyIndexing } from "@/lib/indexing-api";
+import { BASE_URL } from "@/lib/seo";
 
 type IndexPayload = {
   updatedAt: string;
@@ -150,6 +152,31 @@ async function run(): Promise<void> {
   if (isDaily) {
     const dailyPath = path.join(dataDir, `${dayStamp()}.json`);
     await writeJson(dailyPath, nextData);
+  }
+
+  // Notify Google Indexing API for new/updated jobs (no-op if env not set)
+  const previousIds = new Set(previous.jobs.map((j) => j.id));
+  const updatedJobs = nextData.jobs.filter(
+    (j) => !previousIds.has(j.id)
+  );
+  if (updatedJobs.length) {
+    console.log(`Submitting ${updatedJobs.length} URL(s) to Google Indexing API…`);
+    await Promise.allSettled(
+      updatedJobs.map((j) =>
+        notifyIndexing(`${BASE_URL}/jobs/${j.id}`, "URL_UPDATED")
+      )
+    );
+  }
+
+  // Notify deleted jobs (present before, missing now)
+  const nextIds = new Set(nextData.jobs.map((j) => j.id));
+  const removedJobs = previous.jobs.filter((j) => !nextIds.has(j.id));
+  if (removedJobs.length) {
+    await Promise.allSettled(
+      removedJobs.map((j) =>
+        notifyIndexing(`${BASE_URL}/jobs/${j.id}`, "URL_DELETED")
+      )
+    );
   }
 
   if (warnings.length) {

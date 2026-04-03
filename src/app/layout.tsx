@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Cairo, Manrope } from "next/font/google";
 import { Suspense, type ReactNode } from "react";
+import { Analytics } from "@vercel/analytics/next";
 import "@/app/globals.css";
 import { LanguageProvider } from "@/components/language-provider";
 import { SiteFooter } from "@/components/site-footer";
@@ -52,6 +53,7 @@ export default function RootLayout({ children }: Readonly<{ children: ReactNode 
             <SiteFooter />
           </div>
         </LanguageProvider>
+        <Analytics />
       </body>
     </html>
   );
