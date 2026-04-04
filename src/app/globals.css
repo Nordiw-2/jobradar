@@ -3,26 +3,43 @@
 @tailwind utilities;
 
 :root {
-  --background: 38 55% 97%;
-  --foreground: 165 30% 14%;
+  /* Canvas */
+  --background: 0 0% 100%;
+  --foreground: 222 47% 11%;
+
+  /* Cards / Popovers */
   --card: 0 0% 100%;
-  --card-foreground: 165 30% 14%;
+  --card-foreground: 222 47% 11%;
   --popover: 0 0% 100%;
-  --popover-foreground: 165 30% 14%;
-  --primary: 169 65% 24%;
-  --primary-foreground: 40 100% 98%;
-  --secondary: 35 70% 91%;
-  --secondary-foreground: 165 30% 14%;
-  --muted: 34 50% 93%;
-  --muted-foreground: 165 14% 38%;
-  --accent: 26 85% 84%;
-  --accent-foreground: 165 30% 14%;
-  --destructive: 3 71% 43%;
-  --destructive-foreground: 0 0% 98%;
-  --border: 35 35% 83%;
-  --input: 35 35% 85%;
-  --ring: 169 65% 24%;
-  --radius: 1rem;
+  --popover-foreground: 222 47% 11%;
+
+  /* Primary — indigo-blue (Wise / Stripe family) */
+  --primary: 231 48% 48%;
+  --primary-foreground: 0 0% 100%;
+
+  /* Secondary — very light indigo tint */
+  --secondary: 231 60% 97%;
+  --secondary-foreground: 231 48% 40%;
+
+  /* Muted */
+  --muted: 220 14% 96%;
+  --muted-foreground: 220 9% 46%;
+
+  /* Accent */
+  --accent: 231 60% 95%;
+  --accent-foreground: 231 48% 40%;
+
+  /* Destructive */
+  --destructive: 0 84% 60%;
+  --destructive-foreground: 0 0% 100%;
+
+  /* Borders / inputs */
+  --border: 220 13% 91%;
+  --input: 220 13% 91%;
+  --ring: 231 48% 48%;
+
+  /* Radius — Stripe uses 6-8px, crisp */
+  --radius: 0.5rem;
 }
 
 * {
@@ -32,18 +49,24 @@
 html,
 body {
   min-height: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 body {
-  @apply bg-background text-foreground antialiased;
-  background-image: radial-gradient(circle at 20% 10%, rgba(255, 214, 153, 0.3) 0%, rgba(255, 214, 153, 0) 35%),
-    radial-gradient(circle at 85% 0%, rgba(66, 196, 179, 0.2) 0%, rgba(66, 196, 179, 0) 40%);
+  @apply bg-background text-foreground;
 }
 
 html[dir="rtl"] body {
   font-family: var(--font-ar), var(--font-main), sans-serif;
 }
 
+/* Surface = white card with crisp 1px border */
 .surface {
-  @apply rounded-2xl bg-white shadow-soft ring-1 ring-black/5;
+  @apply rounded-lg bg-white ring-1 ring-border;
+}
+
+/* Chip / pill button — reusable base */
+.chip {
+  @apply inline-flex items-center rounded-full border border-border bg-white px-3.5 py-1 text-sm font-medium text-foreground shadow-sm transition-colors hover:border-primary/40 hover:bg-primary/5 hover:text-primary;
 }

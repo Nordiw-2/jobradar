@@ -9,7 +9,7 @@ export const text = {
     appName: "JobRadar.ma",
     searchPlaceholder: "Cherche un job, ex: caissier, stage, Rabat",
     saved: "Sauvegardes",
-    language: "Darija",
+    language: "العربية",
     homeTitle: "Ton radar emploi du jour",
     homeSubtitle: "Simple, clair, rapide. Trouve puis postule sur la source officielle.",
     todayForYou: "nouvelles offres pour toi aujourd'hui",

@@ -1,13 +1,14 @@
 import type { Metadata } from "next";
-import { Cairo, Manrope } from "next/font/google";
+import { Plus_Jakarta_Sans, Cairo } from "next/font/google";
 import { Suspense, type ReactNode } from "react";
+import Script from "next/script";
 import { Analytics } from "@vercel/analytics/next";
 import "@/app/globals.css";
 import { LanguageProvider } from "@/components/language-provider";
 import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
 
-const manrope = Manrope({
+const googleSans = Plus_Jakarta_Sans({
   subsets: ["latin"],
   variable: "--font-main",
   weight: ["400", "500", "600", "700", "800"]
@@ -41,9 +42,20 @@ export const metadata: Metadata = {
 };
 
 export default function RootLayout({ children }: Readonly<{ children: ReactNode }>) {
+  const adsenseId = process.env.NEXT_PUBLIC_ADSENSE_ID;
   return (
-    <html lang="fr" suppressHydrationWarning>
-      <body className={`${manrope.variable} ${cairo.variable} font-[var(--font-main)]`}>
+    <html lang="fr" suppressHydrationWarning className={`${googleSans.variable} ${cairo.variable}`}>
+      <head>
+        {adsenseId ? (
+          <Script
+            async
+            src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adsenseId}`}
+            crossOrigin="anonymous"
+            strategy="afterInteractive"
+          />
+        ) : null}
+      </head>
+      <body className="font-sans antialiased">
         <LanguageProvider>
           <div className="min-h-screen">
             <Suspense fallback={<div className="h-16 border-b border-border/80 bg-background/95" />}>

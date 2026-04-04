@@ -34,48 +34,60 @@ export function SiteHeader() {
   }
 
   return (
-    <header className="sticky top-0 z-40 border-b border-border/80 bg-background/95 backdrop-blur">
-      <div className="container flex h-16 items-center gap-3">
-        <Link href="/" className="flex items-center gap-2 font-bold tracking-tight text-primary">
-          <Sparkles className="h-5 w-5" />
+    <header className="sticky top-0 z-40 border-b border-border bg-white/95 backdrop-blur supports-[backdrop-filter]:bg-white/80">
+      <div className="container flex h-14 items-center gap-4">
+        <Link href="/" className="flex shrink-0 items-center gap-2 font-bold tracking-[-0.02em] text-foreground">
+          <span className="flex h-7 w-7 items-center justify-center rounded-md bg-primary text-white">
+            <Sparkles className="h-4 w-4" />
+          </span>
           <span>{t.appName}</span>
         </Link>
 
         <form onSubmit={onSearchSubmit} className="hidden flex-1 items-center gap-2 md:flex">
-          <Input
-            value={query}
-            onChange={(event) => setQuery(event.target.value)}
-            placeholder={t.searchPlaceholder}
-            className="h-10"
-            aria-label={t.searchPlaceholder}
-          />
-          <Button type="submit" size="sm" className="h-10 gap-1">
-            <Search className="h-4 w-4" />
-            Search
+          <div className="relative flex-1">
+            <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
+            <Input
+              value={query}
+              onChange={(event) => setQuery(event.target.value)}
+              placeholder={t.searchPlaceholder}
+              className="pl-9"
+              aria-label={t.searchPlaceholder}
+            />
+          </div>
+          <Button type="submit" size="sm">
+            Rechercher
           </Button>
         </form>
 
         <div className="ml-auto flex items-center gap-2">
-          <Button variant="outline" size="sm" onClick={toggleLang}>
+          <Button variant="ghost" size="sm" onClick={toggleLang} className="text-muted-foreground">
             {t.language}
           </Button>
           <Link href="/saved" className="inline-flex">
-            <Button variant="secondary" size="sm" className="gap-1">
+            <Button variant="outline" size="sm" className="gap-1.5">
               <BookmarkCheck className="h-4 w-4" />
-              {t.saved} ({savedCount})
+              {t.saved}
+              {savedCount > 0 ? (
+                <span className="flex h-4 min-w-[1rem] items-center justify-center rounded-full bg-primary px-1 text-[10px] font-bold text-white">
+                  {savedCount}
+                </span>
+              ) : null}
             </Button>
           </Link>
         </div>
       </div>
       <div className="container pb-3 md:hidden">
         <form onSubmit={onSearchSubmit} className="flex items-center gap-2">
-          <Input
-            value={query}
-            onChange={(event) => setQuery(event.target.value)}
-            placeholder={t.searchPlaceholder}
-            className="h-10"
-            aria-label={t.searchPlaceholder}
-          />
+          <div className="relative flex-1">
+            <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
+            <Input
+              value={query}
+              onChange={(event) => setQuery(event.target.value)}
+              placeholder={t.searchPlaceholder}
+              className="pl-9"
+              aria-label={t.searchPlaceholder}
+            />
+          </div>
           <Button type="submit" size="icon" aria-label="Search">
             <Search className="h-4 w-4" />
           </Button>

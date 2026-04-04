@@ -1,12 +1,12 @@
 "use client";
 
 import Link from "next/link";
-import { ArrowRight, Flame, MapPinned, Siren } from "lucide-react";
+import { ArrowRight, Briefcase, MapPin, Siren, Zap } from "lucide-react";
 import { MOROCCAN_CITIES, TRENDING_INTENTS } from "@/lib/constants";
 import { Button } from "@/components/ui/button";
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { JobCard } from "@/components/job-card";
+import { NewsletterWidget } from "@/components/newsletter-widget";
 import { useText } from "@/components/language-provider";
 import { toSlug } from "@/lib/seo";
 import type { Job } from "@/lib/types";
@@ -15,102 +15,120 @@ type HomePageProps = {
   newTodayCount: number;
   newTodayJobs: Job[];
   closingSoonJobs: Job[];
+  newsletterStatus?: string;
 };
 
-export function HomePage({ newTodayCount, newTodayJobs, closingSoonJobs }: HomePageProps) {
+export function HomePage({ newTodayCount, newTodayJobs, closingSoonJobs, newsletterStatus }: HomePageProps) {
   const t = useText();
 
   return (
-    <div className="space-y-8 pb-10">
-      <section className="surface overflow-hidden p-6 md:p-8">
-        <div className="grid gap-6 md:grid-cols-[1.3fr,1fr] md:items-center">
-          <div className="space-y-4">
-            <h1 className="text-3xl font-extrabold tracking-tight text-primary md:text-4xl">{t.homeTitle}</h1>
-            <p className="max-w-xl text-muted-foreground">{t.homeSubtitle}</p>
-            <div className="inline-flex items-center rounded-full bg-secondary px-4 py-2 text-sm font-semibold">
-              {newTodayCount} {t.todayForYou}
-            </div>
-            <div className="flex flex-wrap gap-2">
-              <Link href="/search?sort=newest">
-                <Button size="lg" className="gap-2">
-                  Explorer maintenant <ArrowRight className="h-4 w-4" />
-                </Button>
-              </Link>
-              <Link href="/saved">
-                <Button size="lg" variant="outline">
-                  {t.saved}
-                </Button>
-              </Link>
-            </div>
+    <div className="space-y-12 pb-16">
+      {/* Hero */}
+      <section className="pt-8 pb-4">
+        <div className="max-w-2xl space-y-5">
+          <div className="inline-flex items-center gap-2 rounded-full border border-primary/20 bg-primary/5 px-3 py-1 text-xs font-semibold text-primary">
+            <Zap className="h-3 w-3" />
+            {newTodayCount} {t.todayForYou}
           </div>
-          <Card className="bg-gradient-to-br from-primary/10 to-accent/30">
-            <CardHeader className="pb-2">
-              <CardTitle className="flex items-center gap-2 text-base">
-                <Flame className="h-4 w-4 text-primary" />
-                {t.trending}
-              </CardTitle>
-            </CardHeader>
-            <CardContent className="flex flex-wrap gap-2">
-              {TRENDING_INTENTS.map((intent) => {
-                const params = new URLSearchParams({ q: intent.q });
-                if ("source" in intent) {
-                  params.set("source", intent.source);
-                }
-                return (
-                  <Link key={intent.label} href={`/search?${params.toString()}`}>
-                    <Button variant="secondary" size="sm">
-                      {intent.label}
-                    </Button>
-                  </Link>
-                );
-              })}
-            </CardContent>
-          </Card>
+          <h1 className="text-4xl font-extrabold tracking-[-0.03em] text-foreground md:text-5xl">
+            {t.homeTitle}
+          </h1>
+          <p className="text-lg text-muted-foreground leading-relaxed">
+            {t.homeSubtitle}
+          </p>
+          <div className="flex flex-wrap gap-3">
+            <Link href="/search?sort=newest">
+              <Button size="lg" className="gap-2 shadow-sm">
+                Explorer les offres <ArrowRight className="h-4 w-4" />
+              </Button>
+            </Link>
+            <Link href="/teletravail">
+              <Button size="lg" variant="outline" className="gap-2">
+                Télétravail
+              </Button>
+            </Link>
+          </div>
         </div>
       </section>
 
+      {/* Newsletter */}
+      <NewsletterWidget status={newsletterStatus} />
+
+      {/* Trending searches */}
       <section className="space-y-3">
-        <h2 className="flex items-center gap-2 text-lg font-semibold">
-          <MapPinned className="h-5 w-5 text-primary" />
+        <p className="text-xs font-semibold uppercase tracking-wider text-muted-foreground">
+          {t.trending}
+        </p>
+        <div className="flex flex-wrap gap-2">
+          {TRENDING_INTENTS.map((intent) => {
+            const params = new URLSearchParams({ q: intent.q });
+            if ("source" in intent) params.set("source", intent.source);
+            return (
+              <Link key={intent.label} href={`/search?${params.toString()}`}>
+                <button className="chip">
+                  {intent.label}
+                </button>
+              </Link>
+            );
+          })}
+        </div>
+      </section>
+
+      {/* City quick-pick */}
+      <section className="space-y-3">
+        <p className="flex items-center gap-2 text-xs font-semibold uppercase tracking-wider text-muted-foreground">
+          <MapPin className="h-3.5 w-3.5" />
           {t.cityPick}
-        </h2>
+        </p>
         <div className="flex flex-wrap gap-2">
           {MOROCCAN_CITIES.map((city) => (
             <Link key={city} href={`/ville/${toSlug(city)}`}>
-              <Button variant="outline" size="sm">
-                {city}
-              </Button>
+              <button className="chip">{city}</button>
             </Link>
           ))}
         </div>
       </section>
 
+      {/* Job tabs */}
       <section className="space-y-4">
+        <div className="flex items-center gap-2">
+          <Briefcase className="h-4 w-4 text-muted-foreground" />
+          <h2 className="font-semibold tracking-[-0.01em]">{t.newToday}</h2>
+        </div>
         <Tabs defaultValue="new" className="space-y-4">
-          <TabsList>
-            <TabsTrigger value="new">{t.newToday}</TabsTrigger>
-            <TabsTrigger value="closing">{t.closingSoon}</TabsTrigger>
+          <TabsList className="h-9 rounded-lg bg-muted p-1">
+            <TabsTrigger value="new" className="rounded-md px-4 text-sm">{t.newToday}</TabsTrigger>
+            <TabsTrigger value="closing" className="rounded-md px-4 text-sm">{t.closingSoon}</TabsTrigger>
           </TabsList>
           <TabsContent value="new">
-            <div className="grid gap-4 md:grid-cols-2">
+            <div className="grid gap-3 md:grid-cols-2">
               {newTodayJobs.slice(0, 4).map((job) => (
                 <JobCard key={job.id} job={job} />
               ))}
             </div>
+            <div className="mt-4 text-center">
+              <Link href="/search?sort=newest">
+                <Button variant="outline" className="gap-2">
+                  Voir toutes les offres <ArrowRight className="h-4 w-4" />
+                </Button>
+              </Link>
+            </div>
           </TabsContent>
           <TabsContent value="closing">
-            <h2 className="mb-3 flex items-center gap-2 text-xl font-semibold">
-              <Siren className="h-5 w-5 text-primary" />
-              {t.closingSoon}
-            </h2>
+            <div className="flex items-center gap-2 mb-3">
+              <Siren className="h-4 w-4 text-amber-500" />
+              <h2 className="font-semibold tracking-[-0.01em]">{t.closingSoon}</h2>
+            </div>
             {closingSoonJobs.length ? (
-              <div className="grid gap-4 md:grid-cols-2">
+              <div className="grid gap-3 md:grid-cols-2">
                 {closingSoonJobs.map((job) => (
                   <JobCard key={job.id} job={job} />
                 ))}
               </div>
             ) : (
-              <div className="surface p-6 text-sm text-muted-foreground">Rien d&apos;urgent pour le moment.</div>
+              <div className="rounded-lg border border-border bg-muted/40 p-8 text-center text-sm text-muted-foreground">
+                Rien d&apos;urgent pour le moment.
+              </div>
             )}
           </TabsContent>
         </Tabs>

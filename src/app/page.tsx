@@ -8,7 +8,9 @@ type HomeRouteProps = {
 };
 
 export default async function Page({ searchParams }: HomeRouteProps) {
-  const { fresh } = parseFilters((await searchParams) ?? {});
+  const params = (await searchParams) ?? {};
+  const { fresh } = parseFilters(params);
+  const newsletterStatus = typeof params.newsletter === "string" ? params.newsletter : undefined;
   const jobs = await getJobs({ fresh });
   const newTodayCount = getNewTodayCount(jobs);
   const newTodayJobs = jobs.slice(0, 8);
@@ -19,6 +21,7 @@ export default async function Page({ searchParams }: HomeRouteProps) {
       newTodayCount={newTodayCount}
       newTodayJobs={newTodayJobs}
       closingSoonJobs={closingSoonJobs}
+      newsletterStatus={newsletterStatus}
     />
   );
 }
