@@ -1,14 +1,17 @@
 {
-  "updatedAt": "2026-06-27T08:04:28.984Z",
+  "updatedAt": "2026-06-28T08:27:35.819Z",
   "total": 101,
   "cities": [
     "Agadir",
+    "Al Hoceima",
     "Berrechid",
     "Bouskoura",
     "Casablanca",
     "El Jadida",
+    "Errachidia",
     "Fes",
     "Figuig",
+    "Guercif",
     "Had Soualem",
     "Kenitra",
     "Laayoune",
@@ -35,7 +38,6 @@
   "contracts": [
     "CDD",
     "CDI",
-    "Interim",
     "Public",
     "Stage"
   ],
@@ -50,6 +52,8 @@
     "agence pub marketing direct web-marketing",
     "agent commercial",
     "agriculture agroalimentaire peche environnement",
+    "akdital al",
+    "al hoceima",
     "assistant",
     "assistant commercial",
     "assistant dentaire",
@@ -102,6 +106,7 @@
     "e-commerce",
     "el jadida",
     "emploi-maroc",
+    "errachidia",
     "fes",
     "figuig",
     "finance",
@@ -111,6 +116,7 @@
     "globe rh",
     "grand cerame",
     "groupe labelvie carrefour",
+    "guercif",
     "ha collabnombre de postes 1experience demandee moins dun an",
     "had soualem",
     "industriel",
@@ -152,7 +158,6 @@
     "rabat",
     "react",
     "rekrute",
-    "relation client",
     "responsable",
     "responsable commercial",
     "responsable secteur",
@@ -182,8 +187,7 @@
     "temara skhirat",
     "vendeuse",
     "vente",
-    "vuclair international",
-    "yazaki morocco"
+    "vuclair international"
   ],
   "sources": [
     "ANAPEC",
