@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T08:03:12.686Z",
+  "updatedAt": "2026-07-05T08:12:55.285Z",
   "total": 99,
   "cities": [
     "Agadir",
@@ -11,7 +11,6 @@
     "Kenitra",
     "Marrakech",
     "Meknes",
-    "Nador",
     "Ouarzazate",
     "Oujda",
     "Rabat",
@@ -31,6 +30,7 @@
   "contracts": [
     "CDD",
     "CDI",
+    "Freelance",
     "Public",
     "Stage"
   ],
@@ -46,8 +46,8 @@
     "agriculture agroalimentaire peche environnement",
     "aide comptable",
     "airnova",
+    "akdital",
     "alh holding",
-    "alten maroc",
     "architecte",
     "assistant",
     "assistant commercial",
@@ -124,7 +124,6 @@
     "menabiliat sud",
     "menasteel",
     "mivara agency",
-    "nador",
     "node",
     "novadesk",
     "novojob",
@@ -138,6 +137,7 @@
     "rabat",
     "react",
     "rekrute",
+    "relation client",
     "responsable",
     "responsable comptable",
     "responsable departement",
