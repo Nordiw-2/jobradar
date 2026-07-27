@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T07:44:35.327Z",
+  "updatedAt": "2026-07-27T08:44:35.131Z",
   "total": 100,
   "cities": [
     "Agadir",
@@ -18,7 +18,8 @@
     "SKHIRAT/RABAT",
     "Sala al Jadida",
     "Skhirat",
-    "Tanger"
+    "Tanger",
+    "Tout le Maroc"
   ],
   "categories": [
     "Comptabilite",
@@ -33,7 +34,6 @@
   "contracts": [
     "CDD",
     "CDI",
-    "Freelance",
     "Interim",
     "Public",
     "Stage"
@@ -46,6 +46,7 @@
   ],
   "tags": [
     "account manager",
+    "adviteo",
     "agadir",
     "agent commercial",
     "agent surveillance",
@@ -55,10 +56,8 @@
     "assistant",
     "assistante",
     "assistante administrative",
-    "atlas online",
     "autres",
     "beni mellal",
-    "bouderka",
     "bureau detudes ingenierie",
     "cac centrale automobile cherifienne",
     "caissier",
@@ -68,6 +67,7 @@
     "charge administration",
     "charge relation",
     "cid sala al",
+    "clayens np morocco",
     "commerce distribution",
     "commercial",
     "commerciale",
@@ -76,6 +76,7 @@
     "comptable",
     "concours",
     "confidentiel",
+    "confidentiel tout le",
     "consult it",
     "consultant",
     "controleur gestion",
@@ -127,13 +128,12 @@
     "mohammedia",
     "node",
     "novojob",
+    "oceane consulting it maroc",
     "offres-emploi",
     "orchid island real estate",
-    "orh assessment",
     "oujda",
     "pascal bioprogreen",
     "public",
-    "pwc",
     "rabat",
     "rabat beni mellal t consult",
     "rabattemara",
@@ -154,6 +154,7 @@
     "sante",
     "service client",
     "services",
+    "sfm",
     "skhirat",
     "skhiratrabat",
     "stage",
@@ -168,6 +169,7 @@
     "technicien maintenance",
     "technicien maintenance industrielle",
     "technico commercial",
+    "tout le maroc",
     "vente",
     "webmaster"
   ],
