@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-01T07:36:39.866Z",
-  "total": 98,
+  "updatedAt": "2026-08-02T07:40:01.611Z",
+  "total": 99,
   "cities": [
     "AGADIR SOUSS MASSA",
     "Agadir",
@@ -113,6 +113,7 @@
     "groupe scolaire afdal oujda",
     "ha collabnombre de postes 1experience demandee moins dun an",
     "heomi",
+    "hespress",
     "hotellerie restauration",
     "immobilier promoteur agence",
     "industriel",
@@ -139,6 +140,7 @@
     "nador",
     "node",
     "novec sale",
+    "novec tout le",
     "novojob",
     "offres-emploi",
     "orchid island real estate",
@@ -148,7 +150,6 @@
     "rabat",
     "react",
     "rekrute",
-    "relation client",
     "remote",
     "responsable",
     "responsable commercial",
@@ -177,7 +178,8 @@
     "technico commercial",
     "technopolis",
     "tout le maroc",
-    "vente"
+    "vente",
+    "vital fer"
   ],
   "sources": [
     "ANAPEC",
