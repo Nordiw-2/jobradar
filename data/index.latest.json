@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T07:40:01.611Z",
+  "updatedAt": "2026-08-03T08:40:28.094Z",
   "total": 99,
   "cities": [
     "AGADIR SOUSS MASSA",
@@ -7,6 +7,7 @@
     "Bouskoura",
     "Casablanca",
     "DEROUA",
+    "Dakhla",
     "Fes",
     "Kenitra",
     "Luneburg",
@@ -21,7 +22,6 @@
     "SUD",
     "Salé",
     "Tanger",
-    "Technopolis",
     "Tout le Maroc",
     "souss massa"
   ],
@@ -90,6 +90,7 @@
     "concours",
     "confidentiel",
     "consultant",
+    "dakhla",
     "debutant",
     "deroua",
     "developpeur",
@@ -113,7 +114,6 @@
     "groupe scolaire afdal oujda",
     "ha collabnombre de postes 1experience demandee moins dun an",
     "heomi",
-    "hespress",
     "hotellerie restauration",
     "immobilier promoteur agence",
     "industriel",
@@ -139,8 +139,6 @@
     "menabiliat sud",
     "nador",
     "node",
-    "novec sale",
-    "novec tout le",
     "novojob",
     "offres-emploi",
     "orchid island real estate",
@@ -176,7 +174,6 @@
     "technicien",
     "technicien electromecanicien",
     "technico commercial",
-    "technopolis",
     "tout le maroc",
     "vente",
     "vital fer"
