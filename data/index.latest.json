@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T05:53:31.575Z",
+  "updatedAt": "2026-08-09T05:55:36.319Z",
   "total": 101,
   "cities": [
     "AGADIR SOUSS MASSA",
@@ -64,6 +64,7 @@
     "btp genie civil vrd",
     "bureau detudes ingenierie",
     "caissier",
+    "capgemini engineering",
     "cariste",
     "casablanca",
     "cdg capital",
@@ -82,7 +83,6 @@
     "concessionnaire",
     "concours",
     "confidentiel",
-    "crit",
     "crit kenitra",
     "debutant",
     "deroua",
@@ -119,6 +119,7 @@
     "magasinier",
     "manpower agences",
     "marketing",
+    "marketing call center",
     "maroc",
     "marrakech",
     "mecanicien",
@@ -151,7 +152,6 @@
     "skhirate",
     "sodisma",
     "sofrecom maroc",
-    "sol30",
     "souss massa",
     "stage",
     "stock froid",
@@ -168,7 +168,8 @@
     "tetouan",
     "tmsa",
     "topographe",
-    "vente"
+    "vente",
+    "vital fer ait melloul region"
   ],
   "sources": [
     "ANAPEC",
