@@ -1,7 +1,367 @@
 {
-  "updatedAt": "2026-10-31T10:53:25.886Z",
+  "updatedAt": "2026-11-01T11:47:53.848Z",
   "total": 99,
   "jobs": [
+    {
+      "id": "56a3cfb7b7faec8d",
+      "title": "Agente Backoffice Italofono (BONUS DI BENVENUTO DI 1000DH) - Weekend OFF",
+      "company": "Marketing Call Center",
+      "city": "Rabat",
+      "contract": "CDI",
+      "experience": "0",
+      "salary": "1000DH",
+      "remote": "Unknown",
+      "category": "Tech",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-agente-backoffice-italofono-bonus-di-benvenuto-di-1000dh---weekend-off-recrutement-marketing-call-center-rabat-188085.html",
+      "sourceId": "offre-emploi-agente-backoffice-italofono-bonus-di-benvenuto-di-1000dh---weekend-off-recrutement-marketing-call-center-rabat-188085.html",
+      "tags": [
+        "rekrute",
+        "marketing call center",
+        "rabat",
+        "tech"
+      ],
+      "ourSnippet": "Poste de Agente Backoffice Italofono (BONUS DI BENVENUTO DI 1000DH) - Weekend OFF a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "agente backoffice italofono bonus di benvenuto di 1000dh - weekend off|marketing call center|rabat",
+      "createdAt": "2026-11-01T11:47:53.848Z"
+    },
+    {
+      "id": "6017ae11d79b87a2",
+      "title": "Technicien laboratoire-inorganique – Agadir, RESPONSABLE RH",
+      "company": "RESPONSABLE RH",
+      "city": "Agadir",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-10-31T23:24:24.000Z",
+      "source": "EMPLOI_MAROC",
+      "sourceUrl": "https://www.emplois.co/technicien-laboratoire-inorganique-agadir-responsable-rh",
+      "sourceId": "technicien-laboratoire-inorganique-agadir-responsable-rh",
+      "tags": [
+        "emploi-maroc",
+        "rss",
+        "agriculture agroalimentaire peche environnement",
+        "agadir",
+        "technicien",
+        "technicien laboratoire",
+        "responsable rh",
+        "general"
+      ],
+      "ourSnippet": "Poste de Technicien laboratoire-inorganique – Agadir, RESPONSABLE RH a Agadir. Consulte l'annonce et postule via la source (Emplois.co).",
+      "trust": {
+        "level": "Verified",
+        "score": 84,
+        "reasons": [
+          "Plateforme emploi marocaine",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "technicien laboratoire-inorganique agadir responsable rh|responsable rh|agadir",
+      "createdAt": "2026-11-01T11:47:53.848Z"
+    },
+    {
+      "id": "e460d31ff3501eee",
+      "title": "Technicien laboratoire-inorganique",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-10-31T23:24:24.000Z",
+      "source": "OFFRES_EMPLOI",
+      "sourceUrl": "https://www.emplois.co/technicien-laboratoire-inorganique-agadir-responsable-rh",
+      "sourceId": "technicien-laboratoire-inorganique-agadir-responsable-rh",
+      "tags": [
+        "offres-emploi",
+        "rss",
+        "general"
+      ],
+      "ourSnippet": "Poste de Technicien laboratoire-inorganique au Maroc. Consulte l'annonce et postule via la source (Offres-emploi.ma).",
+      "trust": {
+        "level": "Verified",
+        "score": 64,
+        "reasons": [
+          "Moteur emploi aggregateur",
+          "Entreprise absente",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "technicien laboratoire-inorganique",
+      "createdAt": "2026-11-01T11:47:53.848Z"
+    },
+    {
+      "id": "c59efb9fc8eba5e9",
+      "title": "Adjoint Manager de Rayon Boulangerie/Pâtisserie 1",
+      "company": "Groupe Labelvie Carrefour",
+      "city": "Agadir",
+      "contract": "CDI",
+      "experience": "1-3",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-adjoint-manager-de-rayon-boulangeriepatisserie-1-recrutement-groupe-labelvie---carrefour-agadir-188082.html",
+      "sourceId": "offre-emploi-adjoint-manager-de-rayon-boulangeriepatisserie-1-recrutement-groupe-labelvie---carrefour-agadir-188082.html",
+      "tags": [
+        "rekrute",
+        "groupe labelvie carrefour",
+        "agadir",
+        "general"
+      ],
+      "ourSnippet": "Poste de Adjoint Manager de Rayon Boulangerie/Pâtisserie 1 a Agadir. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "adjoint manager de rayon boulangeriepatisserie 1|groupe labelvie carrefour|agadir",
+      "createdAt": "2026-11-01T11:47:53.848Z"
+    },
+    {
+      "id": "04b7a2d143417cce",
+      "title": "Adjoint Manager de Rayon Boulangerie/Pâtisserie 1 1",
+      "company": "Groupe Labelvie Carrefour Tanger Et",
+      "city": "Tanger",
+      "contract": "CDI",
+      "experience": "1-3",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-adjoint-manager-de-rayon-boulangeriepatisserie-1-1-recrutement-groupe-labelvie---carrefour-tanger-et-peripherie-188084.html",
+      "sourceId": "offre-emploi-adjoint-manager-de-rayon-boulangeriepatisserie-1-1-recrutement-groupe-labelvie---carrefour-tanger-et-peripherie-188084.html",
+      "tags": [
+        "rekrute",
+        "groupe labelvie carrefour tanger et",
+        "tanger",
+        "general"
+      ],
+      "ourSnippet": "Poste de Adjoint Manager de Rayon Boulangerie/Pâtisserie 1 1 a Tanger. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "adjoint manager de rayon boulangeriepatisserie 1 1|groupe labelvie carrefour tanger et|tanger",
+      "createdAt": "2026-11-01T11:47:53.848Z"
+    },
+    {
+      "id": "1b52bf81a425de3f",
+      "title": "Chargé Technique actifs",
+      "company": "Groupe Labelvie Carrefour",
+      "city": "Casablanca",
+      "contract": "CDI",
+      "experience": "3-5",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-charge-technique-actifs-recrutement-groupe-labelvie---carrefour-temara-188081.html",
+      "sourceId": "offre-emploi-charge-technique-actifs-recrutement-groupe-labelvie---carrefour-temara-188081.html",
+      "tags": [
+        "rekrute",
+        "groupe labelvie carrefour",
+        "casablanca",
+        "general"
+      ],
+      "ourSnippet": "Poste de Chargé Technique actifs a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "charge technique actifs|groupe labelvie carrefour|casablanca",
+      "createdAt": "2026-11-01T11:47:53.848Z"
+    },
+    {
+      "id": "98467e047411b7e3",
+      "title": "Manager de Rayon APLS (Autres Produits Libre Service) 1",
+      "company": "Groupe Labelvie Carrefour Sale Rabat Sale Kenitra",
+      "city": "Rabat",
+      "contract": "CDI",
+      "experience": "1-3",
+      "remote": "Unknown",
+      "category": "Tech",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-manager-de-rayon-apls-autres-produits-libre-service-1-recrutement-groupe-labelvie---carrefour-sale-rabat-sale-kenitra-maroc-188083.html",
+      "sourceId": "offre-emploi-manager-de-rayon-apls-autres-produits-libre-service-1-recrutement-groupe-labelvie---carrefour-sale-rabat-sale-kenitra-maroc-188083.html",
+      "tags": [
+        "rekrute",
+        "groupe labelvie carrefour sale rabat sale kenitra",
+        "rabat",
+        "tech"
+      ],
+      "ourSnippet": "Poste de Manager de Rayon APLS (Autres Produits Libre Service) 1 a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "manager de rayon apls autres produits libre service 1|groupe labelvie carrefour sale rabat sale kenitra|rabat",
+      "createdAt": "2026-11-01T11:47:53.848Z"
+    },
+    {
+      "id": "a6ff12cd1347c7cd",
+      "title": "Finance Business Partner",
+      "company": "Groupe Labelvie Carrefour",
+      "city": "Fes",
+      "contract": "CDI",
+      "experience": "1-3",
+      "remote": "Unknown",
+      "category": "Comptabilite",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-finance-business-partner-recrutement-groupe-labelvie---carrefour-fes-188078.html",
+      "sourceId": "offre-emploi-finance-business-partner-recrutement-groupe-labelvie---carrefour-fes-188078.html",
+      "tags": [
+        "rekrute",
+        "groupe labelvie carrefour",
+        "fes",
+        "comptabilite"
+      ],
+      "ourSnippet": "Poste de Finance Business Partner a Fes. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "finance business partner|groupe labelvie carrefour|fes",
+      "createdAt": "2026-11-01T11:47:53.848Z"
+    },
+    {
+      "id": "a7dd6a278f11ce96",
+      "title": "Manager de rayon maison",
+      "company": "Groupe Labelvie Carrefour",
+      "city": "Casablanca",
+      "contract": "CDI",
+      "experience": "1-3",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-manager-de-rayon-maison-recrutement-groupe-labelvie---carrefour-casablanca-188080.html",
+      "sourceId": "offre-emploi-manager-de-rayon-maison-recrutement-groupe-labelvie---carrefour-casablanca-188080.html",
+      "tags": [
+        "rekrute",
+        "groupe labelvie carrefour",
+        "casablanca",
+        "general"
+      ],
+      "ourSnippet": "Poste de Manager de rayon maison a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "manager de rayon maison|groupe labelvie carrefour|casablanca",
+      "createdAt": "2026-11-01T11:47:53.848Z"
+    },
+    {
+      "id": "100871fa3a82aa72",
+      "title": "Finance Business Partner",
+      "company": "Groupe Labelvie Carrefour",
+      "city": "Casablanca",
+      "contract": "CDI",
+      "experience": "1-3",
+      "remote": "Unknown",
+      "category": "Comptabilite",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-finance-business-partner-recrutement-groupe-labelvie---carrefour-casablanca-188079.html",
+      "sourceId": "offre-emploi-finance-business-partner-recrutement-groupe-labelvie---carrefour-casablanca-188079.html",
+      "tags": [
+        "rekrute",
+        "groupe labelvie carrefour",
+        "casablanca",
+        "comptabilite"
+      ],
+      "ourSnippet": "Poste de Finance Business Partner a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "finance business partner|groupe labelvie carrefour|casablanca",
+      "createdAt": "2026-11-01T11:47:53.848Z"
+    },
+    {
+      "id": "1c3bd0a6b3334499",
+      "title": "Manager de rayon multimédia, image et son",
+      "company": "Groupe Labelvie Carrefour",
+      "city": "Meknes",
+      "contract": "CDI",
+      "experience": "1-3",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-manager-de-rayon-multimedia-image-et-son-recrutement-groupe-labelvie---carrefour-meknes-188077.html",
+      "sourceId": "offre-emploi-manager-de-rayon-multimedia-image-et-son-recrutement-groupe-labelvie---carrefour-meknes-188077.html",
+      "tags": [
+        "rekrute",
+        "groupe labelvie carrefour",
+        "meknes",
+        "general"
+      ],
+      "ourSnippet": "Poste de Manager de rayon multimédia, image et son a Meknes. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "manager de rayon multimedia image et son|groupe labelvie carrefour|meknes",
+      "createdAt": "2026-11-01T11:47:53.848Z"
+    },
     {
       "id": "84eff250e4623b30",
       "title": "Responsable commercial en charge de la prescription – Casablanca, Mall Zellij Distribution (Route de Mediouna)",
@@ -36,7 +396,7 @@
         ]
       },
       "dedupeKey": "responsable commercial en charge de la prescription casablanca mall zellij distribution route de mediouna|mall zellij distribution route de mediouna|casablanca",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "21380a25af6d342f",
@@ -66,7 +426,7 @@
         ]
       },
       "dedupeKey": "responsable commercial en charge de la prescription|casablanca",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "dc04db9b8b883f92",
@@ -101,7 +461,7 @@
         ]
       },
       "dedupeKey": "chef comptable clinique privee casablanca aisse|aisse|casablanca",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "1fd50ff49ab682cc",
@@ -131,7 +491,7 @@
         ]
       },
       "dedupeKey": "chef comptable clinique privee|casablanca",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "f4b6b303445cc662",
@@ -164,7 +524,7 @@
         ]
       },
       "dedupeKey": "media buyer ecommerce fes bromest|bromest|fes",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "e7be8f17dc37fc51",
@@ -191,7 +551,7 @@
         ]
       },
       "dedupeKey": "media buyer ecommerce",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "73949dcf85362e84",
@@ -225,7 +585,7 @@
         ]
       },
       "dedupeKey": "commercial magasin derb omar casablanca global service|global service|casablanca",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "05e42eb398ed4ca5",
@@ -252,7 +612,7 @@
         ]
       },
       "dedupeKey": "commercial magasin derb omar",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "d7aab68235538b31",
@@ -286,7 +646,7 @@
         ]
       },
       "dedupeKey": "stagiaire service qualite casablanca bouskoura-oulad saleh global service|global service|bouskoura-oulad saleh",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "618ffdb568e788f4",
@@ -316,7 +676,7 @@
         ]
       },
       "dedupeKey": "stagiaire service qualite casablanca|casablanca",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "49e2fcf2d413ffac",
@@ -352,7 +712,7 @@
         ]
       },
       "dedupeKey": "responsable commercial casablanca talents partners|talents partners|casablanca",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "7b8d70eb33c36068",
@@ -379,7 +739,7 @@
         ]
       },
       "dedupeKey": "responsable commercial",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "dbd9289350cdd130",
@@ -411,7 +771,7 @@
         ]
       },
       "dedupeKey": "senior planning manager|somagec|casablanca",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "4c42a952b7cf542d",
@@ -444,7 +804,7 @@
         ]
       },
       "dedupeKey": "chargee des achats et approvisionnement hf|pyxel|bouskoura",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "0be9dd35a963fb3e",
@@ -477,7 +837,7 @@
         ]
       },
       "dedupeKey": "ingenieur reseau fh|sofrecom maroc|rabat",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "4aa532ec43580c85",
@@ -510,7 +870,7 @@
         ]
       },
       "dedupeKey": "assistante achats|ingelec|casablanca",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "6d8c5e1c7e1c3e39",
@@ -543,7 +903,7 @@
         ]
       },
       "dedupeKey": "technicien tableautier|ingelec|casablanca",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "f8d9eb3aa44117d0",
@@ -576,7 +936,7 @@
         ]
       },
       "dedupeKey": "chef de projet fh|sofrecom maroc|rabat",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "24f4e6c77c280f91",
@@ -609,7 +969,7 @@
         ]
       },
       "dedupeKey": "ingenieur devops fh|sofrecom maroc|rabat",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "97bc41ee00eba54c",
@@ -642,7 +1002,7 @@
         ]
       },
       "dedupeKey": "controleurse de gestion fh|sofrecom maroc|rabat",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "349516655d0a3148",
@@ -675,7 +1035,7 @@
         ]
       },
       "dedupeKey": "ingenieure genie civil residente|cid chantier du barrage tamri province|agadir",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "3f6dc9b48fbf7b42",
@@ -708,7 +1068,7 @@
         ]
       },
       "dedupeKey": "product owner fh|sofrecom maroc|casablanca",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "c78c91a0485cef9d",
@@ -741,7 +1101,7 @@
         ]
       },
       "dedupeKey": "ingenieur reseau securite fh|sofrecom maroc|rabat",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "3df05efa876e3153",
@@ -774,7 +1134,7 @@
         ]
       },
       "dedupeKey": "coordinateur carrieres|attijariwafa bank|casablanca",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "5ab38075c9e839df",
@@ -807,7 +1167,7 @@
         ]
       },
       "dedupeKey": "chef comptable|crit|casablanca",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "98d6f683e9c7dc67",
@@ -840,7 +1200,7 @@
         ]
       },
       "dedupeKey": "charge moyens generaux et logistique|bank al yousr|casablanca",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "c2e7b4c128425ed0",
@@ -872,7 +1232,7 @@
         ]
       },
       "dedupeKey": "gestionnaire clientele - reseau settat - had soualem hf|attijariwafa bank settat had|settat - had soualem",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "8bf6f3b03c1bfea2",
@@ -905,7 +1265,7 @@
         ]
       },
       "dedupeKey": "directeur juridique et administratif|confidentiel|casablanca",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "381b1085ae784bac",
@@ -938,7 +1298,7 @@
         ]
       },
       "dedupeKey": "responsable controle interne|groupe labelvie carrefour|casablanca",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "3c21665e2bf9fb90",
@@ -971,7 +1331,7 @@
         ]
       },
       "dedupeKey": "chargee daccueil opportunite a ouarzazate et region|saham bank ouarzazate et|ouarzazate et region",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "efaf567d0f6d1cc9",
@@ -1004,7 +1364,7 @@
         ]
       },
       "dedupeKey": "customer service manager|manpower agences|casablanca",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "366d0857f4fa55f0",
@@ -1037,7 +1397,7 @@
         ]
       },
       "dedupeKey": "ingenieure genie civil residente|cid chantier du barrage ain ksob province de|chantier du barrage ain ksob province de benslimane",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "4086cecca29161fa",
@@ -1069,7 +1429,7 @@
         ]
       },
       "dedupeKey": "construction manager|somagec|casablanca",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "8d3a033ca24d1ba2",
@@ -1102,7 +1462,7 @@
         ]
       },
       "dedupeKey": "chargee de developpement rh|cdg|rabat",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "c8978e83623a97bd",
@@ -1135,7 +1495,7 @@
         ]
       },
       "dedupeKey": "conseillerere service client bilingue marche canadien|marketing call center|rabat",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "652f465fbf2ee987",
@@ -1168,7 +1528,7 @@
         ]
       },
       "dedupeKey": "charge de portefeuille hf|fondation arrawaj|essouira",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "3bf401a18c30f0ce",
@@ -1201,7 +1561,7 @@
         ]
       },
       "dedupeKey": "comptable confirme hf|pwc|casablanca",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "2225cb0c1ac9ac07",
@@ -1234,7 +1594,7 @@
         ]
       },
       "dedupeKey": "customer advisor english speaker temara|teleperformance tp|temara",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "488d99ec3029e65f",
@@ -1267,7 +1627,7 @@
         ]
       },
       "dedupeKey": "charge de clientele francophone|teleperformance tp|temara",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "cf66d6c0986dd457",
@@ -1300,7 +1660,7 @@
         ]
       },
       "dedupeKey": "office manager-anglophone|confidentiel|casablanca",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "2ba0e802fdf4fd66",
@@ -1333,7 +1693,7 @@
         ]
       },
       "dedupeKey": "conseiller clientele francophone - centre ville|teleperformance tp|casablanca",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "533c96fd1b413af8",
@@ -1366,301 +1726,7 @@
         ]
       },
       "dedupeKey": "responsable de production|domino hr morocco|casablanca",
-      "createdAt": "2026-10-31T10:53:25.886Z"
-    },
-    {
-      "id": "ef2e26d6c5382996",
-      "title": "Conseiller Juridique confirmé H/F",
-      "company": "Bank Assafa",
-      "city": "Casablanca",
-      "contract": "CDI",
-      "experience": "3-5",
-      "remote": "Unknown",
-      "category": "General",
-      "postedAt": "2026-10-30T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-conseiller-juridique-confirme-hf-recrutement-bank-assafa-casablanca-187903.html",
-      "sourceId": "offre-emploi-conseiller-juridique-confirme-hf-recrutement-bank-assafa-casablanca-187903.html",
-      "tags": [
-        "rekrute",
-        "bank assafa",
-        "casablanca",
-        "general"
-      ],
-      "ourSnippet": "Poste de Conseiller Juridique confirmé H/F a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 89,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "conseiller juridique confirme hf|bank assafa|casablanca",
-      "createdAt": "2026-10-31T10:53:25.886Z"
-    },
-    {
-      "id": "7d25e06889d9919d",
-      "title": "Contrôleur de Gestion Sénior(H/F)",
-      "company": "Axa Services Maroc",
-      "city": "Rabat",
-      "contract": "CDI",
-      "experience": "3-5",
-      "remote": "Unknown",
-      "category": "General",
-      "postedAt": "2026-10-30T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-controleur-de-gestion-seniorhf-recrutement-axa-services-maroc-sale-188056.html",
-      "sourceId": "offre-emploi-controleur-de-gestion-seniorhf-recrutement-axa-services-maroc-sale-188056.html",
-      "tags": [
-        "rekrute",
-        "axa services maroc",
-        "rabat",
-        "general"
-      ],
-      "ourSnippet": "Poste de Contrôleur de Gestion Sénior(H/F) a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 89,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "controleur de gestion seniorhf|axa services maroc|rabat",
-      "createdAt": "2026-10-31T10:53:25.886Z"
-    },
-    {
-      "id": "8eda9fcaa20a2c84",
-      "title": "Conseiller client (f/h) - technique -fès - français",
-      "company": "Concentrix",
-      "city": "Fes",
-      "experience": "1-3",
-      "remote": "Unknown",
-      "category": "General",
-      "postedAt": "2026-10-30T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-conseiller-client-fh---technique--fes---francais-recrutement-concentrix-fes-187414.html",
-      "sourceId": "offre-emploi-conseiller-client-fh---technique--fes---francais-recrutement-concentrix-fes-187414.html",
-      "tags": [
-        "rekrute",
-        "concentrix",
-        "fes",
-        "general"
-      ],
-      "ourSnippet": "Poste de Conseiller client (f/h) - technique -fès - français a Fes. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 89,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "conseiller client fh - technique -fes - francais|concentrix|fes",
-      "createdAt": "2026-10-31T10:53:25.886Z"
-    },
-    {
-      "id": "f22cbae2a0b7e9df",
-      "title": "chargés de clientèle bilingues FR/EN",
-      "company": "Teleperformance Tp",
-      "city": "Temara",
-      "contract": "CDI",
-      "experience": "1-3",
-      "remote": "Unknown",
-      "category": "General",
-      "postedAt": "2026-10-30T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-charges-de-clientele-bilingues-fren-recrutement-teleperformance---tp-temara-188055.html",
-      "sourceId": "offre-emploi-charges-de-clientele-bilingues-fren-recrutement-teleperformance---tp-temara-188055.html",
-      "tags": [
-        "rekrute",
-        "teleperformance tp",
-        "temara",
-        "general"
-      ],
-      "ourSnippet": "Poste de chargés de clientèle bilingues FR/EN a Temara. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 89,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "charges de clientele bilingues fren|teleperformance tp|temara",
-      "createdAt": "2026-10-31T10:53:25.886Z"
-    },
-    {
-      "id": "df91902983789167",
-      "title": "Technicien en Réparation Electronique - Intérim",
-      "company": "Eni Group",
-      "city": "Salé",
-      "experience": "3-5",
-      "remote": "Unknown",
-      "category": "General",
-      "postedAt": "2026-10-30T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-technicien-en-reparation-electronique---interim-recrutement-eni-group-sale-188054.html",
-      "sourceId": "offre-emploi-technicien-en-reparation-electronique---interim-recrutement-eni-group-sale-188054.html",
-      "tags": [
-        "rekrute",
-        "eni group",
-        "sale",
-        "general"
-      ],
-      "ourSnippet": "Poste de Technicien en Réparation Electronique - Intérim a Salé. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 89,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "technicien en reparation electronique - interim|eni group|sale",
-      "createdAt": "2026-10-31T10:53:25.886Z"
-    },
-    {
-      "id": "36628003b816cf5c",
-      "title": "English-Speaking Customer Service Representative (Night Shift)",
-      "company": "Marketing Call Center",
-      "city": "Rabat",
-      "contract": "CDI",
-      "experience": "0",
-      "remote": "Unknown",
-      "category": "General",
-      "postedAt": "2026-10-30T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-english-speaking-customer-service-representative-night-shift-recrutement-marketing-call-center-rabat-187896.html",
-      "sourceId": "offre-emploi-english-speaking-customer-service-representative-night-shift-recrutement-marketing-call-center-rabat-187896.html",
-      "tags": [
-        "rekrute",
-        "marketing call center",
-        "rabat",
-        "general"
-      ],
-      "ourSnippet": "Poste de English-Speaking Customer Service Representative (Night Shift) a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 89,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "english-speaking customer service representative night shift|marketing call center|rabat",
-      "createdAt": "2026-10-31T10:53:25.886Z"
-    },
-    {
-      "id": "ec6d954096964101",
-      "title": "Chargé(e) RH & Paie expérimenté(e) - Intérim",
-      "company": "Eni Group Had",
-      "city": "Had Soualem",
-      "experience": "0",
-      "remote": "Unknown",
-      "category": "General",
-      "postedAt": "2026-10-30T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-chargee-rh-paie-experimentee---interim-recrutement-eni-group-had-soualem-188053.html",
-      "sourceId": "offre-emploi-chargee-rh-paie-experimentee---interim-recrutement-eni-group-had-soualem-188053.html",
-      "tags": [
-        "rekrute",
-        "eni group had",
-        "had soualem",
-        "general"
-      ],
-      "ourSnippet": "Poste de Chargé(e) RH & Paie expérimenté(e) - Intérim a Had Soualem. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 89,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "chargee rh paie experimentee - interim|eni group had|had soualem",
-      "createdAt": "2026-10-31T10:53:25.886Z"
-    },
-    {
-      "id": "f76a027b342b3c86",
-      "title": "Commerciaux Sédentaires – Expert Fibre Optique (H/F)",
-      "company": "Marketing Call Center",
-      "city": "Rabat",
-      "contract": "CDI",
-      "experience": "0",
-      "remote": "Unknown",
-      "category": "General",
-      "postedAt": "2026-10-30T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-commerciaux-sedentaires-expert-fibre-optique-hf-recrutement-marketing-call-center-rabat-187897.html",
-      "sourceId": "offre-emploi-commerciaux-sedentaires-expert-fibre-optique-hf-recrutement-marketing-call-center-rabat-187897.html",
-      "tags": [
-        "rekrute",
-        "marketing call center",
-        "rabat",
-        "general"
-      ],
-      "ourSnippet": "Poste de Commerciaux Sédentaires – Expert Fibre Optique (H/F) a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 89,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "commerciaux sedentaires expert fibre optique hf|marketing call center|rabat",
-      "createdAt": "2026-10-31T10:53:25.886Z"
-    },
-    {
-      "id": "b522b85b8398373e",
-      "title": "Vétérinaire/Chargé Reproduction et Santé équine (H/F)",
-      "company": "Sorec",
-      "city": "Meknes",
-      "contract": "CDI",
-      "experience": "1-3",
-      "remote": "Unknown",
-      "category": "Sante",
-      "postedAt": "2026-10-30T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-veterinairecharge-reproduction-et-sante-equine-hf-recrutement-sorec-meknes-188052.html",
-      "sourceId": "offre-emploi-veterinairecharge-reproduction-et-sante-equine-hf-recrutement-sorec-meknes-188052.html",
-      "tags": [
-        "rekrute",
-        "sorec",
-        "meknes",
-        "sante"
-      ],
-      "ourSnippet": "Poste de Vétérinaire/Chargé Reproduction et Santé équine (H/F) a Meknes. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 89,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "veterinairecharge reproduction et sante equine hf|sorec|meknes",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "03a66d53004c4afb",
@@ -1697,7 +1763,7 @@
         ]
       },
       "dedupeKey": "responsable developpement technico-commercial industrie hf kenitra talencia|talencia|kenitra",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "5f1a54efb9d415f4",
@@ -1724,7 +1790,7 @@
         ]
       },
       "dedupeKey": "responsable developpement technico-commercial industrie hf",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "bce3705618861c67",
@@ -1758,7 +1824,7 @@
         ]
       },
       "dedupeKey": "regleur cnc specialise en decolletage casablanca talents partners|talents partners|casablanca",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "96f9ba2e82f8c2b8",
@@ -1785,7 +1851,7 @@
         ]
       },
       "dedupeKey": "regleur cnc specialise en decolletage",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "09e3a29b071b88d1",
@@ -1818,7 +1884,7 @@
         ]
       },
       "dedupeKey": "expert en demineralisation laayoune bet consulting|bet consulting|laayoune",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "2efd48a0648691ad",
@@ -1845,7 +1911,7 @@
         ]
       },
       "dedupeKey": "expert en demineralisation",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "1ef833ad11a0ef52",
@@ -1879,7 +1945,7 @@
         ]
       },
       "dedupeKey": "ingenieur hydraulicien laayoune bet consulting|bet consulting|laayoune",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "f887ab36c0739eec",
@@ -1906,7 +1972,7 @@
         ]
       },
       "dedupeKey": "ingenieur hydraulicien",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "541fc3be44f3204f",
@@ -1941,7 +2007,7 @@
         ]
       },
       "dedupeKey": "technicien genie rural genie civil grgc laayoune bet consulting|bet consulting|laayoune",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "24356d331b5cbeda",
@@ -1968,7 +2034,7 @@
         ]
       },
       "dedupeKey": "technicien genie rural genie civil grgc",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "48703ae5cef03d0c",
@@ -2003,7 +2069,7 @@
         ]
       },
       "dedupeKey": "ingenieur electromecanicien energie solaire laayoune bet consulting|bet consulting|laayoune",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "034d39f80c5e4d36",
@@ -2030,7 +2096,7 @@
         ]
       },
       "dedupeKey": "ingenieur electromecanicien energie solaire",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "797c76b48d89e6ce",
@@ -2065,7 +2131,7 @@
         ]
       },
       "dedupeKey": "ingenieur genie civil laayoune bet consulting|bet consulting|laayoune",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "0300a22f38663e0c",
@@ -2092,7 +2158,7 @@
         ]
       },
       "dedupeKey": "ingenieur genie civil",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "839647e12afc6a82",
@@ -2127,7 +2193,7 @@
         ]
       },
       "dedupeKey": "chef de mission ingenieur genie rural laayoune bet consulting|bet consulting|laayoune",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "4f1280b08d9670cb",
@@ -2154,7 +2220,7 @@
         ]
       },
       "dedupeKey": "chef de mission ingenieur genie rural",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "c05e0c9e0ce8d655",
@@ -2188,7 +2254,7 @@
         ]
       },
       "dedupeKey": "chargee de formation industrie casablanca talents partners|talents partners|casablanca",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "97111e77a3247c99",
@@ -2215,7 +2281,7 @@
         ]
       },
       "dedupeKey": "chargee de formation industrie",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "d41860bba3844849",
@@ -2249,7 +2315,7 @@
         ]
       },
       "dedupeKey": "superviseurcontroleur gardiennage casablanca gesko|gesko|casablanca",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "09709c82cdd86f0d",
@@ -2279,7 +2345,7 @@
         ]
       },
       "dedupeKey": "superviseurcontroleur gardiennage|casablanca",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "7cab3602d2c16ae9",
@@ -2313,7 +2379,7 @@
         ]
       },
       "dedupeKey": "responsable ressources humaine casablanca gesko|gesko|casablanca",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "917f89dca787963e",
@@ -2340,7 +2406,7 @@
         ]
       },
       "dedupeKey": "responsable ressources humaine",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "7a61f6fc498977d3",
@@ -2373,7 +2439,7 @@
         ]
       },
       "dedupeKey": "resoponsable inorganique agadir responsable rh|responsable rh|agadir",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "8318f81f3f7e2887",
@@ -2403,7 +2469,7 @@
         ]
       },
       "dedupeKey": "resoponsable inorganique|agadir",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "1aabaa24f755fd13",
@@ -2438,7 +2504,7 @@
         ]
       },
       "dedupeKey": "assistante de reception casablanca responsable rh|responsable rh|casablanca",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "45d45d4c55e1ec79",
@@ -2465,7 +2531,7 @@
         ]
       },
       "dedupeKey": "assistante de reception",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "420bb530a555a40a",
@@ -2499,37 +2565,7 @@
         ]
       },
       "dedupeKey": "recrutement barista caissiere a rabat rabat restaurant a rabat|restaurant a rabat|rabat",
-      "createdAt": "2026-10-31T10:53:25.886Z"
-    },
-    {
-      "id": "395f746fa3d86a5d",
-      "title": "Recrutement : barista & caissière a rabat",
-      "city": "Rabat",
-      "remote": "Unknown",
-      "category": "Vente",
-      "postedAt": "2026-10-24T15:51:43.000Z",
-      "source": "OFFRES_EMPLOI",
-      "sourceUrl": "https://www.emplois.co/recrutement-barista-caissiere-a-rabat-rabat-restaurant-a-rabat",
-      "sourceId": "recrutement-barista-caissiere-a-rabat-rabat-restaurant-a-rabat",
-      "tags": [
-        "offres-emploi",
-        "rss",
-        "rabat",
-        "vente"
-      ],
-      "ourSnippet": "Poste de Recrutement : barista & caissière a rabat a Rabat. Consulte l'annonce et postule via la source (Offres-emploi.ma).",
-      "trust": {
-        "level": "Verified",
-        "score": 66,
-        "reasons": [
-          "Moteur emploi aggregateur",
-          "Entreprise absente",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "recrutement barista caissiere a rabat|rabat",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "8b239f7bea8a49cb",
@@ -2563,7 +2599,7 @@
         ]
       },
       "dedupeKey": "responsable prescription-sanitaire casablanca fmd|fmd|casablanca",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "71d07918772e55d5",
@@ -2599,7 +2635,7 @@
         ]
       },
       "dedupeKey": "assistante technique agadir bet consulting|bet consulting|agadir",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "b66e7c8f3db069be",
@@ -2634,7 +2670,7 @@
         ]
       },
       "dedupeKey": "commercial chasseur multi-lots invendus marrakech tanger yguane group|tanger yguane group|marrakech",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "823038ce9af02a46",
@@ -2668,7 +2704,7 @@
         ]
       },
       "dedupeKey": "offre demploi agents de securite hf rabat rh|rh|rabat",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "14bb9b5c6dacf1af",
@@ -2701,7 +2737,7 @@
         ]
       },
       "dedupeKey": "marketing digital publicite temara complexe automobile renov|complexe automobile renov|temara",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "a94a37890705df3c",
@@ -2735,7 +2771,7 @@
         ]
       },
       "dedupeKey": "magasinier secteur industriel skhirate globe rh|globe rh|skhirate",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "4b2f431ed2c907d9",
@@ -2772,7 +2808,7 @@
         ]
       },
       "dedupeKey": "technicien electricien industriel skhirate globe rh|globe rh|skhirate",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "b31908153ea61965",
@@ -2805,42 +2841,7 @@
         ]
       },
       "dedupeKey": "chargee daffaires kenitra kenitra cabrecrute|cabrecrute|kenitra",
-      "createdAt": "2026-10-31T10:53:25.886Z"
-    },
-    {
-      "id": "3a82641dea32edd4",
-      "title": "Commercial projet immobilier – Casablanca, NawzakImmo",
-      "company": "NawzakImmo",
-      "city": "Casablanca",
-      "remote": "Unknown",
-      "category": "Vente",
-      "postedAt": "2026-10-21T16:49:16.000Z",
-      "source": "EMPLOI_MAROC",
-      "sourceUrl": "https://www.emplois.co/commercial-projet-immobilier-casablanca-nawzakimmo",
-      "sourceId": "commercial-projet-immobilier-casablanca-nawzakimmo",
-      "tags": [
-        "emploi-maroc",
-        "rss",
-        "immobilier promoteur agence",
-        "casablanca",
-        "commercial",
-        "commercial immobilier",
-        "nawzakimmo",
-        "vente"
-      ],
-      "ourSnippet": "Poste de Commercial projet immobilier – Casablanca, NawzakImmo a Casablanca. Consulte l'annonce et postule via la source (Emplois.co).",
-      "trust": {
-        "level": "Verified",
-        "score": 84,
-        "reasons": [
-          "Plateforme emploi marocaine",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "commercial projet immobilier casablanca nawzakimmo|nawzakimmo|casablanca",
-      "createdAt": "2026-10-31T10:53:25.886Z"
+      "createdAt": "2026-11-01T11:47:53.848Z"
     },
     {
       "id": "9f6900301d3fe921",
