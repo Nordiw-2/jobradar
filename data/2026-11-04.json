@@ -1,0 +1,3265 @@
+{
+  "updatedAt": "2026-11-04T12:56:53.365Z",
+  "total": 101,
+  "jobs": [
+    {
+      "id": "5b13178a82bcc5d8",
+      "title": "Expert seo – création de contenus – Marrakech, Casablanca, YGUANE GROUP",
+      "company": "Casablanca, YGUANE GROUP",
+      "city": "Marrakech",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-04T10:10:04.000Z",
+      "source": "EMPLOI_MAROC",
+      "sourceUrl": "https://www.emplois.co/expert-seo-creation-de-contenus-marrakech-casablanca-yguane-group",
+      "sourceId": "expert-seo-creation-de-contenus-marrakech-casablanca-yguane-group",
+      "tags": [
+        "emploi-maroc",
+        "rss",
+        "e-commerce",
+        "casablanca",
+        "marrakech",
+        "casablanca yguane group",
+        "general"
+      ],
+      "ourSnippet": "Poste de Expert seo – création de contenus – Marrakech, Casablanca, YGUANE GROUP a Marrakech. Consulte l'annonce et postule via la source (Emplois.co).",
+      "trust": {
+        "level": "Verified",
+        "score": 84,
+        "reasons": [
+          "Plateforme emploi marocaine",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "expert seo creation de contenus marrakech casablanca yguane group|casablanca yguane group|marrakech",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "1c5727e52c915243",
+      "title": "Expert seo – création de contenus",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-04T10:10:04.000Z",
+      "source": "OFFRES_EMPLOI",
+      "sourceUrl": "https://www.emplois.co/expert-seo-creation-de-contenus-marrakech-casablanca-yguane-group",
+      "sourceId": "expert-seo-creation-de-contenus-marrakech-casablanca-yguane-group",
+      "tags": [
+        "offres-emploi",
+        "rss",
+        "general"
+      ],
+      "ourSnippet": "Poste de Expert seo – création de contenus au Maroc. Consulte l'annonce et postule via la source (Offres-emploi.ma).",
+      "trust": {
+        "level": "Verified",
+        "score": 64,
+        "reasons": [
+          "Moteur emploi aggregateur",
+          "Entreprise absente",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "expert seo creation de contenus",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "f9a545999c8fca34",
+      "title": "Comptable",
+      "company": "Crit",
+      "city": "Casablanca",
+      "contract": "CDI",
+      "experience": "0",
+      "remote": "Unknown",
+      "category": "Comptabilite",
+      "postedAt": "2026-11-04T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-comptable-recrutement-crit-casablanca-188213.html",
+      "sourceId": "offre-emploi-comptable-recrutement-crit-casablanca-188213.html",
+      "tags": [
+        "rekrute",
+        "crit",
+        "casablanca",
+        "comptabilite"
+      ],
+      "ourSnippet": "Poste de Comptable a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "comptable|crit|casablanca",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "ec73c29ed2a4a60a",
+      "title": "Cost Controller (PEC) – Vie Série",
+      "company": "Alten Maroc",
+      "city": "Rabat",
+      "contract": "CDI",
+      "experience": "1-3",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-04T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-cost-controller-pec-vie-serie-recrutement-alten-maroc-rabat-188212.html",
+      "sourceId": "offre-emploi-cost-controller-pec-vie-serie-recrutement-alten-maroc-rabat-188212.html",
+      "tags": [
+        "rekrute",
+        "alten maroc",
+        "rabat",
+        "general"
+      ],
+      "ourSnippet": "Poste de Cost Controller (PEC) – Vie Série a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "cost controller pec vie serie|alten maroc|rabat",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "25f279b2c377dce9",
+      "title": "Directeur Financier (H/F)",
+      "company": "Confidentiel",
+      "city": "Casablanca",
+      "contract": "CDI",
+      "experience": "5+",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-04T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-directeur-financier-hf-recrutement-confidentiel-casablanca-188211.html",
+      "sourceId": "offre-emploi-directeur-financier-hf-recrutement-confidentiel-casablanca-188211.html",
+      "tags": [
+        "rekrute",
+        "confidentiel",
+        "casablanca",
+        "general"
+      ],
+      "ourSnippet": "Poste de Directeur Financier (H/F) a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "directeur financier hf|confidentiel|casablanca",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "87b8ef4657197035",
+      "title": "Agent de sécurité",
+      "company": "Confidentiel",
+      "city": "Casablanca",
+      "contract": "CDI",
+      "experience": "3-5",
+      "remote": "Unknown",
+      "category": "Tech",
+      "postedAt": "2026-11-04T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-agent-de-securite-recrutement-confidentiel-casablanca-188210.html",
+      "sourceId": "offre-emploi-agent-de-securite-recrutement-confidentiel-casablanca-188210.html",
+      "tags": [
+        "rekrute",
+        "confidentiel",
+        "casablanca",
+        "tech"
+      ],
+      "ourSnippet": "Poste de Agent de sécurité a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "agent de securite|confidentiel|casablanca",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "8b65800ed214bd68",
+      "title": "Responsable service formation en Assurance (H/F) Tanger",
+      "company": "Groupe Vilavi",
+      "city": "Tanger",
+      "contract": "CDI",
+      "experience": "5+",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-04T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-responsable-service-formation-en-assurance-hf-tanger-recrutement-groupe-vilavi-tanger-186752.html",
+      "sourceId": "offre-emploi-responsable-service-formation-en-assurance-hf-tanger-recrutement-groupe-vilavi-tanger-186752.html",
+      "tags": [
+        "rekrute",
+        "groupe vilavi",
+        "tanger",
+        "general"
+      ],
+      "ourSnippet": "Poste de Responsable service formation en Assurance (H/F) Tanger a Tanger. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "responsable service formation en assurance hf tanger|groupe vilavi|tanger",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "79de330a9dbff070",
+      "title": "Commercial(e) Terrain",
+      "company": "Meski Invest Riva Industries",
+      "city": "Fes",
+      "contract": "CDI",
+      "experience": "3-5",
+      "remote": "Unknown",
+      "category": "Vente",
+      "postedAt": "2026-11-04T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-commerciale-terrain-recrutement-meski-invest---riva-industries-fes-188209.html",
+      "sourceId": "offre-emploi-commerciale-terrain-recrutement-meski-invest---riva-industries-fes-188209.html",
+      "tags": [
+        "rekrute",
+        "meski invest riva industries",
+        "fes",
+        "vente"
+      ],
+      "ourSnippet": "Poste de Commercial(e) Terrain a Fes. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "commerciale terrain|meski invest riva industries|fes",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "22c4ca532f5ef557",
+      "title": "Chargé(e) de paie",
+      "company": "Domino Hr Morocco",
+      "city": "Casablanca",
+      "contract": "CDI",
+      "experience": "1-3",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-04T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-chargee-de-paie-recrutement-domino-hr-morocco-casablanca-188208.html",
+      "sourceId": "offre-emploi-chargee-de-paie-recrutement-domino-hr-morocco-casablanca-188208.html",
+      "tags": [
+        "rekrute",
+        "domino hr morocco",
+        "casablanca",
+        "general"
+      ],
+      "ourSnippet": "Poste de Chargé(e) de paie a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "chargee de paie|domino hr morocco|casablanca",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "2547f6ab81b5f959",
+      "title": "Archiviste",
+      "company": "Groupe Smeia",
+      "city": "Casablanca",
+      "contract": "CDI",
+      "experience": "3-5",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-04T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-archiviste-recrutement-groupe-smeia-casablanca-188207.html",
+      "sourceId": "offre-emploi-archiviste-recrutement-groupe-smeia-casablanca-188207.html",
+      "tags": [
+        "rekrute",
+        "groupe smeia",
+        "casablanca",
+        "general"
+      ],
+      "ourSnippet": "Poste de Archiviste a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "archiviste|groupe smeia|casablanca",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "ef53758bdcc6624f",
+      "title": "Assistante de Direction",
+      "company": "Confidentiel",
+      "city": "Rabat",
+      "experience": "3-5",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-04T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-assistante-de-direction-recrutement-confidentiel-rabat-188206.html",
+      "sourceId": "offre-emploi-assistante-de-direction-recrutement-confidentiel-rabat-188206.html",
+      "tags": [
+        "rekrute",
+        "confidentiel",
+        "rabat",
+        "general"
+      ],
+      "ourSnippet": "Poste de Assistante de Direction a Rabat. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "assistante de direction|confidentiel|rabat",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "e2a453595bb0dbd6",
+      "title": "Technico Commercial",
+      "company": "Manpower Agences",
+      "city": "Agadir",
+      "contract": "CDI",
+      "experience": "3-5",
+      "remote": "Unknown",
+      "category": "Vente",
+      "postedAt": "2026-11-04T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-technico-commercial-recrutement-manpower-agences-agadir-188205.html",
+      "sourceId": "offre-emploi-technico-commercial-recrutement-manpower-agences-agadir-188205.html",
+      "tags": [
+        "rekrute",
+        "manpower agences",
+        "agadir",
+        "vente"
+      ],
+      "ourSnippet": "Poste de Technico Commercial a Agadir. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "technico commercial|manpower agences|agadir",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "e3ee2d58d2a457c5",
+      "title": "Conseillers Commerciaux en Assurance – Émission d’Appels",
+      "company": "Heomi",
+      "city": "Casablanca",
+      "contract": "CDI",
+      "experience": "0",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-04T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-conseillers-commerciaux-en-assurance-emission-dappels-recrutement-heomi-casablanca-186094.html",
+      "sourceId": "offre-emploi-conseillers-commerciaux-en-assurance-emission-dappels-recrutement-heomi-casablanca-186094.html",
+      "tags": [
+        "rekrute",
+        "heomi",
+        "casablanca",
+        "general"
+      ],
+      "ourSnippet": "Poste de Conseillers Commerciaux en Assurance – Émission d’Appels a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "conseillers commerciaux en assurance emission dappels|heomi|casablanca",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "fc51b360e6124896",
+      "title": "Engineer in Compliance Quality & Regularitory",
+      "company": "Capgemini Engineering",
+      "city": "Casablanca",
+      "contract": "CDI",
+      "experience": "3-5",
+      "remote": "Unknown",
+      "category": "Tech",
+      "postedAt": "2026-11-04T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-engineer-in-compliance-quality-regularitory-recrutement-capgemini-engineering-casablanca-188204.html",
+      "sourceId": "offre-emploi-engineer-in-compliance-quality-regularitory-recrutement-capgemini-engineering-casablanca-188204.html",
+      "tags": [
+        "rekrute",
+        "capgemini engineering",
+        "casablanca",
+        "tech"
+      ],
+      "ourSnippet": "Poste de Engineer in Compliance Quality & Regularitory a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "engineer in compliance quality regularitory|capgemini engineering|casablanca",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "6da70314ff92aa10",
+      "title": "Contrôleur de gestion interne junior",
+      "company": "Locamed",
+      "city": "Rabat",
+      "contract": "CDI",
+      "experience": "0",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-04T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-controleur-de-gestion-interne-junior-recrutement-locamed-rabat-188203.html",
+      "sourceId": "offre-emploi-controleur-de-gestion-interne-junior-recrutement-locamed-rabat-188203.html",
+      "tags": [
+        "rekrute",
+        "locamed",
+        "rabat",
+        "general"
+      ],
+      "ourSnippet": "Poste de Contrôleur de gestion interne junior a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "controleur de gestion interne junior|locamed|rabat",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "48ed02fddc276ed3",
+      "title": "Ingénieur sécurité (F/H)",
+      "company": "Sofrecom Maroc",
+      "city": "Rabat",
+      "contract": "CDI",
+      "experience": "3-5",
+      "remote": "Unknown",
+      "category": "Tech",
+      "postedAt": "2026-11-04T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-ingenieur-securite-fh-recrutement-sofrecom-maroc-rabat-188202.html",
+      "sourceId": "offre-emploi-ingenieur-securite-fh-recrutement-sofrecom-maroc-rabat-188202.html",
+      "tags": [
+        "rekrute",
+        "sofrecom maroc",
+        "rabat",
+        "tech"
+      ],
+      "ourSnippet": "Poste de Ingénieur sécurité (F/H) a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "ingenieur securite fh|sofrecom maroc|rabat",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "2431dd04532f6277",
+      "title": "Chargé(e) des approvisionnements et des opérations d’importation",
+      "company": "Meski Invest Riva Industries",
+      "city": "Casablanca",
+      "contract": "CDI",
+      "experience": "3-5",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-04T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-chargee-des-approvisionnements-et-des-operations-dimportation-recrutement-meski-invest---riva-industries-casablanca-187754.html",
+      "sourceId": "offre-emploi-chargee-des-approvisionnements-et-des-operations-dimportation-recrutement-meski-invest---riva-industries-casablanca-187754.html",
+      "tags": [
+        "rekrute",
+        "meski invest riva industries",
+        "casablanca",
+        "general"
+      ],
+      "ourSnippet": "Poste de Chargé(e) des approvisionnements et des opérations d’importation a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "chargee des approvisionnements et des operations dimportation|meski invest riva industries|casablanca",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "0ded8e585cb75bbf",
+      "title": "Délégué Régional (H/F)",
+      "company": "Confidentiel",
+      "city": "Marrakech",
+      "contract": "CDI",
+      "experience": "1-3",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-04T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-delegue-regional-hf-recrutement-confidentiel-marrakech-188201.html",
+      "sourceId": "offre-emploi-delegue-regional-hf-recrutement-confidentiel-marrakech-188201.html",
+      "tags": [
+        "rekrute",
+        "confidentiel",
+        "marrakech",
+        "general"
+      ],
+      "ourSnippet": "Poste de Délégué Régional (H/F) a Marrakech. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "delegue regional hf|confidentiel|marrakech",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "31a278e0fe9839ce",
+      "title": "Superviseur des activités de services",
+      "company": "Locamed",
+      "city": "Rabat",
+      "contract": "CDI",
+      "experience": "3-5",
+      "remote": "Unknown",
+      "category": "Tech",
+      "postedAt": "2026-11-04T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-superviseur-des-activites-de-services-recrutement-locamed-rabat-187930.html",
+      "sourceId": "offre-emploi-superviseur-des-activites-de-services-recrutement-locamed-rabat-187930.html",
+      "tags": [
+        "rekrute",
+        "locamed",
+        "rabat",
+        "tech"
+      ],
+      "ourSnippet": "Poste de Superviseur des activités de services a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "superviseur des activites de services|locamed|rabat",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "8520779040128cba",
+      "title": "Chargé(e) des Achats H/F",
+      "company": "Universite Internationale De Rabat Uir",
+      "city": "Rabat",
+      "contract": "CDI",
+      "experience": "1-3",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-04T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-chargee-des-achats-hf-recrutement-universite-internationale-de-rabat-uir-rabat-188200.html",
+      "sourceId": "offre-emploi-chargee-des-achats-hf-recrutement-universite-internationale-de-rabat-uir-rabat-188200.html",
+      "tags": [
+        "rekrute",
+        "universite internationale de rabat uir",
+        "rabat",
+        "general"
+      ],
+      "ourSnippet": "Poste de Chargé(e) des Achats H/F a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "chargee des achats hf|universite internationale de rabat uir|rabat",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "1625229846c69309",
+      "title": "Contrôleur de gestion senior H/F",
+      "company": "Universite Internationale De Rabat Uir",
+      "city": "Rabat",
+      "contract": "CDI",
+      "experience": "5+",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-04T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-controleur-de-gestion-senior-hf-recrutement-universite-internationale-de-rabat-uir-rabat-188199.html",
+      "sourceId": "offre-emploi-controleur-de-gestion-senior-hf-recrutement-universite-internationale-de-rabat-uir-rabat-188199.html",
+      "tags": [
+        "rekrute",
+        "universite internationale de rabat uir",
+        "rabat",
+        "general"
+      ],
+      "ourSnippet": "Poste de Contrôleur de gestion senior H/F a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "controleur de gestion senior hf|universite internationale de rabat uir|rabat",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "cc680aa01d01c7d4",
+      "title": "ASSISTANTE SAV FILLE",
+      "company": "Mogesse Banking Solutions Mbs",
+      "city": "Casablanca",
+      "contract": "CDI",
+      "experience": "1-3",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-04T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-assistante-sav-fille-recrutement-mogesse-banking-solutions---mbs-casablanca-188198.html",
+      "sourceId": "offre-emploi-assistante-sav-fille-recrutement-mogesse-banking-solutions---mbs-casablanca-188198.html",
+      "tags": [
+        "rekrute",
+        "mogesse banking solutions mbs",
+        "casablanca",
+        "general"
+      ],
+      "ourSnippet": "Poste de ASSISTANTE SAV FILLE a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "assistante sav fille|mogesse banking solutions mbs|casablanca",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "58a8fa2e90821535",
+      "title": "Professeurs Assistants en Médecine H/F",
+      "company": "Universite Internationale De Rabat Uir",
+      "city": "Rabat",
+      "contract": "CDI",
+      "experience": "0",
+      "remote": "Unknown",
+      "category": "Sante",
+      "postedAt": "2026-11-04T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-professeurs-assistants-en-medecine-hf-recrutement-universite-internationale-de-rabat-uir-rabat-188197.html",
+      "sourceId": "offre-emploi-professeurs-assistants-en-medecine-hf-recrutement-universite-internationale-de-rabat-uir-rabat-188197.html",
+      "tags": [
+        "rekrute",
+        "universite internationale de rabat uir",
+        "rabat",
+        "sante"
+      ],
+      "ourSnippet": "Poste de Professeurs Assistants en Médecine H/F a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "professeurs assistants en medecine hf|universite internationale de rabat uir|rabat",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "5a9d958d1a0060a1",
+      "title": "Rabat – télévendeur(se) expérimenté(e) assurance emprunteur | appels entrants/sortants – cdi",
+      "company": "Adm Value",
+      "city": "Rabat",
+      "contract": "CDI",
+      "experience": "3-5",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-04T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-rabat-televendeurse-experimentee-assurance-emprunteur-appels-entrantssortants-cdi-recrutement-adm-value-rabat-188134.html",
+      "sourceId": "offre-emploi-rabat-televendeurse-experimentee-assurance-emprunteur-appels-entrantssortants-cdi-recrutement-adm-value-rabat-188134.html",
+      "tags": [
+        "rekrute",
+        "adm value",
+        "rabat",
+        "general"
+      ],
+      "ourSnippet": "Poste de Rabat – télévendeur(se) expérimenté(e) assurance emprunteur | appels entrants/sortants – cdi a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "rabat televendeurse experimentee assurance emprunteur appels entrantssortants cdi|adm value|rabat",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "db62eb6145c36c9c",
+      "title": "Conseiller(ère) client E-commerce (Appels + E-mails) | CDI – Formation rémunérée",
+      "company": "Adm Value",
+      "city": "Rabat",
+      "contract": "CDI",
+      "experience": "1-3",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-04T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-conseillerere-client-e-commerce-appels-e-mails-cdi-formation-remuneree-recrutement-adm-value-rabat-188135.html",
+      "sourceId": "offre-emploi-conseillerere-client-e-commerce-appels-e-mails-cdi-formation-remuneree-recrutement-adm-value-rabat-188135.html",
+      "tags": [
+        "rekrute",
+        "adm value",
+        "rabat",
+        "general"
+      ],
+      "ourSnippet": "Poste de Conseiller(ère) client E-commerce (Appels + E-mails) | CDI – Formation rémunérée a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "conseillerere client e-commerce appels e-mails cdi formation remuneree|adm value|rabat",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "040f7c0bf98b9d8a",
+      "title": "Rabat – Conseiller(ère) commercial(e) en énergie | Comparateur d’offres – 5j/7 + Prime de fidélisation",
+      "company": "Adm Value",
+      "city": "Rabat",
+      "contract": "CDI",
+      "experience": "1-3",
+      "remote": "Unknown",
+      "category": "Vente",
+      "postedAt": "2026-11-04T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-rabat-conseillerere-commerciale-en-energie-comparateur-doffres-5j7-prime-de-fidelisation-recrutement-adm-value-rabat-188133.html",
+      "sourceId": "offre-emploi-rabat-conseillerere-commerciale-en-energie-comparateur-doffres-5j7-prime-de-fidelisation-recrutement-adm-value-rabat-188133.html",
+      "tags": [
+        "rekrute",
+        "adm value",
+        "rabat",
+        "vente"
+      ],
+      "ourSnippet": "Poste de Rabat – Conseiller(ère) commercial(e) en énergie | Comparateur d’offres – 5j/7 + Prime de fidélisation a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "rabat conseillerere commerciale en energie comparateur doffres 5j7 prime de fidelisation|adm value|rabat",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "c274711d1c31b4b6",
+      "title": "Rabat - conseiller·ère clients en service client energie — déménagement & assistance technique",
+      "company": "Adm Value",
+      "city": "Rabat",
+      "contract": "CDI",
+      "experience": "0",
+      "remote": "Unknown",
+      "category": "Relation client",
+      "postedAt": "2026-11-04T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-rabat---conseillerere-clients-en-service-client-energie-demenagement-assistance-technique-recrutement-adm-value-rabat-188136.html",
+      "sourceId": "offre-emploi-rabat---conseillerere-clients-en-service-client-energie-demenagement-assistance-technique-recrutement-adm-value-rabat-188136.html",
+      "tags": [
+        "rekrute",
+        "adm value",
+        "rabat",
+        "relation client"
+      ],
+      "ourSnippet": "Poste de Rabat - conseiller·ère clients en service client energie — déménagement & assistance technique a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "rabat - conseillerere clients en service client energie demenagement assistance technique|adm value|rabat",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "f940c37565938739",
+      "title": "Rabat – commercial(e) \"formation en ligne\" permis de conduire | cdi + primes déplafonnées",
+      "company": "Adm Value",
+      "city": "Rabat",
+      "contract": "CDI",
+      "experience": "0",
+      "remote": "Unknown",
+      "category": "Vente",
+      "postedAt": "2026-11-04T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-rabat-commerciale-formation-en-ligne-permis-de-conduire-cdi-primes-deplafonnees-recrutement-adm-value-rabat-188138.html",
+      "sourceId": "offre-emploi-rabat-commerciale-formation-en-ligne-permis-de-conduire-cdi-primes-deplafonnees-recrutement-adm-value-rabat-188138.html",
+      "tags": [
+        "rekrute",
+        "adm value",
+        "rabat",
+        "vente"
+      ],
+      "ourSnippet": "Poste de Rabat – commercial(e) \"formation en ligne\" permis de conduire | cdi + primes déplafonnées a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "rabat commerciale formation en ligne permis de conduire cdi primes deplafonnees|adm value|rabat",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "e3af9900e8e05b89",
+      "title": "Rabat – conseiller client en assurance rc décennale | cdi + primes déplafonnées",
+      "company": "Adm Value",
+      "city": "Rabat",
+      "contract": "CDI",
+      "experience": "0",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-04T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-rabat-conseiller-client-en-assurance-rc-decennale-cdi-primes-deplafonnees-recrutement-adm-value-rabat-188132.html",
+      "sourceId": "offre-emploi-rabat-conseiller-client-en-assurance-rc-decennale-cdi-primes-deplafonnees-recrutement-adm-value-rabat-188132.html",
+      "tags": [
+        "rekrute",
+        "adm value",
+        "rabat",
+        "general"
+      ],
+      "ourSnippet": "Poste de Rabat – conseiller client en assurance rc décennale | cdi + primes déplafonnées a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "rabat conseiller client en assurance rc decennale cdi primes deplafonnees|adm value|rabat",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "53c5b49513cc9168",
+      "title": "Rabat – vendeur(se) assurance auto & habitation | cdi + primes déplafonnées",
+      "company": "Adm Value",
+      "city": "Rabat",
+      "contract": "CDI",
+      "experience": "0",
+      "remote": "Unknown",
+      "category": "Tech",
+      "postedAt": "2026-11-04T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-rabat-vendeurse-assurance-auto-habitation-cdi-primes-deplafonnees-recrutement-adm-value-rabat-188137.html",
+      "sourceId": "offre-emploi-rabat-vendeurse-assurance-auto-habitation-cdi-primes-deplafonnees-recrutement-adm-value-rabat-188137.html",
+      "tags": [
+        "rekrute",
+        "adm value",
+        "rabat",
+        "tech"
+      ],
+      "ourSnippet": "Poste de Rabat – vendeur(se) assurance auto & habitation | cdi + primes déplafonnées a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "rabat vendeurse assurance auto habitation cdi primes deplafonnees|adm value|rabat",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "899137bf8d4d217f",
+      "title": "Téléconseiller(ère) service client — mutuelle santé | cdi — rabat",
+      "company": "Adm Value",
+      "city": "Rabat",
+      "contract": "CDI",
+      "experience": "0",
+      "remote": "Unknown",
+      "category": "Relation client",
+      "postedAt": "2026-11-04T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-teleconseillerere-service-client-mutuelle-sante-cdi-rabat-recrutement-adm-value-rabat-188139.html",
+      "sourceId": "offre-emploi-teleconseillerere-service-client-mutuelle-sante-cdi-rabat-recrutement-adm-value-rabat-188139.html",
+      "tags": [
+        "rekrute",
+        "adm value",
+        "rabat",
+        "relation client"
+      ],
+      "ourSnippet": "Poste de Téléconseiller(ère) service client — mutuelle santé | cdi — rabat a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "teleconseillerere service client mutuelle sante cdi rabat|adm value|rabat",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "2716c58a22495b9e",
+      "title": "Conseiller·ère service client — assurance animale",
+      "company": "Adm Value",
+      "city": "Rabat",
+      "contract": "CDI",
+      "experience": "0",
+      "remote": "Unknown",
+      "category": "Relation client",
+      "postedAt": "2026-11-04T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-conseillerere-service-client-assurance-animale-recrutement-adm-value-rabat-188140.html",
+      "sourceId": "offre-emploi-conseillerere-service-client-assurance-animale-recrutement-adm-value-rabat-188140.html",
+      "tags": [
+        "rekrute",
+        "adm value",
+        "rabat",
+        "relation client"
+      ],
+      "ourSnippet": "Poste de Conseiller·ère service client — assurance animale a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "conseillerere service client assurance animale|adm value|rabat",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "46c74541bf3dc36e",
+      "title": "manipulateur radiothérapie",
+      "company": "Akdital El",
+      "city": "El Jadida",
+      "contract": "CDI",
+      "experience": "3-5",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-04T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-manipulateur-radiotherapie-recrutement-akdital-el-jadida-187929.html",
+      "sourceId": "offre-emploi-manipulateur-radiotherapie-recrutement-akdital-el-jadida-187929.html",
+      "tags": [
+        "rekrute",
+        "akdital el",
+        "el jadida",
+        "general"
+      ],
+      "ourSnippet": "Poste de manipulateur radiothérapie a El Jadida. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "manipulateur radiotherapie|akdital el|el jadida",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "23124e9b405a8383",
+      "title": "Commercial terrain CCTV",
+      "company": "Gsm Al Maghrib",
+      "city": "Marrakech",
+      "contract": "CDI",
+      "experience": "1-3",
+      "remote": "Unknown",
+      "category": "Vente",
+      "postedAt": "2026-11-04T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-commercial-terrain-cctv-recrutement-gsm-al-maghrib-marrakech-188196.html",
+      "sourceId": "offre-emploi-commercial-terrain-cctv-recrutement-gsm-al-maghrib-marrakech-188196.html",
+      "tags": [
+        "rekrute",
+        "gsm al maghrib",
+        "marrakech",
+        "vente"
+      ],
+      "ourSnippet": "Poste de Commercial terrain CCTV a Marrakech. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "commercial terrain cctv|gsm al maghrib|marrakech",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "262c72ab0fc303a9",
+      "title": "Responsable de gestion",
+      "company": "Auto Hall",
+      "city": "Meknes",
+      "contract": "CDI",
+      "experience": "0",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-04T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-responsable-de-gestion-recrutement-auto-hall-meknes-188195.html",
+      "sourceId": "offre-emploi-responsable-de-gestion-recrutement-auto-hall-meknes-188195.html",
+      "tags": [
+        "rekrute",
+        "auto hall",
+        "meknes",
+        "general"
+      ],
+      "ourSnippet": "Poste de Responsable de gestion a Meknes. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "responsable de gestion|auto hall|meknes",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "c6a8b62fb691ce43",
+      "title": "Ingénieur d’état responsable logistique & transport – Casablanca, Globe RH",
+      "company": "Globe RH",
+      "city": "Casablanca",
+      "remote": "Unknown",
+      "category": "Logistique",
+      "postedAt": "2026-11-03T13:58:36.000Z",
+      "source": "EMPLOI_MAROC",
+      "sourceUrl": "https://www.emplois.co/ingenieur-detat-responsable-logistique-transport-casablanca-globe-rh",
+      "sourceId": "ingenieur-detat-responsable-logistique-transport-casablanca-globe-rh",
+      "tags": [
+        "emploi-maroc",
+        "rss",
+        "industriel",
+        "casablanca",
+        "globe rh",
+        "ingenieur",
+        "ingenieur logistique",
+        "responsable",
+        "responsable logistique",
+        "logistique"
+      ],
+      "ourSnippet": "Poste de Ingénieur d’état responsable logistique & transport – Casablanca, Globe RH a Casablanca. Consulte l'annonce et postule via la source (Emplois.co).",
+      "trust": {
+        "level": "Verified",
+        "score": 84,
+        "reasons": [
+          "Plateforme emploi marocaine",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "ingenieur detat responsable logistique transport casablanca globe rh|globe rh|casablanca",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "3beeaf4b407dd2bc",
+      "title": "Ingénieur d’état responsable logistique & transport",
+      "remote": "Unknown",
+      "category": "Logistique",
+      "postedAt": "2026-11-03T13:58:36.000Z",
+      "source": "OFFRES_EMPLOI",
+      "sourceUrl": "https://www.emplois.co/ingenieur-detat-responsable-logistique-transport-casablanca-globe-rh",
+      "sourceId": "ingenieur-detat-responsable-logistique-transport-casablanca-globe-rh",
+      "tags": [
+        "offres-emploi",
+        "rss",
+        "logistique"
+      ],
+      "ourSnippet": "Poste de Ingénieur d’état responsable logistique & transport au Maroc. Consulte l'annonce et postule via la source (Offres-emploi.ma).",
+      "trust": {
+        "level": "Verified",
+        "score": 64,
+        "reasons": [
+          "Moteur emploi aggregateur",
+          "Entreprise absente",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "ingenieur detat responsable logistique transport",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "6a517c9b590432e6",
+      "title": "Formateur(trice) / expert(e) en anglais professionnel – raba, BET Consulting",
+      "company": "BET Consulting",
+      "city": "raba",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-03T13:58:15.000Z",
+      "source": "EMPLOI_MAROC",
+      "sourceUrl": "https://www.emplois.co/formateurtrice-experte-en-anglais-professionnel-raba-bet-consulting",
+      "sourceId": "formateurtrice-experte-en-anglais-professionnel-raba-bet-consulting",
+      "tags": [
+        "emploi-maroc",
+        "rss",
+        "agriculture agroalimentaire peche environnement",
+        "bet consulting",
+        "formateur",
+        "formateur anglais",
+        "raba",
+        "general"
+      ],
+      "ourSnippet": "Poste de Formateur(trice) / expert(e) en anglais professionnel – raba, BET Consulting a raba. Consulte l'annonce et postule via la source (Emplois.co).",
+      "trust": {
+        "level": "Verified",
+        "score": 84,
+        "reasons": [
+          "Plateforme emploi marocaine",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "formateurtrice experte en anglais professionnel raba bet consulting|bet consulting|raba",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "261b5db36d041b03",
+      "title": "Formateur(trice) / expert(e) en anglais professionnel",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-03T13:58:15.000Z",
+      "source": "OFFRES_EMPLOI",
+      "sourceUrl": "https://www.emplois.co/formateurtrice-experte-en-anglais-professionnel-raba-bet-consulting",
+      "sourceId": "formateurtrice-experte-en-anglais-professionnel-raba-bet-consulting",
+      "tags": [
+        "offres-emploi",
+        "rss",
+        "general"
+      ],
+      "ourSnippet": "Poste de Formateur(trice) / expert(e) en anglais professionnel au Maroc. Consulte l'annonce et postule via la source (Offres-emploi.ma).",
+      "trust": {
+        "level": "Verified",
+        "score": 64,
+        "reasons": [
+          "Moteur emploi aggregateur",
+          "Entreprise absente",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "formateurtrice experte en anglais professionnel",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "7a929fd5c9e850b1",
+      "title": "Pharmacien(ne) pour une pharmacie à kénitra (maghreb arabi) – Kénitra, Pharmacie AEC",
+      "company": "Pharmacie AEC",
+      "city": "Kenitra",
+      "remote": "Unknown",
+      "category": "Tech",
+      "postedAt": "2026-11-03T09:23:29.000Z",
+      "source": "EMPLOI_MAROC",
+      "sourceUrl": "https://www.emplois.co/pharmacienne-pour-une-pharmacie-a-kenitra-maghreb-arabi-kenitra-pharmacie-aec",
+      "sourceId": "pharmacienne-pour-une-pharmacie-a-kenitra-maghreb-arabi-kenitra-pharmacie-aec",
+      "tags": [
+        "emploi-maroc",
+        "rss",
+        "medical sante pharmacie parapharmacie",
+        "kenitra",
+        "pharmacien",
+        "pharmacie aec",
+        "tech"
+      ],
+      "ourSnippet": "Poste de Pharmacien(ne) pour une pharmacie à kénitra (maghreb arabi) – Kénitra, Pharmacie AEC a Kenitra. Consulte l'annonce et postule via la source (Emplois.co).",
+      "trust": {
+        "level": "Verified",
+        "score": 84,
+        "reasons": [
+          "Plateforme emploi marocaine",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "pharmacienne pour une pharmacie a kenitra maghreb arabi kenitra pharmacie aec|pharmacie aec|kenitra",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "eeaae7ee26b310f9",
+      "title": "Pharmacien(ne) pour une pharmacie à kénitra (maghreb arabi)",
+      "remote": "Unknown",
+      "category": "Tech",
+      "postedAt": "2026-11-03T09:23:29.000Z",
+      "source": "OFFRES_EMPLOI",
+      "sourceUrl": "https://www.emplois.co/pharmacienne-pour-une-pharmacie-a-kenitra-maghreb-arabi-kenitra-pharmacie-aec",
+      "sourceId": "pharmacienne-pour-une-pharmacie-a-kenitra-maghreb-arabi-kenitra-pharmacie-aec",
+      "tags": [
+        "offres-emploi",
+        "rss",
+        "tech"
+      ],
+      "ourSnippet": "Poste de Pharmacien(ne) pour une pharmacie à kénitra (maghreb arabi) au Maroc. Consulte l'annonce et postule via la source (Offres-emploi.ma).",
+      "trust": {
+        "level": "Verified",
+        "score": 64,
+        "reasons": [
+          "Moteur emploi aggregateur",
+          "Entreprise absente",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "pharmacienne pour une pharmacie a kenitra maghreb arabi",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "9a88734d214fb504",
+      "title": "Ingénieur etude modulaire – Casablanca, Talents Partners",
+      "company": "Talents Partners",
+      "city": "Casablanca",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-03T09:23:21.000Z",
+      "source": "EMPLOI_MAROC",
+      "sourceUrl": "https://www.emplois.co/ingenieur-etude-modulaire-casablanca-talents-partners",
+      "sourceId": "ingenieur-etude-modulaire-casablanca-talents-partners",
+      "tags": [
+        "emploi-maroc",
+        "rss",
+        "autres",
+        "casablanca",
+        "ingenieur",
+        "talents partners",
+        "general"
+      ],
+      "ourSnippet": "Poste de Ingénieur etude modulaire – Casablanca, Talents Partners a Casablanca. Consulte l'annonce et postule via la source (Emplois.co).",
+      "trust": {
+        "level": "Verified",
+        "score": 84,
+        "reasons": [
+          "Plateforme emploi marocaine",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "ingenieur etude modulaire casablanca talents partners|talents partners|casablanca",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "b00d31a029dd479d",
+      "title": "Ingénieur etude modulaire",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-03T09:23:21.000Z",
+      "source": "OFFRES_EMPLOI",
+      "sourceUrl": "https://www.emplois.co/ingenieur-etude-modulaire-casablanca-talents-partners",
+      "sourceId": "ingenieur-etude-modulaire-casablanca-talents-partners",
+      "tags": [
+        "offres-emploi",
+        "rss",
+        "general"
+      ],
+      "ourSnippet": "Poste de Ingénieur etude modulaire au Maroc. Consulte l'annonce et postule via la source (Offres-emploi.ma).",
+      "trust": {
+        "level": "Verified",
+        "score": 64,
+        "reasons": [
+          "Moteur emploi aggregateur",
+          "Entreprise absente",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "ingenieur etude modulaire",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "1ee7683c70900b99",
+      "title": "Chef d’équipe vrd – Rabat, Talents Partners",
+      "company": "Talents Partners",
+      "city": "Rabat",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-03T09:23:15.000Z",
+      "source": "EMPLOI_MAROC",
+      "sourceUrl": "https://www.emplois.co/chef-dequipe-vrd-rabat-talents-partners",
+      "sourceId": "chef-dequipe-vrd-rabat-talents-partners",
+      "tags": [
+        "emploi-maroc",
+        "rss",
+        "autres",
+        "chef equipe",
+        "rabat",
+        "talents partners",
+        "general"
+      ],
+      "ourSnippet": "Poste de Chef d’équipe vrd – Rabat, Talents Partners a Rabat. Consulte l'annonce et postule via la source (Emplois.co).",
+      "trust": {
+        "level": "Verified",
+        "score": 84,
+        "reasons": [
+          "Plateforme emploi marocaine",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "chef dequipe vrd rabat talents partners|talents partners|rabat",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "4c31b3350f488a2e",
+      "title": "Chef d&rsquo;équipe vrd",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-03T09:23:15.000Z",
+      "source": "OFFRES_EMPLOI",
+      "sourceUrl": "https://www.emplois.co/chef-dequipe-vrd-rabat-talents-partners",
+      "sourceId": "chef-dequipe-vrd-rabat-talents-partners",
+      "tags": [
+        "offres-emploi",
+        "rss",
+        "general"
+      ],
+      "ourSnippet": "Poste de Chef d&rsquo;équipe vrd au Maroc. Consulte l'annonce et postule via la source (Offres-emploi.ma).",
+      "trust": {
+        "level": "Verified",
+        "score": 64,
+        "reasons": [
+          "Moteur emploi aggregateur",
+          "Entreprise absente",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "chef drsquoequipe vrd",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "88715fc1e857d9cd",
+      "title": "Assistante commerciale et opérationnelle – Marrakech, YGUANE GROUP",
+      "company": "YGUANE GROUP",
+      "city": "Marrakech",
+      "remote": "Unknown",
+      "category": "Vente",
+      "postedAt": "2026-11-03T09:23:07.000Z",
+      "source": "EMPLOI_MAROC",
+      "sourceUrl": "https://www.emplois.co/assistante-commerciale-et-operationnelle-marrakech-yguane-group",
+      "sourceId": "assistante-commerciale-et-operationnelle-marrakech-yguane-group",
+      "tags": [
+        "emploi-maroc",
+        "rss",
+        "commerce distribution",
+        "assistant",
+        "assistant commercial",
+        "assistante",
+        "assistante commerciale",
+        "commercial",
+        "commerciale",
+        "marrakech",
+        "yguane group",
+        "vente"
+      ],
+      "ourSnippet": "Poste de Assistante commerciale et opérationnelle – Marrakech, YGUANE GROUP a Marrakech. Consulte l'annonce et postule via la source (Emplois.co).",
+      "trust": {
+        "level": "Verified",
+        "score": 84,
+        "reasons": [
+          "Plateforme emploi marocaine",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "assistante commerciale et operationnelle marrakech yguane group|yguane group|marrakech",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "0edaae716a27a9b6",
+      "title": "Assistante commerciale et opérationnelle",
+      "remote": "Unknown",
+      "category": "Vente",
+      "postedAt": "2026-11-03T09:23:07.000Z",
+      "source": "OFFRES_EMPLOI",
+      "sourceUrl": "https://www.emplois.co/assistante-commerciale-et-operationnelle-marrakech-yguane-group",
+      "sourceId": "assistante-commerciale-et-operationnelle-marrakech-yguane-group",
+      "tags": [
+        "offres-emploi",
+        "rss",
+        "vente"
+      ],
+      "ourSnippet": "Poste de Assistante commerciale et opérationnelle au Maroc. Consulte l'annonce et postule via la source (Offres-emploi.ma).",
+      "trust": {
+        "level": "Verified",
+        "score": 64,
+        "reasons": [
+          "Moteur emploi aggregateur",
+          "Entreprise absente",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "assistante commerciale et operationnelle",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "87494e78f1fbf207",
+      "title": "Poste technicien frigoriste – Rabat, Salé, FM Global",
+      "company": "Salé, FM Global",
+      "city": "Rabat",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-03T09:22:42.000Z",
+      "source": "EMPLOI_MAROC",
+      "sourceUrl": "https://www.emplois.co/poste-technicien-frigoriste-rabat-sale-fm-global",
+      "sourceId": "poste-technicien-frigoriste-rabat-sale-fm-global",
+      "tags": [
+        "emploi-maroc",
+        "rss",
+        "services",
+        "fm global",
+        "frigoriste",
+        "rabat",
+        "sale",
+        "technicien",
+        "technicien frigoriste",
+        "sale fm global",
+        "general"
+      ],
+      "ourSnippet": "Poste de Poste technicien frigoriste – Rabat, Salé, FM Global a Rabat. Consulte l'annonce et postule via la source (Emplois.co).",
+      "trust": {
+        "level": "Verified",
+        "score": 84,
+        "reasons": [
+          "Plateforme emploi marocaine",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "poste technicien frigoriste rabat sale fm global|sale fm global|rabat",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "1a5520706604d51d",
+      "title": "Poste technicien frigoriste",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-03T09:22:42.000Z",
+      "source": "OFFRES_EMPLOI",
+      "sourceUrl": "https://www.emplois.co/poste-technicien-frigoriste-rabat-sale-fm-global",
+      "sourceId": "poste-technicien-frigoriste-rabat-sale-fm-global",
+      "tags": [
+        "offres-emploi",
+        "rss",
+        "general"
+      ],
+      "ourSnippet": "Poste de Poste technicien frigoriste au Maroc. Consulte l'annonce et postule via la source (Offres-emploi.ma).",
+      "trust": {
+        "level": "Verified",
+        "score": 64,
+        "reasons": [
+          "Moteur emploi aggregateur",
+          "Entreprise absente",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "poste technicien frigoriste",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "4ae3be7307e75c33",
+      "title": "Data Scientist / Ingénieur IA confirmé",
+      "company": "Cac Centrale Automobile Cherifienne",
+      "city": "Casablanca",
+      "contract": "CDI",
+      "experience": "3-5",
+      "remote": "Unknown",
+      "category": "Tech",
+      "postedAt": "2026-11-03T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-data-scientist-ingenieur-ia-confirme-recrutement-cac-centrale-automobile-cherifienne-casablanca-186515.html",
+      "sourceId": "offre-emploi-data-scientist-ingenieur-ia-confirme-recrutement-cac-centrale-automobile-cherifienne-casablanca-186515.html",
+      "tags": [
+        "rekrute",
+        "cac centrale automobile cherifienne",
+        "casablanca",
+        "tech"
+      ],
+      "ourSnippet": "Poste de Data Scientist / Ingénieur IA confirmé a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "data scientist ingenieur ia confirme|cac centrale automobile cherifienne|casablanca",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "634625726dfd5eba",
+      "title": "Support N2 Multimédia",
+      "company": "Alten Maroc",
+      "city": "Fes",
+      "contract": "CDI",
+      "experience": "0",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-03T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-support-n2-multimedia-recrutement-alten-maroc-fes-187902.html",
+      "sourceId": "offre-emploi-support-n2-multimedia-recrutement-alten-maroc-fes-187902.html",
+      "tags": [
+        "rekrute",
+        "alten maroc",
+        "fes",
+        "general"
+      ],
+      "ourSnippet": "Poste de Support N2 Multimédia a Fes. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "support n2 multimedia|alten maroc|fes",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "af83f2dc457a4eeb",
+      "title": "Data Engineer Java / Scala Expérimenté – Data Platform",
+      "company": "Alten Maroc",
+      "city": "Rabat",
+      "contract": "CDI",
+      "experience": "0",
+      "remote": "Unknown",
+      "category": "Tech",
+      "postedAt": "2026-11-03T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-data-engineer-java-scala-experimente-data-platform-recrutement-alten-maroc-rabat-187949.html",
+      "sourceId": "offre-emploi-data-engineer-java-scala-experimente-data-platform-recrutement-alten-maroc-rabat-187949.html",
+      "tags": [
+        "rekrute",
+        "alten maroc",
+        "rabat",
+        "tech"
+      ],
+      "ourSnippet": "Poste de Data Engineer Java / Scala Expérimenté – Data Platform a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "data engineer java scala experimente data platform|alten maroc|rabat",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "63b8dbed10614375",
+      "title": "Chargé de developpement EE",
+      "company": "Alten Maroc",
+      "city": "Rabat",
+      "contract": "CDI",
+      "experience": "0",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-03T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-charge-de-developpement-ee-recrutement-alten-maroc-rabat-187948.html",
+      "sourceId": "offre-emploi-charge-de-developpement-ee-recrutement-alten-maroc-rabat-187948.html",
+      "tags": [
+        "rekrute",
+        "alten maroc",
+        "rabat",
+        "general"
+      ],
+      "ourSnippet": "Poste de Chargé de developpement EE a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "charge de developpement ee|alten maroc|rabat",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "a0d88eb7f44ccd50",
+      "title": "Ingénieur en Signalisation Ferroviaire",
+      "company": "Alten Maroc",
+      "city": "Rabat",
+      "contract": "CDI",
+      "experience": "3-5",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-03T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-ingenieur-en-signalisation-ferroviaire-recrutement-alten-maroc-rabat-187950.html",
+      "sourceId": "offre-emploi-ingenieur-en-signalisation-ferroviaire-recrutement-alten-maroc-rabat-187950.html",
+      "tags": [
+        "rekrute",
+        "alten maroc",
+        "rabat",
+        "general"
+      ],
+      "ourSnippet": "Poste de Ingénieur en Signalisation Ferroviaire a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "ingenieur en signalisation ferroviaire|alten maroc|rabat",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "68cc3429e5d34763",
+      "title": "Transport Specialist Italophone",
+      "company": "Alten Maroc",
+      "city": "Rabat",
+      "contract": "CDI",
+      "experience": "0",
+      "remote": "Unknown",
+      "category": "Tech",
+      "postedAt": "2026-11-03T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-transport-specialist-italophone-recrutement-alten-maroc-rabat-187958.html",
+      "sourceId": "offre-emploi-transport-specialist-italophone-recrutement-alten-maroc-rabat-187958.html",
+      "tags": [
+        "rekrute",
+        "alten maroc",
+        "rabat",
+        "tech"
+      ],
+      "ourSnippet": "Poste de Transport Specialist Italophone a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "transport specialist italophone|alten maroc|rabat",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "7d0ad850e3ec7c3a",
+      "title": "Ingénieur Montage et qualité (secteur automobile)",
+      "company": "Alten Maroc",
+      "city": "Fes",
+      "contract": "CDI",
+      "experience": "1-3",
+      "remote": "Unknown",
+      "category": "Tech",
+      "postedAt": "2026-11-03T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-ingenieur-montage-et-qualite-secteur-automobile-recrutement-alten-maroc-fes-187959.html",
+      "sourceId": "offre-emploi-ingenieur-montage-et-qualite-secteur-automobile-recrutement-alten-maroc-fes-187959.html",
+      "tags": [
+        "rekrute",
+        "alten maroc",
+        "fes",
+        "tech"
+      ],
+      "ourSnippet": "Poste de Ingénieur Montage et qualité (secteur automobile) a Fes. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "ingenieur montage et qualite secteur automobile|alten maroc|fes",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "6017ae11d79b87a2",
+      "title": "Technicien laboratoire-inorganique – Agadir, RESPONSABLE RH",
+      "company": "RESPONSABLE RH",
+      "city": "Agadir",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-10-31T23:24:24.000Z",
+      "source": "EMPLOI_MAROC",
+      "sourceUrl": "https://www.emplois.co/technicien-laboratoire-inorganique-agadir-responsable-rh",
+      "sourceId": "technicien-laboratoire-inorganique-agadir-responsable-rh",
+      "tags": [
+        "emploi-maroc",
+        "rss",
+        "agriculture agroalimentaire peche environnement",
+        "agadir",
+        "technicien",
+        "technicien laboratoire",
+        "responsable rh",
+        "general"
+      ],
+      "ourSnippet": "Poste de Technicien laboratoire-inorganique – Agadir, RESPONSABLE RH a Agadir. Consulte l'annonce et postule via la source (Emplois.co).",
+      "trust": {
+        "level": "Verified",
+        "score": 84,
+        "reasons": [
+          "Plateforme emploi marocaine",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "technicien laboratoire-inorganique agadir responsable rh|responsable rh|agadir",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "e460d31ff3501eee",
+      "title": "Technicien laboratoire-inorganique",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-10-31T23:24:24.000Z",
+      "source": "OFFRES_EMPLOI",
+      "sourceUrl": "https://www.emplois.co/technicien-laboratoire-inorganique-agadir-responsable-rh",
+      "sourceId": "technicien-laboratoire-inorganique-agadir-responsable-rh",
+      "tags": [
+        "offres-emploi",
+        "rss",
+        "general"
+      ],
+      "ourSnippet": "Poste de Technicien laboratoire-inorganique au Maroc. Consulte l'annonce et postule via la source (Offres-emploi.ma).",
+      "trust": {
+        "level": "Verified",
+        "score": 64,
+        "reasons": [
+          "Moteur emploi aggregateur",
+          "Entreprise absente",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "technicien laboratoire-inorganique",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "84eff250e4623b30",
+      "title": "Responsable commercial en charge de la prescription – Casablanca, Mall Zellij Distribution (Route de Mediouna)",
+      "company": "Mall Zellij Distribution (Route de Mediouna)",
+      "city": "Casablanca",
+      "remote": "Unknown",
+      "category": "Vente",
+      "postedAt": "2026-10-30T11:34:31.000Z",
+      "source": "EMPLOI_MAROC",
+      "sourceUrl": "https://www.emplois.co/responsable-commercial-en-charge-de-la-prescription-casablanca-mall-zellij-distribution-route-de-mediouna",
+      "sourceId": "responsable-commercial-en-charge-de-la-prescription-casablanca-mall-zellij-distribution-route-de-mediouna",
+      "tags": [
+        "emploi-maroc",
+        "rss",
+        "commerce distribution",
+        "casablanca",
+        "commercial",
+        "responsable",
+        "responsable commercial",
+        "mall zellij distribution route de mediouna",
+        "vente"
+      ],
+      "ourSnippet": "Poste de Responsable commercial en charge de la prescription – Casablanca, Mall Zellij Distribution (Route de Mediouna) a Casablanca. Consulte l'annonce et postule via la source (Emplois.co).",
+      "trust": {
+        "level": "Verified",
+        "score": 84,
+        "reasons": [
+          "Plateforme emploi marocaine",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "responsable commercial en charge de la prescription casablanca mall zellij distribution route de mediouna|mall zellij distribution route de mediouna|casablanca",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "21380a25af6d342f",
+      "title": "Responsable commercial en charge de la prescription",
+      "city": "Casablanca",
+      "remote": "Unknown",
+      "category": "Vente",
+      "postedAt": "2026-10-30T11:34:31.000Z",
+      "source": "OFFRES_EMPLOI",
+      "sourceUrl": "https://www.emplois.co/responsable-commercial-en-charge-de-la-prescription-casablanca-mall-zellij-distribution-route-de-mediouna",
+      "sourceId": "responsable-commercial-en-charge-de-la-prescription-casablanca-mall-zellij-distribution-route-de-mediouna",
+      "tags": [
+        "offres-emploi",
+        "rss",
+        "casablanca",
+        "vente"
+      ],
+      "ourSnippet": "Poste de Responsable commercial en charge de la prescription a Casablanca. Consulte l'annonce et postule via la source (Offres-emploi.ma).",
+      "trust": {
+        "level": "Verified",
+        "score": 66,
+        "reasons": [
+          "Moteur emploi aggregateur",
+          "Entreprise absente",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "responsable commercial en charge de la prescription|casablanca",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "dc04db9b8b883f92",
+      "title": "Chef comptable – clinique privée – Casablanca, AISSE",
+      "company": "AISSE",
+      "city": "Casablanca",
+      "remote": "Unknown",
+      "category": "Comptabilite",
+      "postedAt": "2026-10-30T08:01:42.000Z",
+      "source": "EMPLOI_MAROC",
+      "sourceUrl": "https://www.emplois.co/chef-comptable-clinique-privee-casablanca-aisse",
+      "sourceId": "chef-comptable-clinique-privee-casablanca-aisse",
+      "tags": [
+        "emploi-maroc",
+        "rss",
+        "medical sante pharmacie parapharmacie",
+        "casablanca",
+        "chef comptable",
+        "comptable",
+        "aisse",
+        "comptabilite"
+      ],
+      "ourSnippet": "Poste de Chef comptable – clinique privée – Casablanca, AISSE a Casablanca. Consulte l'annonce et postule via la source (Emplois.co).",
+      "trust": {
+        "level": "Verified",
+        "score": 84,
+        "reasons": [
+          "Plateforme emploi marocaine",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "chef comptable clinique privee casablanca aisse|aisse|casablanca",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "1fd50ff49ab682cc",
+      "title": "Chef comptable – clinique privée",
+      "city": "Casablanca",
+      "remote": "Unknown",
+      "category": "Comptabilite",
+      "postedAt": "2026-10-30T08:01:42.000Z",
+      "source": "OFFRES_EMPLOI",
+      "sourceUrl": "https://www.emplois.co/chef-comptable-clinique-privee-casablanca-aisse",
+      "sourceId": "chef-comptable-clinique-privee-casablanca-aisse",
+      "tags": [
+        "offres-emploi",
+        "rss",
+        "casablanca",
+        "comptabilite"
+      ],
+      "ourSnippet": "Poste de Chef comptable – clinique privée a Casablanca. Consulte l'annonce et postule via la source (Offres-emploi.ma).",
+      "trust": {
+        "level": "Verified",
+        "score": 66,
+        "reasons": [
+          "Moteur emploi aggregateur",
+          "Entreprise absente",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "chef comptable clinique privee|casablanca",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "f4b6b303445cc662",
+      "title": "Media buyer – ecommerce – Fès, Bromest",
+      "company": "Bromest",
+      "city": "Fes",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-10-30T08:01:31.000Z",
+      "source": "EMPLOI_MAROC",
+      "sourceUrl": "https://www.emplois.co/media-buyer-ecommerce-fes-bromest",
+      "sourceId": "media-buyer-ecommerce-fes-bromest",
+      "tags": [
+        "emploi-maroc",
+        "rss",
+        "e-commerce",
+        "bromest",
+        "fes",
+        "general"
+      ],
+      "ourSnippet": "Poste de Media buyer – ecommerce – Fès, Bromest a Fes. Consulte l'annonce et postule via la source (Emplois.co).",
+      "trust": {
+        "level": "Verified",
+        "score": 84,
+        "reasons": [
+          "Plateforme emploi marocaine",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "media buyer ecommerce fes bromest|bromest|fes",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "e7be8f17dc37fc51",
+      "title": "Media buyer – ecommerce",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-10-30T08:01:31.000Z",
+      "source": "OFFRES_EMPLOI",
+      "sourceUrl": "https://www.emplois.co/media-buyer-ecommerce-fes-bromest",
+      "sourceId": "media-buyer-ecommerce-fes-bromest",
+      "tags": [
+        "offres-emploi",
+        "rss",
+        "general"
+      ],
+      "ourSnippet": "Poste de Media buyer – ecommerce au Maroc. Consulte l'annonce et postule via la source (Offres-emploi.ma).",
+      "trust": {
+        "level": "Verified",
+        "score": 64,
+        "reasons": [
+          "Moteur emploi aggregateur",
+          "Entreprise absente",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "media buyer ecommerce",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "73949dcf85362e84",
+      "title": "Commercial magasin derb omar – Casablanca, GLOBAL SERVICE",
+      "company": "GLOBAL SERVICE",
+      "city": "Casablanca",
+      "remote": "Unknown",
+      "category": "Vente",
+      "postedAt": "2026-10-30T08:01:22.000Z",
+      "source": "EMPLOI_MAROC",
+      "sourceUrl": "https://www.emplois.co/commercial-magasin-derb-omar-casablanca-global-service",
+      "sourceId": "commercial-magasin-derb-omar-casablanca-global-service",
+      "tags": [
+        "emploi-maroc",
+        "rss",
+        "commerce distribution",
+        "casablanca",
+        "commercial",
+        "global service",
+        "vente"
+      ],
+      "ourSnippet": "Poste de Commercial magasin derb omar – Casablanca, GLOBAL SERVICE a Casablanca. Consulte l'annonce et postule via la source (Emplois.co).",
+      "trust": {
+        "level": "Verified",
+        "score": 84,
+        "reasons": [
+          "Plateforme emploi marocaine",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "commercial magasin derb omar casablanca global service|global service|casablanca",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "05e42eb398ed4ca5",
+      "title": "Commercial magasin derb omar",
+      "remote": "Unknown",
+      "category": "Vente",
+      "postedAt": "2026-10-30T08:01:22.000Z",
+      "source": "OFFRES_EMPLOI",
+      "sourceUrl": "https://www.emplois.co/commercial-magasin-derb-omar-casablanca-global-service",
+      "sourceId": "commercial-magasin-derb-omar-casablanca-global-service",
+      "tags": [
+        "offres-emploi",
+        "rss",
+        "vente"
+      ],
+      "ourSnippet": "Poste de Commercial magasin derb omar au Maroc. Consulte l'annonce et postule via la source (Offres-emploi.ma).",
+      "trust": {
+        "level": "Verified",
+        "score": 64,
+        "reasons": [
+          "Moteur emploi aggregateur",
+          "Entreprise absente",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "commercial magasin derb omar",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "d7aab68235538b31",
+      "title": "Stagiaire service qualité – casablanca – Bouskoura-oulad saleh , GLOBAL SERVICE",
+      "company": "GLOBAL SERVICE",
+      "city": "Bouskoura-oulad saleh",
+      "remote": "Unknown",
+      "category": "Tech",
+      "postedAt": "2026-10-30T08:01:15.000Z",
+      "source": "EMPLOI_MAROC",
+      "sourceUrl": "https://www.emplois.co/stagiaire-service-qualite-casablanca-bouskoura-oulad-saleh-global-service",
+      "sourceId": "stagiaire-service-qualite-casablanca-bouskoura-oulad-saleh-global-service",
+      "tags": [
+        "emploi-maroc",
+        "rss",
+        "agriculture agroalimentaire peche environnement",
+        "stagiaire",
+        "global service",
+        "bouskoura-oulad saleh",
+        "tech"
+      ],
+      "ourSnippet": "Poste de Stagiaire service qualité – casablanca – Bouskoura-oulad saleh , GLOBAL SERVICE a Bouskoura-oulad saleh. Consulte l'annonce et postule via la source (Emplois.co).",
+      "trust": {
+        "level": "Verified",
+        "score": 84,
+        "reasons": [
+          "Plateforme emploi marocaine",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "stagiaire service qualite casablanca bouskoura-oulad saleh global service|global service|bouskoura-oulad saleh",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "618ffdb568e788f4",
+      "title": "Stagiaire service qualité – casablanca",
+      "city": "Casablanca",
+      "remote": "Unknown",
+      "category": "Tech",
+      "postedAt": "2026-10-30T08:01:15.000Z",
+      "source": "OFFRES_EMPLOI",
+      "sourceUrl": "https://www.emplois.co/stagiaire-service-qualite-casablanca-bouskoura-oulad-saleh-global-service",
+      "sourceId": "stagiaire-service-qualite-casablanca-bouskoura-oulad-saleh-global-service",
+      "tags": [
+        "offres-emploi",
+        "rss",
+        "casablanca",
+        "tech"
+      ],
+      "ourSnippet": "Poste de Stagiaire service qualité – casablanca a Casablanca. Consulte l'annonce et postule via la source (Offres-emploi.ma).",
+      "trust": {
+        "level": "Verified",
+        "score": 66,
+        "reasons": [
+          "Moteur emploi aggregateur",
+          "Entreprise absente",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "stagiaire service qualite casablanca|casablanca",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "49e2fcf2d413ffac",
+      "title": "Responsable commercial – Casablanca, Talents Partners",
+      "company": "Talents Partners",
+      "city": "Casablanca",
+      "remote": "Unknown",
+      "category": "Vente",
+      "postedAt": "2026-10-30T08:01:02.000Z",
+      "source": "EMPLOI_MAROC",
+      "sourceUrl": "https://www.emplois.co/responsable-commercial-casablanca-talents-partners",
+      "sourceId": "responsable-commercial-casablanca-talents-partners",
+      "tags": [
+        "emploi-maroc",
+        "rss",
+        "autres",
+        "casablanca",
+        "commercial",
+        "responsable",
+        "responsable commercial",
+        "talents partners",
+        "vente"
+      ],
+      "ourSnippet": "Poste de Responsable commercial – Casablanca, Talents Partners a Casablanca. Consulte l'annonce et postule via la source (Emplois.co).",
+      "trust": {
+        "level": "Verified",
+        "score": 84,
+        "reasons": [
+          "Plateforme emploi marocaine",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "responsable commercial casablanca talents partners|talents partners|casablanca",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "7b8d70eb33c36068",
+      "title": "Responsable commercial",
+      "remote": "Unknown",
+      "category": "Vente",
+      "postedAt": "2026-10-30T08:01:02.000Z",
+      "source": "OFFRES_EMPLOI",
+      "sourceUrl": "https://www.emplois.co/responsable-commercial-casablanca-talents-partners",
+      "sourceId": "responsable-commercial-casablanca-talents-partners",
+      "tags": [
+        "offres-emploi",
+        "rss",
+        "vente"
+      ],
+      "ourSnippet": "Poste de Responsable commercial au Maroc. Consulte l'annonce et postule via la source (Offres-emploi.ma).",
+      "trust": {
+        "level": "Verified",
+        "score": 64,
+        "reasons": [
+          "Moteur emploi aggregateur",
+          "Entreprise absente",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "responsable commercial",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "03a66d53004c4afb",
+      "title": "Responsable développement technico-commercial – industrie (h/f) – Kénitra, Talencia",
+      "company": "Talencia",
+      "city": "Kenitra",
+      "remote": "Unknown",
+      "category": "Vente",
+      "postedAt": "2026-10-29T15:17:03.000Z",
+      "source": "EMPLOI_MAROC",
+      "sourceUrl": "https://www.emplois.co/responsable-developpement-technico-commercial-industrie-hf-kenitra-talencia",
+      "sourceId": "responsable-developpement-technico-commercial-industrie-hf-kenitra-talencia",
+      "tags": [
+        "emploi-maroc",
+        "rss",
+        "industriel",
+        "commercial",
+        "kenitra",
+        "responsable",
+        "responsable commercial",
+        "technico commercial",
+        "talencia",
+        "vente"
+      ],
+      "ourSnippet": "Poste de Responsable développement technico-commercial – industrie (h/f) – Kénitra, Talencia a Kenitra. Consulte l'annonce et postule via la source (Emplois.co).",
+      "trust": {
+        "level": "Verified",
+        "score": 84,
+        "reasons": [
+          "Plateforme emploi marocaine",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "responsable developpement technico-commercial industrie hf kenitra talencia|talencia|kenitra",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "5f1a54efb9d415f4",
+      "title": "Responsable développement technico-commercial – industrie (h/f)",
+      "remote": "Unknown",
+      "category": "Vente",
+      "postedAt": "2026-10-29T15:17:03.000Z",
+      "source": "OFFRES_EMPLOI",
+      "sourceUrl": "https://www.emplois.co/responsable-developpement-technico-commercial-industrie-hf-kenitra-talencia",
+      "sourceId": "responsable-developpement-technico-commercial-industrie-hf-kenitra-talencia",
+      "tags": [
+        "offres-emploi",
+        "rss",
+        "vente"
+      ],
+      "ourSnippet": "Poste de Responsable développement technico-commercial – industrie (h/f) au Maroc. Consulte l'annonce et postule via la source (Offres-emploi.ma).",
+      "trust": {
+        "level": "Verified",
+        "score": 64,
+        "reasons": [
+          "Moteur emploi aggregateur",
+          "Entreprise absente",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "responsable developpement technico-commercial industrie hf",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "bce3705618861c67",
+      "title": "Régleur cnc spécialisé en décolletage – Casablanca, Talents Partners",
+      "company": "Talents Partners",
+      "city": "Casablanca",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-10-28T18:29:00.000Z",
+      "source": "EMPLOI_MAROC",
+      "sourceUrl": "https://www.emplois.co/regleur-cnc-specialise-en-decolletage-casablanca-talents-partners",
+      "sourceId": "regleur-cnc-specialise-en-decolletage-casablanca-talents-partners",
+      "tags": [
+        "emploi-maroc",
+        "rss",
+        "autres",
+        "casablanca",
+        "regleur",
+        "talents partners",
+        "general"
+      ],
+      "ourSnippet": "Poste de Régleur cnc spécialisé en décolletage – Casablanca, Talents Partners a Casablanca. Consulte l'annonce et postule via la source (Emplois.co).",
+      "trust": {
+        "level": "Verified",
+        "score": 84,
+        "reasons": [
+          "Plateforme emploi marocaine",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "regleur cnc specialise en decolletage casablanca talents partners|talents partners|casablanca",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "96f9ba2e82f8c2b8",
+      "title": "Régleur cnc spécialisé en décolletage",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-10-28T18:29:00.000Z",
+      "source": "OFFRES_EMPLOI",
+      "sourceUrl": "https://www.emplois.co/regleur-cnc-specialise-en-decolletage-casablanca-talents-partners",
+      "sourceId": "regleur-cnc-specialise-en-decolletage-casablanca-talents-partners",
+      "tags": [
+        "offres-emploi",
+        "rss",
+        "general"
+      ],
+      "ourSnippet": "Poste de Régleur cnc spécialisé en décolletage au Maroc. Consulte l'annonce et postule via la source (Offres-emploi.ma).",
+      "trust": {
+        "level": "Verified",
+        "score": 64,
+        "reasons": [
+          "Moteur emploi aggregateur",
+          "Entreprise absente",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "regleur cnc specialise en decolletage",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "09e3a29b071b88d1",
+      "title": "Expert en déminéralisation – Laayoune, BET Consulting",
+      "company": "BET Consulting",
+      "city": "Laayoune",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-10-27T13:41:56.000Z",
+      "source": "EMPLOI_MAROC",
+      "sourceUrl": "https://www.emplois.co/expert-en-demineralisation-laayoune-bet-consulting",
+      "sourceId": "expert-en-demineralisation-laayoune-bet-consulting",
+      "tags": [
+        "emploi-maroc",
+        "rss",
+        "agriculture agroalimentaire peche environnement",
+        "bet consulting",
+        "laayoune",
+        "general"
+      ],
+      "ourSnippet": "Poste de Expert en déminéralisation – Laayoune, BET Consulting a Laayoune. Consulte l'annonce et postule via la source (Emplois.co).",
+      "trust": {
+        "level": "Verified",
+        "score": 84,
+        "reasons": [
+          "Plateforme emploi marocaine",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "expert en demineralisation laayoune bet consulting|bet consulting|laayoune",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "2efd48a0648691ad",
+      "title": "Expert en déminéralisation",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-10-27T13:41:56.000Z",
+      "source": "OFFRES_EMPLOI",
+      "sourceUrl": "https://www.emplois.co/expert-en-demineralisation-laayoune-bet-consulting",
+      "sourceId": "expert-en-demineralisation-laayoune-bet-consulting",
+      "tags": [
+        "offres-emploi",
+        "rss",
+        "general"
+      ],
+      "ourSnippet": "Poste de Expert en déminéralisation au Maroc. Consulte l'annonce et postule via la source (Offres-emploi.ma).",
+      "trust": {
+        "level": "Verified",
+        "score": 64,
+        "reasons": [
+          "Moteur emploi aggregateur",
+          "Entreprise absente",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "expert en demineralisation",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "1ef833ad11a0ef52",
+      "title": "Ingénieur hydraulicien – Laayoune, BET Consulting",
+      "company": "BET Consulting",
+      "city": "Laayoune",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-10-27T13:41:53.000Z",
+      "source": "EMPLOI_MAROC",
+      "sourceUrl": "https://www.emplois.co/ingenieur-hydraulicien-laayoune-bet-consulting",
+      "sourceId": "ingenieur-hydraulicien-laayoune-bet-consulting",
+      "tags": [
+        "emploi-maroc",
+        "rss",
+        "agriculture agroalimentaire peche environnement",
+        "bet consulting",
+        "ingenieur",
+        "laayoune",
+        "general"
+      ],
+      "ourSnippet": "Poste de Ingénieur hydraulicien – Laayoune, BET Consulting a Laayoune. Consulte l'annonce et postule via la source (Emplois.co).",
+      "trust": {
+        "level": "Verified",
+        "score": 84,
+        "reasons": [
+          "Plateforme emploi marocaine",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "ingenieur hydraulicien laayoune bet consulting|bet consulting|laayoune",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "f887ab36c0739eec",
+      "title": "Ingénieur hydraulicien",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-10-27T13:41:53.000Z",
+      "source": "OFFRES_EMPLOI",
+      "sourceUrl": "https://www.emplois.co/ingenieur-hydraulicien-laayoune-bet-consulting",
+      "sourceId": "ingenieur-hydraulicien-laayoune-bet-consulting",
+      "tags": [
+        "offres-emploi",
+        "rss",
+        "general"
+      ],
+      "ourSnippet": "Poste de Ingénieur hydraulicien au Maroc. Consulte l'annonce et postule via la source (Offres-emploi.ma).",
+      "trust": {
+        "level": "Verified",
+        "score": 64,
+        "reasons": [
+          "Moteur emploi aggregateur",
+          "Entreprise absente",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "ingenieur hydraulicien",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "541fc3be44f3204f",
+      "title": "Technicien génie rural / génie civil (gr/gc) – Laayoune, BET Consulting",
+      "company": "BET Consulting",
+      "city": "Laayoune",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-10-27T13:41:51.000Z",
+      "source": "EMPLOI_MAROC",
+      "sourceUrl": "https://www.emplois.co/technicien-genie-rural-genie-civil-grgc-laayoune-bet-consulting",
+      "sourceId": "technicien-genie-rural-genie-civil-grgc-laayoune-bet-consulting",
+      "tags": [
+        "emploi-maroc",
+        "rss",
+        "agriculture agroalimentaire peche environnement",
+        "bet consulting",
+        "laayoune",
+        "technicien",
+        "technicien genie civil",
+        "general"
+      ],
+      "ourSnippet": "Poste de Technicien génie rural / génie civil (gr/gc) – Laayoune, BET Consulting a Laayoune. Consulte l'annonce et postule via la source (Emplois.co).",
+      "trust": {
+        "level": "Verified",
+        "score": 84,
+        "reasons": [
+          "Plateforme emploi marocaine",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "technicien genie rural genie civil grgc laayoune bet consulting|bet consulting|laayoune",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "24356d331b5cbeda",
+      "title": "Technicien génie rural / génie civil (gr/gc)",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-10-27T13:41:51.000Z",
+      "source": "OFFRES_EMPLOI",
+      "sourceUrl": "https://www.emplois.co/technicien-genie-rural-genie-civil-grgc-laayoune-bet-consulting",
+      "sourceId": "technicien-genie-rural-genie-civil-grgc-laayoune-bet-consulting",
+      "tags": [
+        "offres-emploi",
+        "rss",
+        "general"
+      ],
+      "ourSnippet": "Poste de Technicien génie rural / génie civil (gr/gc) au Maroc. Consulte l'annonce et postule via la source (Offres-emploi.ma).",
+      "trust": {
+        "level": "Verified",
+        "score": 64,
+        "reasons": [
+          "Moteur emploi aggregateur",
+          "Entreprise absente",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "technicien genie rural genie civil grgc",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "48703ae5cef03d0c",
+      "title": "Ingénieur électromécanicien / énergie solaire – Laayoune, BET Consulting",
+      "company": "BET Consulting",
+      "city": "Laayoune",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-10-27T13:41:49.000Z",
+      "source": "EMPLOI_MAROC",
+      "sourceUrl": "https://www.emplois.co/ingenieur-electromecanicien-energie-solaire-laayoune-bet-consulting",
+      "sourceId": "ingenieur-electromecanicien-energie-solaire-laayoune-bet-consulting",
+      "tags": [
+        "emploi-maroc",
+        "rss",
+        "agriculture agroalimentaire peche environnement",
+        "bet consulting",
+        "electromecanicien",
+        "ingenieur",
+        "laayoune",
+        "general"
+      ],
+      "ourSnippet": "Poste de Ingénieur électromécanicien / énergie solaire – Laayoune, BET Consulting a Laayoune. Consulte l'annonce et postule via la source (Emplois.co).",
+      "trust": {
+        "level": "Verified",
+        "score": 84,
+        "reasons": [
+          "Plateforme emploi marocaine",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "ingenieur electromecanicien energie solaire laayoune bet consulting|bet consulting|laayoune",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "797c76b48d89e6ce",
+      "title": "Ingénieur génie civil – Laayoune, BET Consulting",
+      "company": "BET Consulting",
+      "city": "Laayoune",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-10-27T13:41:47.000Z",
+      "source": "EMPLOI_MAROC",
+      "sourceUrl": "https://www.emplois.co/ingenieur-genie-civil-laayoune-bet-consulting",
+      "sourceId": "ingenieur-genie-civil-laayoune-bet-consulting",
+      "tags": [
+        "emploi-maroc",
+        "rss",
+        "agriculture agroalimentaire peche environnement",
+        "bet consulting",
+        "ingenieur",
+        "ingenieur genie civil",
+        "laayoune",
+        "general"
+      ],
+      "ourSnippet": "Poste de Ingénieur génie civil – Laayoune, BET Consulting a Laayoune. Consulte l'annonce et postule via la source (Emplois.co).",
+      "trust": {
+        "level": "Verified",
+        "score": 84,
+        "reasons": [
+          "Plateforme emploi marocaine",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "ingenieur genie civil laayoune bet consulting|bet consulting|laayoune",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "839647e12afc6a82",
+      "title": "Chef de mission — ingénieur génie rural – Laayoune, BET Consulting",
+      "company": "BET Consulting",
+      "city": "Laayoune",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-10-27T13:41:44.000Z",
+      "source": "EMPLOI_MAROC",
+      "sourceUrl": "https://www.emplois.co/chef-de-mission-ingenieur-genie-rural-laayoune-bet-consulting",
+      "sourceId": "chef-de-mission-ingenieur-genie-rural-laayoune-bet-consulting",
+      "tags": [
+        "emploi-maroc",
+        "rss",
+        "agriculture agroalimentaire peche environnement",
+        "bet consulting",
+        "chef mission",
+        "ingenieur",
+        "laayoune",
+        "general"
+      ],
+      "ourSnippet": "Poste de Chef de mission — ingénieur génie rural – Laayoune, BET Consulting a Laayoune. Consulte l'annonce et postule via la source (Emplois.co).",
+      "trust": {
+        "level": "Verified",
+        "score": 84,
+        "reasons": [
+          "Plateforme emploi marocaine",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "chef de mission ingenieur genie rural laayoune bet consulting|bet consulting|laayoune",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "c05e0c9e0ce8d655",
+      "title": "Chargé(e) de formation – industrie – Casablanca, Talents Partners",
+      "company": "Talents Partners",
+      "city": "Casablanca",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-10-26T15:53:29.000Z",
+      "source": "EMPLOI_MAROC",
+      "sourceUrl": "https://www.emplois.co/chargee-de-formation-industrie-casablanca-talents-partners",
+      "sourceId": "chargee-de-formation-industrie-casablanca-talents-partners",
+      "tags": [
+        "emploi-maroc",
+        "rss",
+        "industriel",
+        "casablanca",
+        "charge formation",
+        "talents partners",
+        "general"
+      ],
+      "ourSnippet": "Poste de Chargé(e) de formation – industrie – Casablanca, Talents Partners a Casablanca. Consulte l'annonce et postule via la source (Emplois.co).",
+      "trust": {
+        "level": "Verified",
+        "score": 84,
+        "reasons": [
+          "Plateforme emploi marocaine",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "chargee de formation industrie casablanca talents partners|talents partners|casablanca",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "d41860bba3844849",
+      "title": "Superviseur/contrôleur gardiennage – Casablanca, Gesko",
+      "company": "Gesko",
+      "city": "Casablanca",
+      "remote": "Unknown",
+      "category": "Tech",
+      "postedAt": "2026-10-26T14:24:12.000Z",
+      "source": "EMPLOI_MAROC",
+      "sourceUrl": "https://www.emplois.co/superviseur-controleur-gardiennage-casablanca-gesko",
+      "sourceId": "superviseur-controleur-gardiennage-casablanca-gesko",
+      "tags": [
+        "emploi-maroc",
+        "rss",
+        "nettoyage securite gardiennage",
+        "casablanca",
+        "gesko",
+        "superviseur",
+        "tech"
+      ],
+      "ourSnippet": "Poste de Superviseur/contrôleur gardiennage – Casablanca, Gesko a Casablanca. Consulte l'annonce et postule via la source (Emplois.co).",
+      "trust": {
+        "level": "Verified",
+        "score": 84,
+        "reasons": [
+          "Plateforme emploi marocaine",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "superviseurcontroleur gardiennage casablanca gesko|gesko|casablanca",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "7cab3602d2c16ae9",
+      "title": "Responsable ressources humaine – Casablanca, Gesko",
+      "company": "Gesko",
+      "city": "Casablanca",
+      "remote": "Unknown",
+      "category": "Tech",
+      "postedAt": "2026-10-26T14:23:51.000Z",
+      "source": "EMPLOI_MAROC",
+      "sourceUrl": "https://www.emplois.co/responsable-ressources-humaine-casablanca-gesko",
+      "sourceId": "responsable-ressources-humaine-casablanca-gesko",
+      "tags": [
+        "emploi-maroc",
+        "rss",
+        "nettoyage securite gardiennage",
+        "casablanca",
+        "gesko",
+        "responsable",
+        "tech"
+      ],
+      "ourSnippet": "Poste de Responsable ressources humaine – Casablanca, Gesko a Casablanca. Consulte l'annonce et postule via la source (Emplois.co).",
+      "trust": {
+        "level": "Verified",
+        "score": 84,
+        "reasons": [
+          "Plateforme emploi marocaine",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "responsable ressources humaine casablanca gesko|gesko|casablanca",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "7a61f6fc498977d3",
+      "title": "Resoponsable inorganique – Agadir, RESPONSABLE RH",
+      "company": "RESPONSABLE RH",
+      "city": "Agadir",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-10-24T15:51:54.000Z",
+      "source": "EMPLOI_MAROC",
+      "sourceUrl": "https://www.emplois.co/resoponsable-inorganique-agadir-responsable-rh",
+      "sourceId": "resoponsable-inorganique-agadir-responsable-rh",
+      "tags": [
+        "emploi-maroc",
+        "rss",
+        "agriculture agroalimentaire peche environnement",
+        "agadir",
+        "responsable rh",
+        "general"
+      ],
+      "ourSnippet": "Poste de Resoponsable inorganique – Agadir, RESPONSABLE RH a Agadir. Consulte l'annonce et postule via la source (Emplois.co).",
+      "trust": {
+        "level": "Verified",
+        "score": 84,
+        "reasons": [
+          "Plateforme emploi marocaine",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "resoponsable inorganique agadir responsable rh|responsable rh|agadir",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "1aabaa24f755fd13",
+      "title": "Assistante de reception – Casablanca, RESPONSABLE RH",
+      "company": "RESPONSABLE RH",
+      "city": "Casablanca",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-10-24T15:51:51.000Z",
+      "source": "EMPLOI_MAROC",
+      "sourceUrl": "https://www.emplois.co/assistante-de-reception-casablanca-responsable-rh",
+      "sourceId": "assistante-de-reception-casablanca-responsable-rh",
+      "tags": [
+        "emploi-maroc",
+        "rss",
+        "agriculture agroalimentaire peche environnement",
+        "assistant",
+        "assistante",
+        "casablanca",
+        "responsable rh",
+        "general"
+      ],
+      "ourSnippet": "Poste de Assistante de reception – Casablanca, RESPONSABLE RH a Casablanca. Consulte l'annonce et postule via la source (Emplois.co).",
+      "trust": {
+        "level": "Verified",
+        "score": 84,
+        "reasons": [
+          "Plateforme emploi marocaine",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "assistante de reception casablanca responsable rh|responsable rh|casablanca",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "420bb530a555a40a",
+      "title": "Recrutement : barista & caissière a rabat – Rabat, Restaurant a Rabat",
+      "company": "Restaurant a Rabat",
+      "city": "Rabat",
+      "remote": "Unknown",
+      "category": "Vente",
+      "postedAt": "2026-10-24T15:51:43.000Z",
+      "source": "EMPLOI_MAROC",
+      "sourceUrl": "https://www.emplois.co/recrutement-barista-caissiere-a-rabat-rabat-restaurant-a-rabat",
+      "sourceId": "recrutement-barista-caissiere-a-rabat-rabat-restaurant-a-rabat",
+      "tags": [
+        "emploi-maroc",
+        "rss",
+        "hotellerie restauration",
+        "caissier",
+        "rabat",
+        "restaurant a rabat",
+        "vente"
+      ],
+      "ourSnippet": "Poste de Recrutement : barista & caissière a rabat – Rabat, Restaurant a Rabat a Rabat. Consulte l'annonce et postule via la source (Emplois.co).",
+      "trust": {
+        "level": "Verified",
+        "score": 84,
+        "reasons": [
+          "Plateforme emploi marocaine",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "recrutement barista caissiere a rabat rabat restaurant a rabat|restaurant a rabat|rabat",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "8b239f7bea8a49cb",
+      "title": "Responsable prescription-sanitaire – Casablanca, FMD",
+      "company": "FMD",
+      "city": "Casablanca",
+      "remote": "Unknown",
+      "category": "Tech",
+      "postedAt": "2026-10-24T15:51:39.000Z",
+      "source": "EMPLOI_MAROC",
+      "sourceUrl": "https://www.emplois.co/responsable-prescription-sanitaire-casablanca-fmd",
+      "sourceId": "responsable-prescription-sanitaire-casablanca-fmd",
+      "tags": [
+        "emploi-maroc",
+        "rss",
+        "commerce distribution",
+        "casablanca",
+        "responsable",
+        "fmd",
+        "tech"
+      ],
+      "ourSnippet": "Poste de Responsable prescription-sanitaire – Casablanca, FMD a Casablanca. Consulte l'annonce et postule via la source (Emplois.co).",
+      "trust": {
+        "level": "Verified",
+        "score": 84,
+        "reasons": [
+          "Plateforme emploi marocaine",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "responsable prescription-sanitaire casablanca fmd|fmd|casablanca",
+      "createdAt": "2026-11-04T12:56:53.365Z"
+    },
+    {
+      "id": "9f6900301d3fe921",
+      "title": "Assistant(e) Développement Digital & Relation Client",
+      "company": "HA COLLABNombre de postes : 1Expérience demandée : Moins d’un an",
+      "experience": "1-3",
+      "remote": "Unknown",
+      "category": "Tech",
+      "postedAt": "2026-03-11T17:02:06.000Z",
+      "source": "NOVOJOB",
+      "sourceUrl": "https://www.novojob.com/offres-d-emploi/offre-d-emploi/cote-d-ivoire/136641-assistant-e-developpement-digital-relation-client",
+      "sourceId": "136641-assistant-e-developpement-digital-relation-client",
+      "tags": [
+        "novojob",
+        "rss",
+        "ha collabnombre de postes 1experience demandee moins dun an",
+        "tech"
+      ],
+      "ourSnippet": "Poste de Assistant(e) Développement Digital & Relation Client au Maroc. Consulte l'annonce et postule via la source (Novojob).",
+      "trust": {
+        "level": "Verified",
+        "score": 76,
+        "reasons": [
+          "Portail recrutement regional",
+          "Entreprise renseignee",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "assistante developpement digital relation client|ha collabnombre de postes 1experience demandee moins dun an",
+      "createdAt": "2026-04-21T07:04:32.490Z"
+    },
+    {
+      "id": "b20f1e2bcf3d9982",
+      "title": "Caissier",
+      "company": "Marjane",
+      "city": "Casablanca",
+      "region": "Casablanca-Settat",
+      "contract": "CDD",
+      "experience": "0",
+      "salary": "3500-4500 MAD",
+      "remote": "Onsite",
+      "category": "Vente",
+      "postedAt": "2026-02-20T00:00:00.000Z",
+      "source": "ANAPEC",
+      "sourceUrl": "https://www.anapec.org/sigec-app-rv/annonce/caissier-casablanca-2026",
+      "sourceId": "caissier-casablanca-2026",
+      "tags": [
+        "caissier",
+        "vente",
+        "debutant",
+        "casablanca"
+      ],
+      "ourSnippet": "Poste de Caissier a Casablanca. Contrat CDD. Consulte l'annonce et postule via la source (ANAPEC).",
+      "trust": {
+        "level": "Official",
+        "score": 96,
+        "reasons": [
+          "Source ANAPEC",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "caissier|marjane|casablanca",
+      "createdAt": "2026-02-20T07:15:00.000Z"
+    },
+    {
+      "id": "e50f1e2bcf3d9985",
+      "title": "Conseiller Clientele",
+      "company": "Call Hub",
+      "city": "Tanger",
+      "region": "Tanger-Tetouan-Al Hoceima",
+      "contract": "CDD",
+      "experience": "0",
+      "salary": "4200 MAD",
+      "remote": "Onsite",
+      "category": "Relation client",
+      "postedAt": "2026-02-20T00:00:00.000Z",
+      "source": "ANAPEC",
+      "sourceUrl": "https://www.anapec.org/sigec-app-rv/annonce/conseiller-clientele-tanger",
+      "sourceId": "conseiller-clientele-tanger",
+      "tags": [
+        "service client",
+        "centre d'appel",
+        "tanger"
+      ],
+      "ourSnippet": "Poste de Conseiller Clientele a Tanger. Contrat CDD. Consulte l'annonce et postule via la source (ANAPEC).",
+      "trust": {
+        "level": "Official",
+        "score": 96,
+        "reasons": [
+          "Source ANAPEC",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "conseiller clientele|call hub|tanger",
+      "createdAt": "2026-02-20T07:15:00.000Z"
+    },
+    {
+      "id": "i90f1e2bcf3d9989",
+      "title": "Stage Marketing Digital",
+      "company": "Agence Nomad",
+      "city": "Oujda",
+      "region": "Oriental",
+      "contract": "Stage",
+      "experience": "0",
+      "salary": "2500 MAD",
+      "remote": "Hybrid",
+      "category": "Vente",
+      "postedAt": "2026-02-20T00:00:00.000Z",
+      "source": "EMPLOI_MA",
+      "sourceUrl": "https://www.emploi.ma/offre-emploi-maroc/stage-marketing-digital-oujda",
+      "sourceId": "stage-marketing-digital-oujda",
+      "tags": [
+        "stage",
+        "marketing",
+        "oujda"
+      ],
+      "ourSnippet": "Poste de Stage Marketing Digital a Oujda. Contrat Stage. Mode Hybrid. Consulte l'annonce et postule via la source (Emploi.ma).",
+      "trust": {
+        "level": "Verified",
+        "score": 80,
+        "reasons": [
+          "Portail emploi connu au Maroc",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "stage marketing digital|agence nomad|oujda",
+      "createdAt": "2026-02-20T07:15:00.000Z"
+    },
+    {
+      "id": "c30f1e2bcf3d9983",
+      "title": "Developpeur Full Stack",
+      "company": "StartUp Atlas",
+      "city": "Marrakech",
+      "region": "Marrakech-Safi",
+      "contract": "CDI",
+      "experience": "1-3",
+      "salary": "12000 MAD",
+      "remote": "Hybrid",
+      "category": "Tech",
+      "postedAt": "2026-02-18T00:00:00.000Z",
+      "source": "EMPLOI_MA",
+      "sourceUrl": "https://www.emploi.ma/offre-emploi-maroc/developpeur-full-stack-marrakech",
+      "sourceId": "developpeur-full-stack-marrakech",
+      "tags": [
+        "developpeur",
+        "react",
+        "node",
+        "marrakech"
+      ],
+      "ourSnippet": "Poste de Developpeur Full Stack a Marrakech. Contrat CDI. Mode Hybrid. Consulte l'annonce et postule via la source (Emploi.ma).",
+      "trust": {
+        "level": "Verified",
+        "score": 81,
+        "reasons": [
+          "Portail emploi connu au Maroc",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "developpeur full stack|startup atlas|marrakech",
+      "createdAt": "2026-02-20T07:15:00.000Z"
+    },
+    {
+      "id": "f60f1e2bcf3d9986",
+      "title": "Infirmier polyvalent",
+      "company": "Clinique Assalam",
+      "city": "Agadir",
+      "region": "Souss-Massa",
+      "contract": "CDI",
+      "experience": "1-3",
+      "salary": "8000 MAD",
+      "remote": "Onsite",
+      "category": "Sante",
+      "postedAt": "2026-02-18T00:00:00.000Z",
+      "source": "EMPLOI_MA",
+      "sourceUrl": "https://www.emploi.ma/offre-emploi-maroc/infirmier-polyvalent-agadir",
+      "sourceId": "infirmier-polyvalent-agadir",
+      "tags": [
+        "sante",
+        "infirmier",
+        "agadir"
+      ],
+      "ourSnippet": "Poste de Infirmier polyvalent a Agadir. Contrat CDI. Consulte l'annonce et postule via la source (Emploi.ma).",
+      "trust": {
+        "level": "Verified",
+        "score": 80,
+        "reasons": [
+          "Portail emploi connu au Maroc",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "infirmier polyvalent|clinique assalam|agadir",
+      "createdAt": "2026-02-20T07:15:00.000Z"
+    },
+    {
+      "id": "d40f1e2bcf3d9984",
+      "title": "Comptable Junior",
+      "company": "Cabinet Fisc Maroc",
+      "city": "Fes",
+      "region": "Fes-Meknes",
+      "contract": "CDI",
+      "experience": "1-3",
+      "salary": "6000 MAD",
+      "remote": "Onsite",
+      "category": "Comptabilite",
+      "postedAt": "2026-02-17T00:00:00.000Z",
+      "source": "EMPLOI_MA",
+      "sourceUrl": "https://www.emploi.ma/offre-emploi-maroc/comptable-junior-fes",
+      "sourceId": "comptable-junior-fes",
+      "tags": [
+        "comptable",
+        "finance",
+        "fes"
+      ],
+      "ourSnippet": "Poste de Comptable Junior a Fes. Contrat CDI. Consulte l'annonce et postule via la source (Emploi.ma).",
+      "trust": {
+        "level": "Verified",
+        "score": 79,
+        "reasons": [
+          "Portail emploi connu au Maroc",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "comptable junior|cabinet fisc maroc|fes",
+      "createdAt": "2026-02-20T07:15:00.000Z"
+    },
+    {
+      "id": "g70f1e2bcf3d9987",
+      "title": "Technicien logistique",
+      "company": "Port Tanger Med",
+      "city": "Kenitra",
+      "region": "Rabat-Sale-Kenitra",
+      "contract": "CDD",
+      "experience": "1-3",
+      "salary": "5500 MAD",
+      "remote": "Onsite",
+      "category": "Logistique",
+      "postedAt": "2026-02-16T00:00:00.000Z",
+      "source": "ANAPEC",
+      "sourceUrl": "https://www.anapec.org/sigec-app-rv/annonce/technicien-logistique-kenitra",
+      "sourceId": "technicien-logistique-kenitra",
+      "tags": [
+        "logistique",
+        "kenitra"
+      ],
+      "ourSnippet": "Poste de Technicien logistique a Kenitra. Contrat CDD. Consulte l'annonce et postule via la source (ANAPEC).",
+      "trust": {
+        "level": "Official",
+        "score": 96,
+        "reasons": [
+          "Source ANAPEC",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "technicien logistique|port tanger med|kenitra",
+      "createdAt": "2026-02-20T07:15:00.000Z"
+    },
+    {
+      "id": "37ef22f9f34d2240",
+      "title": "Concours de recrutement",
+      "contract": "Public",
+      "remote": "Unknown",
+      "category": "Public",
+      "source": "EMPLOI_PUBLIC",
+      "sourceUrl": "https://www.emploi-public.ma/fr/content/textes-concours",
+      "sourceId": "textes-concours",
+      "tags": [
+        "concours",
+        "public"
+      ],
+      "ourSnippet": "Poste de Concours de recrutement au Maroc. Contrat Public. Consulte l'annonce et postule via la source (Emploi Public).",
+      "trust": {
+        "level": "Verified",
+        "score": 83,
+        "reasons": [
+          "Source etatique emploi-public.ma",
+          "Entreprise absente",
+          "Date absente"
+        ]
+      },
+      "dedupeKey": "concours de recrutement",
+      "createdAt": "2026-02-20T17:40:02.031Z"
+    },
+    {
+      "id": "85bafbc0f01c538b",
+      "title": "Calendrier des concours",
+      "contract": "Public",
+      "remote": "Unknown",
+      "category": "Public",
+      "source": "EMPLOI_PUBLIC",
+      "sourceUrl": "https://www.emploi-public.ma/fr/concours/calendrier",
+      "sourceId": "calendrier",
+      "tags": [
+        "concours",
+        "public"
+      ],
+      "ourSnippet": "Poste de Calendrier des concours au Maroc. Contrat Public. Consulte l'annonce et postule via la source (Emploi Public).",
+      "trust": {
+        "level": "Verified",
+        "score": 83,
+        "reasons": [
+          "Source etatique emploi-public.ma",
+          "Entreprise absente",
+          "Date absente"
+        ]
+      },
+      "dedupeKey": "calendrier des concours",
+      "createdAt": "2026-02-20T17:40:02.031Z"
+    },
+    {
+      "id": "cc441781929dc35e",
+      "title": "Suivant >",
+      "contract": "Public",
+      "remote": "Unknown",
+      "category": "Public",
+      "source": "EMPLOI_PUBLIC",
+      "sourceUrl": "https://www.emploi-public.ma/fr/concours-liste?page=2",
+      "sourceId": "concours-liste?page=2",
+      "tags": [
+        "concours",
+        "public"
+      ],
+      "ourSnippet": "Poste de Suivant > au Maroc. Contrat Public. Consulte l'annonce et postule via la source (Emploi Public).",
+      "trust": {
+        "level": "Verified",
+        "score": 83,
+        "reasons": [
+          "Source etatique emploi-public.ma",
+          "Entreprise absente",
+          "Date absente"
+        ]
+      },
+      "dedupeKey": "suivant",
+      "createdAt": "2026-02-20T17:40:02.031Z"
+    }
+  ]
+}
