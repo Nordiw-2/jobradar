@@ -1,7 +1,8 @@
 {
-  "updatedAt": "2026-11-06T12:54:09.357Z",
+  "updatedAt": "2026-11-07T11:41:19.663Z",
   "total": 80,
   "cities": [
+    "1",
     "Agadir",
     "Casablanca",
     "Fes",
@@ -39,7 +40,10 @@
     "5+"
   ],
   "tags": [
+    "1",
     "agadir",
+    "agent commercial",
+    "akdital",
     "alten maroc",
     "axa services maroc",
     "bet consulting",
@@ -48,8 +52,8 @@
     "casablanca",
     "casablanca yguane group",
     "centre d'appel",
-    "chef equipe",
     "commercial",
+    "commercial terrain",
     "comptabilite",
     "comptable",
     "concours",
@@ -59,7 +63,6 @@
     "distrans express maroc",
     "dxc cdg",
     "dxc cdg sala al",
-    "dxc cdg technopolis sala al",
     "emploi-maroc",
     "fes",
     "finance",
@@ -71,7 +74,6 @@
     "general",
     "globe rh",
     "groupe labelvie carrefour",
-    "groupe labelvie carrefour beni",
     "groupe labelvie carrefour tout le",
     "gsm al maghrib",
     "ha collabnombre de postes 1experience demandee moins dun an",
@@ -117,7 +119,8 @@
     "tetouan",
     "tout le maroc",
     "universite internationale de rabat uir",
-    "vente"
+    "vente",
+    "vuclair"
   ],
   "sources": [
     "ANAPEC",
