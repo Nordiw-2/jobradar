@@ -1,7 +1,68 @@
 {
-  "updatedAt": "2026-11-07T11:41:19.663Z",
-  "total": 80,
+  "updatedAt": "2026-11-08T11:53:45.032Z",
+  "total": 81,
   "jobs": [
+    {
+      "id": "b31b3d2ece685f2b",
+      "title": "Architecte d’intérieur (H/F) – Casablanca, NK ARCH AMENAGEMENT",
+      "company": "NK ARCH AMENAGEMENT",
+      "city": "Casablanca",
+      "remote": "Unknown",
+      "category": "Tech",
+      "postedAt": "2026-11-07T23:53:00.000Z",
+      "source": "EMPLOI_MAROC",
+      "sourceUrl": "https://www.emplois.co/architecte-dinterieur-h-f-casablanca-nk-arch-amenagement",
+      "sourceId": "architecte-dinterieur-h-f-casablanca-nk-arch-amenagement",
+      "tags": [
+        "emploi-maroc",
+        "rss",
+        "architecte",
+        "architecte interieur",
+        "casablanca",
+        "nk arch amenagement",
+        "tech"
+      ],
+      "ourSnippet": "Poste de Architecte d’intérieur (H/F) – Casablanca, NK ARCH AMENAGEMENT a Casablanca. Consulte l'annonce et postule via la source (Emplois.co).",
+      "trust": {
+        "level": "Verified",
+        "score": 84,
+        "reasons": [
+          "Plateforme emploi marocaine",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "architecte dinterieur hf casablanca nk arch amenagement|nk arch amenagement|casablanca",
+      "createdAt": "2026-11-08T11:53:45.032Z"
+    },
+    {
+      "id": "c42f019e154d54b8",
+      "title": "Architecte d’intérieur (H/F)",
+      "remote": "Unknown",
+      "category": "Tech",
+      "postedAt": "2026-11-07T23:53:00.000Z",
+      "source": "OFFRES_EMPLOI",
+      "sourceUrl": "https://www.emplois.co/architecte-dinterieur-h-f-casablanca-nk-arch-amenagement",
+      "sourceId": "architecte-dinterieur-h-f-casablanca-nk-arch-amenagement",
+      "tags": [
+        "offres-emploi",
+        "rss",
+        "tech"
+      ],
+      "ourSnippet": "Poste de Architecte d’intérieur (H/F) au Maroc. Consulte l'annonce et postule via la source (Offres-emploi.ma).",
+      "trust": {
+        "level": "Verified",
+        "score": 64,
+        "reasons": [
+          "Moteur emploi aggregateur",
+          "Entreprise absente",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "architecte dinterieur hf",
+      "createdAt": "2026-11-08T11:53:45.032Z"
+    },
     {
       "id": "903fb911ec7ea5eb",
       "title": "Agent commercial de terrain / casablanca – Casablanca, Vuclair",
@@ -35,7 +96,7 @@
         ]
       },
       "dedupeKey": "agent commercial de terrain casablanca casablanca vuclair|vuclair|casablanca",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "59e9e9be3bcbd9a3",
@@ -65,7 +126,40 @@
         ]
       },
       "dedupeKey": "agent commercial de terrain casablanca|casablanca",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
+    },
+    {
+      "id": "7d7e832175a94d11",
+      "title": "Développeur / Développeuse Salesforce",
+      "company": "Capgemini",
+      "city": "Casablanca",
+      "contract": "CDI",
+      "experience": "1-3",
+      "remote": "Unknown",
+      "category": "Tech",
+      "postedAt": "2026-11-07T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-developpeur-developpeuse-salesforce-recrutement-capgemini-casablanca-188318.html",
+      "sourceId": "offre-emploi-developpeur-developpeuse-salesforce-recrutement-capgemini-casablanca-188318.html",
+      "tags": [
+        "rekrute",
+        "capgemini",
+        "casablanca",
+        "tech"
+      ],
+      "ourSnippet": "Poste de Développeur / Développeuse Salesforce a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "developpeur developpeuse salesforce|capgemini|casablanca",
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "b36d838097fff0fc",
@@ -98,7 +192,7 @@
         ]
       },
       "dedupeKey": "infirmiere reanimation neonatale mohammedia|akdital|1",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "69cf253d4a7152f2",
@@ -131,7 +225,7 @@
         ]
       },
       "dedupeKey": "delegue regional hf|confidentiel|casablanca",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "1686bc9a9fca805a",
@@ -166,7 +260,7 @@
         ]
       },
       "dedupeKey": "responsable departement import secteur industriel electrique casablanca globe rh|globe rh|casablanca",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "8544da691828e6c4",
@@ -193,7 +287,7 @@
         ]
       },
       "dedupeKey": "responsable departement import secteur industriel electrique",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "458ddf3a3a9796d7",
@@ -231,7 +325,7 @@
         ]
       },
       "dedupeKey": "technicienne support technique technico-commerciale agadir flaster group|flaster group|agadir",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "00b2a4af33357457",
@@ -258,7 +352,7 @@
         ]
       },
       "dedupeKey": "technicienne support technique technico-commerciale",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "85f5392717f9872f",
@@ -291,7 +385,7 @@
         ]
       },
       "dedupeKey": "inspecteur commercial sedentaire hf|heomi|casablanca",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "9e1eeef91b79aeb2",
@@ -324,7 +418,7 @@
         ]
       },
       "dedupeKey": "cloud engineering administrateur sre kubernetes senior|alten maroc|rabat",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "eb158fd950b59497",
@@ -357,7 +451,7 @@
         ]
       },
       "dedupeKey": "chef de departement hf - hypermarche mobilite nationale|groupe labelvie carrefour tout le|tout le maroc",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "8ce51c7c46d9e7ef",
@@ -390,7 +484,7 @@
         ]
       },
       "dedupeKey": "hrbp hyper|groupe labelvie carrefour tout le|rabat",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "044409c39a136f55",
@@ -423,7 +517,7 @@
         ]
       },
       "dedupeKey": "data protection officer|axa services maroc|rabat",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "d00e206f513baa12",
@@ -456,7 +550,7 @@
         ]
       },
       "dedupeKey": "expert technique applicatif ba|alten maroc|rabat",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "40a3e931dde09e97",
@@ -489,7 +583,7 @@
         ]
       },
       "dedupeKey": "change management specialist hispano consultant ordonnancement - secteur automobile|alten maroc|tetouan",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "a7fdab67ba4f8059",
@@ -522,7 +616,7 @@
         ]
       },
       "dedupeKey": "order scheduler|alten maroc|rabat",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "b2cdcb79461ffbc2",
@@ -555,7 +649,7 @@
         ]
       },
       "dedupeKey": "technical lead workspace portails dacces applicatifs f5 vpn myapps|alten maroc|rabat",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "79503b788b7a494d",
@@ -588,7 +682,7 @@
         ]
       },
       "dedupeKey": "tech lead voipteams maitrise technique de la chaine voix tgits|alten maroc|rabat",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "e242536f29ba5b95",
@@ -621,7 +715,7 @@
         ]
       },
       "dedupeKey": "data ops senior data platform|alten maroc|rabat",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "87c9761ba0b56b0f",
@@ -654,7 +748,7 @@
         ]
       },
       "dedupeKey": "test lead|axa services maroc|rabat",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "2c628e26c36c4f90",
@@ -687,7 +781,7 @@
         ]
       },
       "dedupeKey": "chargee de tresorerie|confidentiel|casablanca",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "c2a7a630267ead50",
@@ -720,7 +814,7 @@
         ]
       },
       "dedupeKey": "service delivery lead application packaging|alten maroc|rabat",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "38125f3a8c2541e6",
@@ -753,7 +847,7 @@
         ]
       },
       "dedupeKey": "ingenieur reseaux junior|gsm al maghrib|casablanca",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "44aebf45dd0ef5ea",
@@ -786,7 +880,7 @@
         ]
       },
       "dedupeKey": "responsable tresorerie|confidentiel|casablanca",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "52d7e8777d05a9e4",
@@ -819,7 +913,7 @@
         ]
       },
       "dedupeKey": "responsable production|confidentiel|casablanca",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "33570bdccbff88b1",
@@ -852,7 +946,7 @@
         ]
       },
       "dedupeKey": "gestionnaire sinistre|axa services maroc|rabat",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "2b041fbb3fa27a1e",
@@ -885,7 +979,7 @@
         ]
       },
       "dedupeKey": "ingenieur cloud senior|gsm al maghrib|casablanca",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "9bd585ac76acb783",
@@ -918,7 +1012,7 @@
         ]
       },
       "dedupeKey": "ingenieur cloud junior|gsm al maghrib|casablanca",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "8b6a6ec9ca96fb57",
@@ -951,7 +1045,7 @@
         ]
       },
       "dedupeKey": "ingenieur commercial senior|gsm al maghrib|casablanca",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "083f7c37aa40b88a",
@@ -984,7 +1078,7 @@
         ]
       },
       "dedupeKey": "conseillers commerciaux en assurance hf|heomi|casablanca",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "039bc6176b3f013d",
@@ -1017,7 +1111,7 @@
         ]
       },
       "dedupeKey": "hr business partner responsable rh|confidentiel|casablanca",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "0b8e7dca35175bff",
@@ -1050,7 +1144,7 @@
         ]
       },
       "dedupeKey": "chef dagence hf rejoignez une institution engagee et en pleine croissance|fondation arrawaj rabat temara|rabat",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "81a994ba344fcb0e",
@@ -1083,7 +1177,7 @@
         ]
       },
       "dedupeKey": "chef dagence hf rejoignez une institution engagee et en pleine croissance|fondation arrawaj|casablanca",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "ef95d2cad6737930",
@@ -1116,7 +1210,7 @@
         ]
       },
       "dedupeKey": "chef dagence hf rejoignez un reseau en pleine croissance|fondation arrawaj|maroc",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "1075530330f0e827",
@@ -1149,7 +1243,7 @@
         ]
       },
       "dedupeKey": "administrateur reseaux securite|dxc cdg|rabat",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "2f19e07f858e5169",
@@ -1182,7 +1276,7 @@
         ]
       },
       "dedupeKey": "treasury cash management manager|confidentiel|casablanca",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "26f622909d397815",
@@ -1215,7 +1309,7 @@
         ]
       },
       "dedupeKey": "ingenieur electrique schematique et appareillages e3 serie|alten maroc|rabat",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "da86bba769ee69da",
@@ -1248,7 +1342,7 @@
         ]
       },
       "dedupeKey": "agile delivery coach|alten maroc|rabat",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "cc78c924a4a0a622",
@@ -1281,7 +1375,7 @@
         ]
       },
       "dedupeKey": "chargee des etudes hf|universite internationale de rabat uir|rabat",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "4ecddfbb7bee66e8",
@@ -1314,7 +1408,7 @@
         ]
       },
       "dedupeKey": "responsable communication etudiante hf|universite internationale de rabat uir|rabat",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "22369d7c63a2ab89",
@@ -1347,7 +1441,7 @@
         ]
       },
       "dedupeKey": "approvisionneur|groupe labelvie carrefour|skhirat",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "e04c280b120ab0f7",
@@ -1380,7 +1474,7 @@
         ]
       },
       "dedupeKey": "conseillers commerciaux en assurance leads qualifies primes deplafonnees - transport assure|heomi|casablanca",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "d71ba1ca52dea89d",
@@ -1413,7 +1507,7 @@
         ]
       },
       "dedupeKey": "integrateur solutions siem|dxc cdg sala al|sala al jadida",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "dbd1ec8ca85ebbd7",
@@ -1446,7 +1540,7 @@
         ]
       },
       "dedupeKey": "manager de site facility management rabat|axa services maroc|rabat",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "4fa318bcd54512a9",
@@ -1479,40 +1573,7 @@
         ]
       },
       "dedupeKey": "ingenieur dexploitation - junior|dxc cdg|rabat",
-      "createdAt": "2026-11-07T11:41:19.663Z"
-    },
-    {
-      "id": "175949ce99a1f9de",
-      "title": "AGENT POMPISTE",
-      "company": "Distrans Express Maroc",
-      "city": "Casablanca",
-      "contract": "CDD",
-      "experience": "1-3",
-      "remote": "Unknown",
-      "category": "General",
-      "postedAt": "2026-11-05T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-agent-pompiste-recrutement-distrans-express-maroc-casablanca-188280.html",
-      "sourceId": "offre-emploi-agent-pompiste-recrutement-distrans-express-maroc-casablanca-188280.html",
-      "tags": [
-        "rekrute",
-        "distrans express maroc",
-        "casablanca",
-        "general"
-      ],
-      "ourSnippet": "Poste de AGENT POMPISTE a Casablanca. Contrat CDD. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 89,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "agent pompiste|distrans express maroc|casablanca",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "d6c10fb9b61a733c",
@@ -1547,7 +1608,7 @@
         ]
       },
       "dedupeKey": "responsable commercial casablanca talents partners|talents partners|casablanca",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "71b493ea88a6d56c",
@@ -1574,7 +1635,7 @@
         ]
       },
       "dedupeKey": "responsable commercial",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "5804499437b5b146",
@@ -1608,7 +1669,7 @@
         ]
       },
       "dedupeKey": "techniciens sav rabat carrefour medical|carrefour medical|rabat",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "47462e4af59393fd",
@@ -1635,7 +1696,7 @@
         ]
       },
       "dedupeKey": "techniciens sav",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "5b13178a82bcc5d8",
@@ -1668,7 +1729,7 @@
         ]
       },
       "dedupeKey": "expert seo creation de contenus marrakech casablanca yguane group|casablanca yguane group|marrakech",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "1c5727e52c915243",
@@ -1695,7 +1756,7 @@
         ]
       },
       "dedupeKey": "expert seo creation de contenus",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "c6a8b62fb691ce43",
@@ -1731,7 +1792,7 @@
         ]
       },
       "dedupeKey": "ingenieur detat responsable logistique transport casablanca globe rh|globe rh|casablanca",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "3beeaf4b407dd2bc",
@@ -1758,11 +1819,11 @@
         ]
       },
       "dedupeKey": "ingenieur detat responsable logistique transport",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "6a517c9b590432e6",
-      "title": "Formateur(trice) / expert(e) en anglais professionnel – rabat, BET Consulting",
+      "title": "Formateur(trice) / expert(e) en anglais professionnel – Rabat, BET Consulting",
       "company": "BET Consulting",
       "city": "Rabat",
       "remote": "Unknown",
@@ -1780,7 +1841,7 @@
         "rabat",
         "general"
       ],
-      "ourSnippet": "Poste de Formateur(trice) / expert(e) en anglais professionnel – rabat, BET Consulting a Rabat. Consulte l'annonce et postule via la source (Emplois.co).",
+      "ourSnippet": "Poste de Formateur(trice) / expert(e) en anglais professionnel – Rabat, BET Consulting a Rabat. Consulte l'annonce et postule via la source (Emplois.co).",
       "trust": {
         "level": "Verified",
         "score": 84,
@@ -1792,7 +1853,7 @@
         ]
       },
       "dedupeKey": "formateurtrice experte en anglais professionnel rabat bet consulting|bet consulting|rabat",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "261b5db36d041b03",
@@ -1819,7 +1880,7 @@
         ]
       },
       "dedupeKey": "formateurtrice experte en anglais professionnel",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "7a929fd5c9e850b1",
@@ -1852,7 +1913,7 @@
         ]
       },
       "dedupeKey": "pharmacienne pour une pharmacie a kenitra maghreb arabi kenitra pharmacie aec|pharmacie aec|kenitra",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "eeaae7ee26b310f9",
@@ -1879,40 +1940,7 @@
         ]
       },
       "dedupeKey": "pharmacienne pour une pharmacie a kenitra maghreb arabi",
-      "createdAt": "2026-11-07T11:41:19.663Z"
-    },
-    {
-      "id": "9a88734d214fb504",
-      "title": "Ingénieur etude modulaire – Casablanca, Talents Partners",
-      "company": "Talents Partners",
-      "city": "Casablanca",
-      "remote": "Unknown",
-      "category": "General",
-      "postedAt": "2026-11-03T09:23:21.000Z",
-      "source": "EMPLOI_MAROC",
-      "sourceUrl": "https://www.emplois.co/ingenieur-etude-modulaire-casablanca-talents-partners",
-      "sourceId": "ingenieur-etude-modulaire-casablanca-talents-partners",
-      "tags": [
-        "emploi-maroc",
-        "rss",
-        "casablanca",
-        "ingenieur",
-        "talents partners",
-        "general"
-      ],
-      "ourSnippet": "Poste de Ingénieur etude modulaire – Casablanca, Talents Partners a Casablanca. Consulte l'annonce et postule via la source (Emplois.co).",
-      "trust": {
-        "level": "Verified",
-        "score": 84,
-        "reasons": [
-          "Plateforme emploi marocaine",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "ingenieur etude modulaire casablanca talents partners|talents partners|casablanca",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "b00d31a029dd479d",
@@ -1939,7 +1967,7 @@
         ]
       },
       "dedupeKey": "ingenieur etude modulaire",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "4c31b3350f488a2e",
@@ -1966,7 +1994,7 @@
         ]
       },
       "dedupeKey": "chef dequipe vrd",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "0edaae716a27a9b6",
@@ -1993,7 +2021,7 @@
         ]
       },
       "dedupeKey": "assistante commerciale et operationnelle",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "1a5520706604d51d",
@@ -2020,7 +2048,7 @@
         ]
       },
       "dedupeKey": "poste technicien frigoriste",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "e460d31ff3501eee",
@@ -2047,7 +2075,7 @@
         ]
       },
       "dedupeKey": "technicien laboratoire-inorganique",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "21380a25af6d342f",
@@ -2077,7 +2105,7 @@
         ]
       },
       "dedupeKey": "responsable commercial en charge de la prescription|casablanca",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "1fd50ff49ab682cc",
@@ -2107,7 +2135,7 @@
         ]
       },
       "dedupeKey": "chef comptable clinique privee|casablanca",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "e7be8f17dc37fc51",
@@ -2134,7 +2162,7 @@
         ]
       },
       "dedupeKey": "media buyer ecommerce",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "05e42eb398ed4ca5",
@@ -2162,7 +2190,7 @@
         ]
       },
       "dedupeKey": "commercial magasin derb omar",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "618ffdb568e788f4",
@@ -2192,7 +2220,7 @@
         ]
       },
       "dedupeKey": "stagiaire service qualite casablanca|casablanca",
-      "createdAt": "2026-11-07T11:41:19.663Z"
+      "createdAt": "2026-11-08T11:53:45.032Z"
     },
     {
       "id": "9f6900301d3fe921",
