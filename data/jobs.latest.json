@@ -1,27 +1,156 @@
 {
-  "updatedAt": "2026-11-11T12:40:25.491Z",
-  "total": 79,
+  "updatedAt": "2026-11-12T13:43:09.630Z",
+  "total": 81,
   "jobs": [
     {
-      "id": "bf7a12421b011185",
-      "title": "Consultant PMO",
-      "company": "Capgemini Engineering",
-      "city": "Casablanca",
-      "contract": "CDI",
-      "experience": "5+",
+      "id": "9d2411f37303120b",
+      "title": "Stagiaire FEMME Commerciale -3 mois- – Tanger, CODE 9",
+      "company": "CODE 9",
+      "city": "Tanger",
       "remote": "Unknown",
-      "category": "General",
-      "postedAt": "2026-11-11T00:00:00.000Z",
+      "category": "Vente",
+      "postedAt": "2026-11-12T10:12:18.000Z",
+      "source": "EMPLOI_MAROC",
+      "sourceUrl": "https://www.emplois.co/stagiaire-femme-commerciale-3-mois-tanger-code-9",
+      "sourceId": "stagiaire-femme-commerciale-3-mois-tanger-code-9",
+      "tags": [
+        "emploi-maroc",
+        "rss",
+        "code 9",
+        "commercial",
+        "commerciale",
+        "stagiaire",
+        "stagiaire commercial",
+        "tanger",
+        "vente"
+      ],
+      "ourSnippet": "Poste de Stagiaire FEMME Commerciale -3 mois- – Tanger, CODE 9 a Tanger. Consulte l'annonce et postule via la source (Emplois.co).",
+      "trust": {
+        "level": "Verified",
+        "score": 84,
+        "reasons": [
+          "Plateforme emploi marocaine",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "stagiaire femme commerciale -3 mois- tanger code 9|code 9|tanger",
+      "createdAt": "2026-11-12T13:43:09.630Z"
+    },
+    {
+      "id": "e613de8891f4d5bf",
+      "title": "Stagiaire FEMME Commerciale -3 mois-",
+      "city": "Tanger",
+      "remote": "Unknown",
+      "category": "Vente",
+      "postedAt": "2026-11-12T10:12:18.000Z",
+      "source": "OFFRES_EMPLOI",
+      "sourceUrl": "https://www.emplois.co/stagiaire-femme-commerciale-3-mois-tanger-code-9",
+      "sourceId": "stagiaire-femme-commerciale-3-mois-tanger-code-9",
+      "tags": [
+        "offres-emploi",
+        "rss",
+        "tanger",
+        "vente"
+      ],
+      "ourSnippet": "Poste de Stagiaire FEMME Commerciale -3 mois- a Tanger. Consulte l'annonce et postule via la source (Offres-emploi.ma).",
+      "trust": {
+        "level": "Verified",
+        "score": 66,
+        "reasons": [
+          "Moteur emploi aggregateur",
+          "Entreprise absente",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "stagiaire femme commerciale -3 mois-|tanger",
+      "createdAt": "2026-11-12T13:43:09.630Z"
+    },
+    {
+      "id": "912bbcfcc66d9916",
+      "title": "Agent commercial indépendant(e) en télétravail – 20 DH HT/heure – Casablanca, Premier Contact (1erContact)",
+      "company": "Premier Contact (1erContact)",
+      "city": "Casablanca",
+      "remote": "Unknown",
+      "category": "Vente",
+      "postedAt": "2026-11-12T00:15:16.000Z",
+      "source": "EMPLOI_MAROC",
+      "sourceUrl": "https://www.emplois.co/agent-commercial-independante-en-teletravail-20-dh-ht-heure-casablanca-premier-contact-1ercontact",
+      "sourceId": "agent-commercial-independante-en-teletravail-20-dh-ht-heure-casablanca-premier-contact-1ercontact",
+      "tags": [
+        "emploi-maroc",
+        "rss",
+        "agent commercial",
+        "casablanca",
+        "commercial",
+        "premier contact 1ercontact",
+        "vente"
+      ],
+      "ourSnippet": "Poste de Agent commercial indépendant(e) en télétravail – 20 DH HT/heure – Casablanca, Premier Contact (1erContact) a Casablanca. Consulte l'annonce et postule via la source (Emplois.co).",
+      "trust": {
+        "level": "Verified",
+        "score": 84,
+        "reasons": [
+          "Plateforme emploi marocaine",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "agent commercial independante en teletravail 20 dh htheure casablanca premier contact 1ercontact|premier contact 1ercontact|casablanca",
+      "createdAt": "2026-11-12T13:43:09.630Z"
+    },
+    {
+      "id": "26e66e32a743c145",
+      "title": "Agent commercial indépendant(e) en télétravail – 20 DH HT/heure",
+      "city": "Casablanca",
+      "remote": "Unknown",
+      "category": "Vente",
+      "postedAt": "2026-11-12T00:15:16.000Z",
+      "source": "OFFRES_EMPLOI",
+      "sourceUrl": "https://www.emplois.co/agent-commercial-independante-en-teletravail-20-dh-ht-heure-casablanca-premier-contact-1ercontact",
+      "sourceId": "agent-commercial-independante-en-teletravail-20-dh-ht-heure-casablanca-premier-contact-1ercontact",
+      "tags": [
+        "offres-emploi",
+        "rss",
+        "casablanca",
+        "vente"
+      ],
+      "ourSnippet": "Poste de Agent commercial indépendant(e) en télétravail – 20 DH HT/heure a Casablanca. Consulte l'annonce et postule via la source (Offres-emploi.ma).",
+      "trust": {
+        "level": "Verified",
+        "score": 66,
+        "reasons": [
+          "Moteur emploi aggregateur",
+          "Entreprise absente",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "agent commercial independante en teletravail 20 dh htheure|casablanca",
+      "createdAt": "2026-11-12T13:43:09.630Z"
+    },
+    {
+      "id": "62758d5ca2997a5f",
+      "title": "Conseiller Client (F/H) - Service client - Rabat - Français",
+      "company": "Concentrix",
+      "city": "Rabat",
+      "experience": "1-3",
+      "remote": "Unknown",
+      "category": "Relation client",
+      "postedAt": "2026-11-12T00:00:00.000Z",
       "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-consultant-pmo-recrutement-capgemini-engineering-casablanca-188429.html",
-      "sourceId": "offre-emploi-consultant-pmo-recrutement-capgemini-engineering-casablanca-188429.html",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-conseiller-client-fh---service-client---rabat---francais-recrutement-concentrix-rabat-187400.html",
+      "sourceId": "offre-emploi-conseiller-client-fh---service-client---rabat---francais-recrutement-concentrix-rabat-187400.html",
       "tags": [
         "rekrute",
-        "capgemini engineering",
-        "casablanca",
-        "general"
+        "concentrix",
+        "rabat",
+        "relation client"
       ],
-      "ourSnippet": "Poste de Consultant PMO a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "ourSnippet": "Poste de Conseiller Client (F/H) - Service client - Rabat - Français a Rabat. Consulte l'annonce et postule via la source (ReKrute).",
       "trust": {
         "level": "Verified",
         "score": 89,
@@ -32,29 +161,253 @@
           "Date publiee"
         ]
       },
-      "dedupeKey": "consultant pmo|capgemini engineering|casablanca",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "dedupeKey": "conseiller client fh - service client - rabat - francais|concentrix|rabat",
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
-      "id": "e784f9c3ae7ffe8e",
-      "title": "Manager H/F",
-      "company": "Mcdonalds Maroc",
-      "city": "Marrakech",
-      "contract": "CDI",
-      "experience": "0",
+      "id": "1f842fb9d58910b4",
+      "title": "Conseiller Client (F/H) - Télévente B2B- Rabat - Français",
+      "company": "Concentrix",
+      "city": "Rabat",
+      "experience": "1-3",
       "remote": "Unknown",
-      "category": "General",
-      "postedAt": "2026-11-11T00:00:00.000Z",
+      "category": "Vente",
+      "postedAt": "2026-11-12T00:00:00.000Z",
       "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-manager-hf-recrutement-mcdonalds-maroc-marrakech-188422.html",
-      "sourceId": "offre-emploi-manager-hf-recrutement-mcdonalds-maroc-marrakech-188422.html",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-conseiller-client-fh---televente-b2b--rabat---francais-recrutement-concentrix-rabat-187401.html",
+      "sourceId": "offre-emploi-conseiller-client-fh---televente-b2b--rabat---francais-recrutement-concentrix-rabat-187401.html",
       "tags": [
         "rekrute",
-        "mcdonalds maroc",
+        "concentrix",
+        "rabat",
+        "vente"
+      ],
+      "ourSnippet": "Poste de Conseiller Client (F/H) - Télévente B2B- Rabat - Français a Rabat. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "conseiller client fh - televente b2b- rabat - francais|concentrix|rabat",
+      "createdAt": "2026-11-12T13:43:09.630Z"
+    },
+    {
+      "id": "50b324513698cfde",
+      "title": "Conseiller Client (F/H) - Télévente - Salé - Français",
+      "company": "Concentrix",
+      "city": "Salé",
+      "experience": "1-3",
+      "remote": "Unknown",
+      "category": "Vente",
+      "postedAt": "2026-11-12T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-conseiller-client-fh---televente---sale---francais-recrutement-concentrix-sale-187402.html",
+      "sourceId": "offre-emploi-conseiller-client-fh---televente---sale---francais-recrutement-concentrix-sale-187402.html",
+      "tags": [
+        "rekrute",
+        "concentrix",
+        "sale",
+        "vente"
+      ],
+      "ourSnippet": "Poste de Conseiller Client (F/H) - Télévente - Salé - Français a Salé. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "conseiller client fh - televente - sale - francais|concentrix|sale",
+      "createdAt": "2026-11-12T13:43:09.630Z"
+    },
+    {
+      "id": "60a5343282f6c06e",
+      "title": "Conseiller Client (F/H) - Télévente - Rabat - Français",
+      "company": "Concentrix",
+      "city": "Rabat",
+      "experience": "1-3",
+      "remote": "Unknown",
+      "category": "Vente",
+      "postedAt": "2026-11-12T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-conseiller-client-fh---televente---rabat---francais-recrutement-concentrix-rabat-187403.html",
+      "sourceId": "offre-emploi-conseiller-client-fh---televente---rabat---francais-recrutement-concentrix-rabat-187403.html",
+      "tags": [
+        "rekrute",
+        "concentrix",
+        "rabat",
+        "vente"
+      ],
+      "ourSnippet": "Poste de Conseiller Client (F/H) - Télévente - Rabat - Français a Rabat. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "conseiller client fh - televente - rabat - francais|concentrix|rabat",
+      "createdAt": "2026-11-12T13:43:09.630Z"
+    },
+    {
+      "id": "6e6af05b5f110a42",
+      "title": "Conseiller Client (F/H) - Service client - Salé - Français",
+      "company": "Concentrix",
+      "city": "Salé",
+      "experience": "1-3",
+      "remote": "Unknown",
+      "category": "Relation client",
+      "postedAt": "2026-11-12T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-conseiller-client-fh---service-client---sale---francais-recrutement-concentrix-sale-186371.html",
+      "sourceId": "offre-emploi-conseiller-client-fh---service-client---sale---francais-recrutement-concentrix-sale-186371.html",
+      "tags": [
+        "rekrute",
+        "concentrix",
+        "sale",
+        "relation client"
+      ],
+      "ourSnippet": "Poste de Conseiller Client (F/H) - Service client - Salé - Français a Salé. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "conseiller client fh - service client - sale - francais|concentrix|sale",
+      "createdAt": "2026-11-12T13:43:09.630Z"
+    },
+    {
+      "id": "80fb3c6d988f3455",
+      "title": "Conseiller Client (F/H) - Service client - Meknès - Français / Anglais",
+      "company": "Concentrix",
+      "city": "Meknes",
+      "experience": "1-3",
+      "remote": "Unknown",
+      "category": "Relation client",
+      "postedAt": "2026-11-12T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-conseiller-client-fh---service-client---meknes---francais-anglais-recrutement-concentrix-meknes-186368.html",
+      "sourceId": "offre-emploi-conseiller-client-fh---service-client---meknes---francais-anglais-recrutement-concentrix-meknes-186368.html",
+      "tags": [
+        "rekrute",
+        "concentrix",
+        "meknes",
+        "relation client"
+      ],
+      "ourSnippet": "Poste de Conseiller Client (F/H) - Service client - Meknès - Français / Anglais a Meknes. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "conseiller client fh - service client - meknes - francais anglais|concentrix|meknes",
+      "createdAt": "2026-11-12T13:43:09.630Z"
+    },
+    {
+      "id": "aa4864dab2d7793c",
+      "title": "Conseiller Client (F/H) – Télévente – Meknès – Francophone",
+      "company": "Concentrix",
+      "city": "Meknes",
+      "experience": "1-3",
+      "remote": "Unknown",
+      "category": "Vente",
+      "postedAt": "2026-11-12T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-conseiller-client-fh-televente-meknes-francophone-recrutement-concentrix-meknes-186369.html",
+      "sourceId": "offre-emploi-conseiller-client-fh-televente-meknes-francophone-recrutement-concentrix-meknes-186369.html",
+      "tags": [
+        "rekrute",
+        "concentrix",
+        "meknes",
+        "vente"
+      ],
+      "ourSnippet": "Poste de Conseiller Client (F/H) – Télévente – Meknès – Francophone a Meknes. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "conseiller client fh televente meknes francophone|concentrix|meknes",
+      "createdAt": "2026-11-12T13:43:09.630Z"
+    },
+    {
+      "id": "91d87a745b31a70f",
+      "title": "Conseiller Client (H/F) - Back Office -Meknès - Francophone",
+      "company": "Concentrix",
+      "city": "Meknes",
+      "experience": "1-3",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-12T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-conseiller-client-hf---back-office--meknes---francophone-recrutement-concentrix-meknes-186370.html",
+      "sourceId": "offre-emploi-conseiller-client-hf---back-office--meknes---francophone-recrutement-concentrix-meknes-186370.html",
+      "tags": [
+        "rekrute",
+        "concentrix",
+        "meknes",
+        "general"
+      ],
+      "ourSnippet": "Poste de Conseiller Client (H/F) - Back Office -Meknès - Francophone a Meknes. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "conseiller client hf - back office -meknes - francophone|concentrix|meknes",
+      "createdAt": "2026-11-12T13:43:09.630Z"
+    },
+    {
+      "id": "5b674cda29221053",
+      "title": "Asesores de atención al cliente hispanohablantes – bonificación de bienvenida de 1.500 DH – en Marrakech",
+      "company": "Concentrix",
+      "city": "Marrakech",
+      "experience": "0",
+      "salary": "500 DH",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-12T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-asesores-de-atencion-al-cliente-hispanohablantes-bonificacion-de-bienvenida-de-1.500-dh-en-marrakech-recrutement-concentrix-marrakech-187410.html",
+      "sourceId": "offre-emploi-asesores-de-atencion-al-cliente-hispanohablantes-bonificacion-de-bienvenida-de-1.500-dh-en-marrakech-recrutement-concentrix-marrakech-187410.html",
+      "tags": [
+        "rekrute",
+        "concentrix",
         "marrakech",
         "general"
       ],
-      "ourSnippet": "Poste de Manager H/F a Marrakech. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "ourSnippet": "Poste de Asesores de atención al cliente hispanohablantes – bonificación de bienvenida de 1.500 DH – en Marrakech a Marrakech. Consulte l'annonce et postule via la source (ReKrute).",
       "trust": {
         "level": "Verified",
         "score": 89,
@@ -65,29 +418,29 @@
           "Date publiee"
         ]
       },
-      "dedupeKey": "manager hf|mcdonalds maroc|marrakech",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "dedupeKey": "asesores de atencion al cliente hispanohablantes bonificacion de bienvenida de 1500 dh en marrakech|concentrix|marrakech",
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
-      "id": "691e87344b1434f9",
-      "title": "Chef de département organisation",
-      "company": "Groupe Labelvie Carrefour",
-      "city": "Casablanca",
-      "contract": "CDI",
-      "experience": "5+",
+      "id": "c386ae23134c9ed1",
+      "title": "Deutsch- und englischsprachige Kundenberater – Reisebranche – Willkommensprämie 1.500 DH – in Marrakesch",
+      "company": "Concentrix",
+      "city": "Marrakech",
+      "experience": "0",
+      "salary": "500 DH",
       "remote": "Unknown",
       "category": "General",
-      "postedAt": "2026-11-11T00:00:00.000Z",
+      "postedAt": "2026-11-12T00:00:00.000Z",
       "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-chef-de-departement-organisation-recrutement-groupe-labelvie---carrefour-casablanca-188427.html",
-      "sourceId": "offre-emploi-chef-de-departement-organisation-recrutement-groupe-labelvie---carrefour-casablanca-188427.html",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-deutsch--und-englischsprachige-kundenberater-reisebranche-willkommenspramie-1.500-dh-in-marrakesch-recrutement-concentrix-marrakech-187411.html",
+      "sourceId": "offre-emploi-deutsch--und-englischsprachige-kundenberater-reisebranche-willkommenspramie-1.500-dh-in-marrakesch-recrutement-concentrix-marrakech-187411.html",
       "tags": [
         "rekrute",
-        "groupe labelvie carrefour",
-        "casablanca",
+        "concentrix",
+        "marrakech",
         "general"
       ],
-      "ourSnippet": "Poste de Chef de département organisation a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "ourSnippet": "Poste de Deutsch- und englischsprachige Kundenberater – Reisebranche – Willkommensprämie 1.500 DH – in Marrakesch a Marrakech. Consulte l'annonce et postule via la source (ReKrute).",
       "trust": {
         "level": "Verified",
         "score": 89,
@@ -98,62 +451,29 @@
           "Date publiee"
         ]
       },
-      "dedupeKey": "chef de departement organisation|groupe labelvie carrefour|casablanca",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "dedupeKey": "deutsch- und englischsprachige kundenberater reisebranche willkommenspramie 1500 dh in marrakesch|concentrix|marrakech",
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
-      "id": "e01e0a2fb60aeb94",
-      "title": "Manager H/F",
-      "company": "Mcdonalds Maroc",
-      "city": "Agadir",
-      "contract": "CDI",
-      "experience": "3-5",
-      "remote": "Unknown",
-      "category": "General",
-      "postedAt": "2026-11-11T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-manager-hf-recrutement-mcdonalds-maroc-agadir-188426.html",
-      "sourceId": "offre-emploi-manager-hf-recrutement-mcdonalds-maroc-agadir-188426.html",
-      "tags": [
-        "rekrute",
-        "mcdonalds maroc",
-        "agadir",
-        "general"
-      ],
-      "ourSnippet": "Poste de Manager H/F a Agadir. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 89,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "manager hf|mcdonalds maroc|agadir",
-      "createdAt": "2026-11-11T12:40:25.491Z"
-    },
-    {
-      "id": "6d944db3eaa51b6c",
-      "title": "Quality Manager Software Quality Customer & Support",
-      "company": "Maroc Climate And Security Mcs Carrier",
-      "city": "Casablanca",
-      "contract": "CDI",
-      "experience": "3-5",
+      "id": "ffd0d263712a6fbf",
+      "title": "Stiamo assumendo consulenti clienti di lingua italiana a marrakech - bonus di benvenuto di 1500 dh -",
+      "company": "Concentrix",
+      "city": "Marrakech",
+      "experience": "1-3",
+      "salary": "1500 dh",
       "remote": "Unknown",
       "category": "Tech",
-      "postedAt": "2026-11-11T00:00:00.000Z",
+      "postedAt": "2026-11-12T00:00:00.000Z",
       "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-quality-manager-software-quality-customer-support-recrutement-maroc-climate-and-security-mcs---carrier-casablanca-188425.html",
-      "sourceId": "offre-emploi-quality-manager-software-quality-customer-support-recrutement-maroc-climate-and-security-mcs---carrier-casablanca-188425.html",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-stiamo-assumendo-consulenti-clienti-di-lingua-italiana-a-marrakech---bonus-di-benvenuto-di-1500-dh---recrutement-concentrix-marrakech-187412.html",
+      "sourceId": "offre-emploi-stiamo-assumendo-consulenti-clienti-di-lingua-italiana-a-marrakech---bonus-di-benvenuto-di-1500-dh---recrutement-concentrix-marrakech-187412.html",
       "tags": [
         "rekrute",
-        "maroc climate and security mcs carrier",
-        "casablanca",
+        "concentrix",
+        "marrakech",
         "tech"
       ],
-      "ourSnippet": "Poste de Quality Manager Software Quality Customer & Support a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "ourSnippet": "Poste de Stiamo assumendo consulenti clienti di lingua italiana a marrakech - bonus di benvenuto di 1500 dh - a Marrakech. Consulte l'annonce et postule via la source (ReKrute).",
       "trust": {
         "level": "Verified",
         "score": 89,
@@ -164,95 +484,28 @@
           "Date publiee"
         ]
       },
-      "dedupeKey": "quality manager software quality customer support|maroc climate and security mcs carrier|casablanca",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "dedupeKey": "stiamo assumendo consulenti clienti di lingua italiana a marrakech - bonus di benvenuto di 1500 dh -|concentrix|marrakech",
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
-      "id": "bd7c4bfe130d6f06",
-      "title": "Vendeurse showroom",
-      "company": "Ms Smart Electro",
-      "city": "Casablanca",
-      "contract": "CDI",
-      "experience": "3-5",
-      "remote": "Unknown",
-      "category": "General",
-      "postedAt": "2026-11-11T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-vendeurse-showroom-recrutement-ms-smart-electro-casablanca-188424.html",
-      "sourceId": "offre-emploi-vendeurse-showroom-recrutement-ms-smart-electro-casablanca-188424.html",
-      "tags": [
-        "rekrute",
-        "ms smart electro",
-        "casablanca",
-        "general"
-      ],
-      "ourSnippet": "Poste de Vendeurse showroom a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 89,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "vendeurse showroom|ms smart electro|casablanca",
-      "createdAt": "2026-11-11T12:40:25.491Z"
-    },
-    {
-      "id": "a18554639b8d410a",
-      "title": "E-COMMERCE SPECIALIST (H/F)",
-      "company": "Flormar",
-      "city": "Casablanca",
-      "contract": "CDI",
+      "id": "521e8e6ee59ae143",
+      "title": "Conseillers clients lusophones à marrakech",
+      "company": "Concentrix",
+      "city": "Marrakech",
       "experience": "1-3",
       "remote": "Unknown",
       "category": "General",
-      "postedAt": "2026-11-11T00:00:00.000Z",
+      "postedAt": "2026-11-12T00:00:00.000Z",
       "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-e-commerce-specialist-hf-recrutement-flormar-casablanca-188423.html",
-      "sourceId": "offre-emploi-e-commerce-specialist-hf-recrutement-flormar-casablanca-188423.html",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-conseillers-clients-lusophones-a-marrakech-recrutement-concentrix-marrakech-187413.html",
+      "sourceId": "offre-emploi-conseillers-clients-lusophones-a-marrakech-recrutement-concentrix-marrakech-187413.html",
       "tags": [
         "rekrute",
-        "flormar",
-        "casablanca",
-        "general"
-      ],
-      "ourSnippet": "Poste de E-COMMERCE SPECIALIST (H/F) a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 89,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "e-commerce specialist hf|flormar|casablanca",
-      "createdAt": "2026-11-11T12:40:25.491Z"
-    },
-    {
-      "id": "f4037ee3d1620d63",
-      "title": "Responsable Admissions & Réception Clinique",
-      "company": "Akdital",
-      "city": "Marrakech",
-      "contract": "CDI",
-      "experience": "3-5",
-      "remote": "Unknown",
-      "category": "General",
-      "postedAt": "2026-11-11T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-responsable-admissions-reception-clinique-recrutement-akdital-marrakech-188421.html",
-      "sourceId": "offre-emploi-responsable-admissions-reception-clinique-recrutement-akdital-marrakech-188421.html",
-      "tags": [
-        "rekrute",
-        "akdital",
+        "concentrix",
         "marrakech",
         "general"
       ],
-      "ourSnippet": "Poste de Responsable Admissions & Réception Clinique a Marrakech. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "ourSnippet": "Poste de Conseillers clients lusophones à marrakech a Marrakech. Consulte l'annonce et postule via la source (ReKrute).",
       "trust": {
         "level": "Verified",
         "score": 89,
@@ -263,29 +516,156 @@
           "Date publiee"
         ]
       },
-      "dedupeKey": "responsable admissions reception clinique|akdital|marrakech",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "dedupeKey": "conseillers clients lusophones a marrakech|concentrix|marrakech",
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
-      "id": "e7954af10421f1e2",
-      "title": "Chargé de portefeuille (H/F)",
-      "company": "Fondation Arrawaj",
+      "id": "f6fd4ab2e7478809",
+      "title": "Conseiller Client (F/H) - Service client - Marrakech - Français / Anglais",
+      "company": "Concentrix",
+      "city": "Marrakech",
+      "experience": "1-3",
+      "remote": "Unknown",
+      "category": "Relation client",
+      "postedAt": "2026-11-12T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-conseiller-client-fh---service-client---marrakech---francais-anglais-recrutement-concentrix-marrakech-187260.html",
+      "sourceId": "offre-emploi-conseiller-client-fh---service-client---marrakech---francais-anglais-recrutement-concentrix-marrakech-187260.html",
+      "tags": [
+        "rekrute",
+        "concentrix",
+        "marrakech",
+        "relation client"
+      ],
+      "ourSnippet": "Poste de Conseiller Client (F/H) - Service client - Marrakech - Français / Anglais a Marrakech. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "conseiller client fh - service client - marrakech - francais anglais|concentrix|marrakech",
+      "createdAt": "2026-11-12T13:43:09.630Z"
+    },
+    {
+      "id": "09faaf55ca482121",
+      "title": "Conseiller Client (F/H) - Télévente - Marrakech - Français",
+      "company": "Concentrix",
+      "city": "Marrakech",
+      "experience": "1-3",
+      "remote": "Unknown",
+      "category": "Vente",
+      "postedAt": "2026-11-12T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-conseiller-client-fh---televente---marrakech---francais-recrutement-concentrix-marrakech-186365.html",
+      "sourceId": "offre-emploi-conseiller-client-fh---televente---marrakech---francais-recrutement-concentrix-marrakech-186365.html",
+      "tags": [
+        "rekrute",
+        "concentrix",
+        "marrakech",
+        "vente"
+      ],
+      "ourSnippet": "Poste de Conseiller Client (F/H) - Télévente - Marrakech - Français a Marrakech. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "conseiller client fh - televente - marrakech - francais|concentrix|marrakech",
+      "createdAt": "2026-11-12T13:43:09.630Z"
+    },
+    {
+      "id": "ecabaf8a525edbbc",
+      "title": "Conseiller Client (F/H) - Télévente - Kénitra - Français",
+      "company": "Concentrix",
+      "city": "Kenitra",
+      "experience": "1-3",
+      "remote": "Unknown",
+      "category": "Vente",
+      "postedAt": "2026-11-12T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-conseiller-client-fh---televente---kenitra---francais-recrutement-concentrix-kenitra-186362.html",
+      "sourceId": "offre-emploi-conseiller-client-fh---televente---kenitra---francais-recrutement-concentrix-kenitra-186362.html",
+      "tags": [
+        "rekrute",
+        "concentrix",
+        "kenitra",
+        "vente"
+      ],
+      "ourSnippet": "Poste de Conseiller Client (F/H) - Télévente - Kénitra - Français a Kenitra. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "conseiller client fh - televente - kenitra - francais|concentrix|kenitra",
+      "createdAt": "2026-11-12T13:43:09.630Z"
+    },
+    {
+      "id": "e09dc16897c13228",
+      "title": "Conseiller Client (F/H) - Service client - Kénitra - Français",
+      "company": "Concentrix",
+      "city": "Kenitra",
+      "experience": "1-3",
+      "remote": "Unknown",
+      "category": "Tech",
+      "postedAt": "2026-11-12T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-conseiller-client-fh---service-client---kenitra---francais-recrutement-concentrix-kenitra-186363.html",
+      "sourceId": "offre-emploi-conseiller-client-fh---service-client---kenitra---francais-recrutement-concentrix-kenitra-186363.html",
+      "tags": [
+        "rekrute",
+        "concentrix",
+        "kenitra",
+        "tech"
+      ],
+      "ourSnippet": "Poste de Conseiller Client (F/H) - Service client - Kénitra - Français a Kenitra. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "conseiller client fh - service client - kenitra - francais|concentrix|kenitra",
+      "createdAt": "2026-11-12T13:43:09.630Z"
+    },
+    {
+      "id": "8eda9fcaa20a2c84",
+      "title": "Conseiller client (f/h) - technique -fès - français",
+      "company": "Concentrix",
       "city": "Fes",
-      "contract": "CDI",
       "experience": "1-3",
       "remote": "Unknown",
       "category": "General",
-      "postedAt": "2026-11-11T00:00:00.000Z",
+      "postedAt": "2026-11-12T00:00:00.000Z",
       "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-charge-de-portefeuille-hf-recrutement-fondation-arrawaj-fes-188420.html",
-      "sourceId": "offre-emploi-charge-de-portefeuille-hf-recrutement-fondation-arrawaj-fes-188420.html",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-conseiller-client-fh---technique--fes---francais-recrutement-concentrix-fes-187414.html",
+      "sourceId": "offre-emploi-conseiller-client-fh---technique--fes---francais-recrutement-concentrix-fes-187414.html",
       "tags": [
         "rekrute",
-        "fondation arrawaj",
+        "concentrix",
         "fes",
         "general"
       ],
-      "ourSnippet": "Poste de Chargé de portefeuille (H/F) a Fes. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "ourSnippet": "Poste de Conseiller client (f/h) - technique -fès - français a Fes. Consulte l'annonce et postule via la source (ReKrute).",
       "trust": {
         "level": "Verified",
         "score": 89,
@@ -296,227 +676,28 @@
           "Date publiee"
         ]
       },
-      "dedupeKey": "charge de portefeuille hf|fondation arrawaj|fes",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "dedupeKey": "conseiller client fh - technique -fes - francais|concentrix|fes",
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
-      "id": "90d5ee0c5e0bca76",
-      "title": "Manager H/F",
-      "company": "Mcdonalds Maroc",
-      "city": "Meknes",
-      "contract": "CDI",
-      "experience": "0",
-      "remote": "Unknown",
-      "category": "General",
-      "postedAt": "2026-11-11T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-manager-hf-recrutement-mcdonalds-maroc-meknes-188419.html",
-      "sourceId": "offre-emploi-manager-hf-recrutement-mcdonalds-maroc-meknes-188419.html",
-      "tags": [
-        "rekrute",
-        "mcdonalds maroc",
-        "meknes",
-        "general"
-      ],
-      "ourSnippet": "Poste de Manager H/F a Meknes. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 89,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "manager hf|mcdonalds maroc|meknes",
-      "createdAt": "2026-11-11T12:40:25.491Z"
-    },
-    {
-      "id": "d3e0101c633233d0",
-      "title": "Intégrateur Python Backend (F/H)",
-      "company": "Sofrecom Maroc",
-      "city": "Rabat",
-      "contract": "CDI",
+      "id": "bb3aee4f32cc39a1",
+      "title": "Conseiller Client (F/H) - Service Client - Fès - Francophone",
+      "company": "Concentrix",
+      "city": "Fes",
       "experience": "1-3",
-      "remote": "Unknown",
-      "category": "General",
-      "postedAt": "2026-11-11T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-integrateur-python-backend-fh-recrutement-sofrecom-maroc-rabat-188418.html",
-      "sourceId": "offre-emploi-integrateur-python-backend-fh-recrutement-sofrecom-maroc-rabat-188418.html",
-      "tags": [
-        "rekrute",
-        "sofrecom maroc",
-        "rabat",
-        "general"
-      ],
-      "ourSnippet": "Poste de Intégrateur Python Backend (F/H) a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 89,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "integrateur python backend fh|sofrecom maroc|rabat",
-      "createdAt": "2026-11-11T12:40:25.491Z"
-    },
-    {
-      "id": "5319717bf8519e7c",
-      "title": "Chargé de portefeuille (H/F)",
-      "company": "Fondation Arrawaj",
-      "city": "Tanger",
-      "contract": "CDI",
-      "experience": "1-3",
-      "remote": "Unknown",
-      "category": "General",
-      "postedAt": "2026-11-11T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-charge-de-portefeuille-hf-recrutement-fondation-arrawaj-tanger-188417.html",
-      "sourceId": "offre-emploi-charge-de-portefeuille-hf-recrutement-fondation-arrawaj-tanger-188417.html",
-      "tags": [
-        "rekrute",
-        "fondation arrawaj",
-        "tanger",
-        "general"
-      ],
-      "ourSnippet": "Poste de Chargé de portefeuille (H/F) a Tanger. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 89,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "charge de portefeuille hf|fondation arrawaj|tanger",
-      "createdAt": "2026-11-11T12:40:25.491Z"
-    },
-    {
-      "id": "a594aea42ffa21cf",
-      "title": "Retail Territory Manager - Ouarzazate",
-      "company": "Vivo Energy Maroc",
-      "city": "Ouarzazate",
-      "contract": "CDI",
-      "experience": "1-3",
-      "remote": "Unknown",
-      "category": "Tech",
-      "postedAt": "2026-11-11T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-retail-territory-manager---ouarzazate-recrutement-vivo-energy-maroc-ouarzazate-188416.html",
-      "sourceId": "offre-emploi-retail-territory-manager---ouarzazate-recrutement-vivo-energy-maroc-ouarzazate-188416.html",
-      "tags": [
-        "rekrute",
-        "vivo energy maroc",
-        "ouarzazate",
-        "tech"
-      ],
-      "ourSnippet": "Poste de Retail Territory Manager - Ouarzazate a Ouarzazate. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 89,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "retail territory manager - ouarzazate|vivo energy maroc|ouarzazate",
-      "createdAt": "2026-11-11T12:40:25.491Z"
-    },
-    {
-      "id": "b96b1d8e0b3a5170",
-      "title": "Rabat – Télévendeur(se) énergie | CDI + primes déplafonnées",
-      "company": "Adm Value",
-      "city": "Rabat",
-      "contract": "CDI",
-      "experience": "1-3",
-      "remote": "Unknown",
-      "category": "General",
-      "postedAt": "2026-11-11T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-rabat-televendeurse-energie-cdi-primes-deplafonnees-recrutement-adm-value-rabat-187442.html",
-      "sourceId": "offre-emploi-rabat-televendeurse-energie-cdi-primes-deplafonnees-recrutement-adm-value-rabat-187442.html",
-      "tags": [
-        "rekrute",
-        "adm value",
-        "rabat",
-        "general"
-      ],
-      "ourSnippet": "Poste de Rabat – Télévendeur(se) énergie | CDI + primes déplafonnées a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 89,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "rabat televendeurse energie cdi primes deplafonnees|adm value|rabat",
-      "createdAt": "2026-11-11T12:40:25.491Z"
-    },
-    {
-      "id": "f940c37565938739",
-      "title": "Rabat – commercial(e) \"formation en ligne\" permis de conduire | cdi + primes déplafonnées",
-      "company": "Adm Value",
-      "city": "Rabat",
-      "contract": "CDI",
-      "experience": "0",
-      "remote": "Unknown",
-      "category": "Vente",
-      "postedAt": "2026-11-11T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-rabat-commerciale-formation-en-ligne-permis-de-conduire-cdi-primes-deplafonnees-recrutement-adm-value-rabat-188138.html",
-      "sourceId": "offre-emploi-rabat-commerciale-formation-en-ligne-permis-de-conduire-cdi-primes-deplafonnees-recrutement-adm-value-rabat-188138.html",
-      "tags": [
-        "rekrute",
-        "adm value",
-        "rabat",
-        "vente"
-      ],
-      "ourSnippet": "Poste de Rabat – commercial(e) \"formation en ligne\" permis de conduire | cdi + primes déplafonnées a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 89,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "rabat commerciale formation en ligne permis de conduire cdi primes deplafonnees|adm value|rabat",
-      "createdAt": "2026-11-11T12:40:25.491Z"
-    },
-    {
-      "id": "899137bf8d4d217f",
-      "title": "Téléconseiller(ère) service client — mutuelle santé | cdi — rabat",
-      "company": "Adm Value",
-      "city": "Rabat",
-      "contract": "CDI",
-      "experience": "0",
       "remote": "Unknown",
       "category": "Relation client",
-      "postedAt": "2026-11-11T00:00:00.000Z",
+      "postedAt": "2026-11-12T00:00:00.000Z",
       "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-teleconseillerere-service-client-mutuelle-sante-cdi-rabat-recrutement-adm-value-rabat-188139.html",
-      "sourceId": "offre-emploi-teleconseillerere-service-client-mutuelle-sante-cdi-rabat-recrutement-adm-value-rabat-188139.html",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-conseiller-client-fh---service-client---fes---francophone-recrutement-concentrix-fes-186358.html",
+      "sourceId": "offre-emploi-conseiller-client-fh---service-client---fes---francophone-recrutement-concentrix-fes-186358.html",
       "tags": [
         "rekrute",
-        "adm value",
-        "rabat",
+        "concentrix",
+        "fes",
         "relation client"
       ],
-      "ourSnippet": "Poste de Téléconseiller(ère) service client — mutuelle santé | cdi — rabat a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "ourSnippet": "Poste de Conseiller Client (F/H) - Service Client - Fès - Francophone a Fes. Consulte l'annonce et postule via la source (ReKrute).",
       "trust": {
         "level": "Verified",
         "score": 89,
@@ -527,29 +708,28 @@
           "Date publiee"
         ]
       },
-      "dedupeKey": "teleconseillerere service client mutuelle sante cdi rabat|adm value|rabat",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "dedupeKey": "conseiller client fh - service client - fes - francophone|concentrix|fes",
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
-      "id": "2716c58a22495b9e",
-      "title": "Conseiller·ère service client — assurance animale",
-      "company": "Adm Value",
-      "city": "Rabat",
-      "contract": "CDI",
-      "experience": "0",
+      "id": "175fb4146ab4db05",
+      "title": "Conseiller Client (F/H) - Back Office -Fès - Français",
+      "company": "Concentrix",
+      "city": "Fes",
+      "experience": "1-3",
       "remote": "Unknown",
-      "category": "Relation client",
-      "postedAt": "2026-11-11T00:00:00.000Z",
+      "category": "General",
+      "postedAt": "2026-11-12T00:00:00.000Z",
       "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-conseillerere-service-client-assurance-animale-recrutement-adm-value-rabat-188140.html",
-      "sourceId": "offre-emploi-conseillerere-service-client-assurance-animale-recrutement-adm-value-rabat-188140.html",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-conseiller-client-fh---back-office--fes---francais-recrutement-concentrix-fes-186359.html",
+      "sourceId": "offre-emploi-conseiller-client-fh---back-office--fes---francais-recrutement-concentrix-fes-186359.html",
       "tags": [
         "rekrute",
-        "adm value",
-        "rabat",
-        "relation client"
+        "concentrix",
+        "fes",
+        "general"
       ],
-      "ourSnippet": "Poste de Conseiller·ère service client — assurance animale a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "ourSnippet": "Poste de Conseiller Client (F/H) - Back Office -Fès - Français a Fes. Consulte l'annonce et postule via la source (ReKrute).",
       "trust": {
         "level": "Verified",
         "score": 89,
@@ -560,29 +740,28 @@
           "Date publiee"
         ]
       },
-      "dedupeKey": "conseillerere service client assurance animale|adm value|rabat",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "dedupeKey": "conseiller client fh - back office -fes - francais|concentrix|fes",
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
-      "id": "040f7c0bf98b9d8a",
-      "title": "Rabat – Conseiller(ère) commercial(e) en énergie | Comparateur d’offres – 5j/7 + Prime de fidélisation",
-      "company": "Adm Value",
-      "city": "Rabat",
-      "contract": "CDI",
+      "id": "37f79ece01443564",
+      "title": "Conseiller Client (F/H) - Télévente - Fès - Francophone",
+      "company": "Concentrix",
+      "city": "Fes",
       "experience": "1-3",
       "remote": "Unknown",
       "category": "Vente",
-      "postedAt": "2026-11-11T00:00:00.000Z",
+      "postedAt": "2026-11-12T00:00:00.000Z",
       "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-rabat-conseillerere-commerciale-en-energie-comparateur-doffres-5j7-prime-de-fidelisation-recrutement-adm-value-rabat-188133.html",
-      "sourceId": "offre-emploi-rabat-conseillerere-commerciale-en-energie-comparateur-doffres-5j7-prime-de-fidelisation-recrutement-adm-value-rabat-188133.html",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-conseiller-client-fh---televente---fes---francophone-recrutement-concentrix-fes-186360.html",
+      "sourceId": "offre-emploi-conseiller-client-fh---televente---fes---francophone-recrutement-concentrix-fes-186360.html",
       "tags": [
         "rekrute",
-        "adm value",
-        "rabat",
+        "concentrix",
+        "fes",
         "vente"
       ],
-      "ourSnippet": "Poste de Rabat – Conseiller(ère) commercial(e) en énergie | Comparateur d’offres – 5j/7 + Prime de fidélisation a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "ourSnippet": "Poste de Conseiller Client (F/H) - Télévente - Fès - Francophone a Fes. Consulte l'annonce et postule via la source (ReKrute).",
       "trust": {
         "level": "Verified",
         "score": 89,
@@ -593,62 +772,29 @@
           "Date publiee"
         ]
       },
-      "dedupeKey": "rabat conseillerere commerciale en energie comparateur doffres 5j7 prime de fidelisation|adm value|rabat",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "dedupeKey": "conseiller client fh - televente - fes - francophone|concentrix|fes",
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
-      "id": "c274711d1c31b4b6",
-      "title": "Rabat - conseiller·ère clients en service client energie — déménagement & assistance technique",
-      "company": "Adm Value",
-      "city": "Rabat",
-      "contract": "CDI",
-      "experience": "0",
-      "remote": "Unknown",
-      "category": "Relation client",
-      "postedAt": "2026-11-11T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-rabat---conseillerere-clients-en-service-client-energie-demenagement-assistance-technique-recrutement-adm-value-rabat-188136.html",
-      "sourceId": "offre-emploi-rabat---conseillerere-clients-en-service-client-energie-demenagement-assistance-technique-recrutement-adm-value-rabat-188136.html",
-      "tags": [
-        "rekrute",
-        "adm value",
-        "rabat",
-        "relation client"
-      ],
-      "ourSnippet": "Poste de Rabat - conseiller·ère clients en service client energie — déménagement & assistance technique a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 89,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "rabat - conseillerere clients en service client energie demenagement assistance technique|adm value|rabat",
-      "createdAt": "2026-11-11T12:40:25.491Z"
-    },
-    {
-      "id": "db62eb6145c36c9c",
-      "title": "Conseiller(ère) client E-commerce (Appels + E-mails) | CDI – Formation rémunérée",
-      "company": "Adm Value",
-      "city": "Rabat",
+      "id": "2f704312e17dea56",
+      "title": "Rejoignez nos équipes sinistres à casablanca !",
+      "company": "Concentrix",
+      "city": "Casablanca",
       "contract": "CDI",
       "experience": "1-3",
       "remote": "Unknown",
       "category": "General",
-      "postedAt": "2026-11-11T00:00:00.000Z",
+      "postedAt": "2026-11-12T00:00:00.000Z",
       "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-conseillerere-client-e-commerce-appels-e-mails-cdi-formation-remuneree-recrutement-adm-value-rabat-188135.html",
-      "sourceId": "offre-emploi-conseillerere-client-e-commerce-appels-e-mails-cdi-formation-remuneree-recrutement-adm-value-rabat-188135.html",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-rejoignez-nos-equipes-sinistres-a-casablanca-recrutement-concentrix-casablanca-187771.html",
+      "sourceId": "offre-emploi-rejoignez-nos-equipes-sinistres-a-casablanca-recrutement-concentrix-casablanca-187771.html",
       "tags": [
         "rekrute",
-        "adm value",
-        "rabat",
+        "concentrix",
+        "casablanca",
         "general"
       ],
-      "ourSnippet": "Poste de Conseiller(ère) client E-commerce (Appels + E-mails) | CDI – Formation rémunérée a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "ourSnippet": "Poste de Rejoignez nos équipes sinistres à casablanca ! a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
       "trust": {
         "level": "Verified",
         "score": 89,
@@ -659,62 +805,28 @@
           "Date publiee"
         ]
       },
-      "dedupeKey": "conseillerere client e-commerce appels e-mails cdi formation remuneree|adm value|rabat",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "dedupeKey": "rejoignez nos equipes sinistres a casablanca|concentrix|casablanca",
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
-      "id": "53c5b49513cc9168",
-      "title": "Rabat – vendeur(se) assurance auto & habitation | cdi + primes déplafonnées",
-      "company": "Adm Value",
-      "city": "Rabat",
-      "contract": "CDI",
-      "experience": "0",
-      "remote": "Unknown",
-      "category": "Tech",
-      "postedAt": "2026-11-11T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-rabat-vendeurse-assurance-auto-habitation-cdi-primes-deplafonnees-recrutement-adm-value-rabat-188137.html",
-      "sourceId": "offre-emploi-rabat-vendeurse-assurance-auto-habitation-cdi-primes-deplafonnees-recrutement-adm-value-rabat-188137.html",
-      "tags": [
-        "rekrute",
-        "adm value",
-        "rabat",
-        "tech"
-      ],
-      "ourSnippet": "Poste de Rabat – vendeur(se) assurance auto & habitation | cdi + primes déplafonnées a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 89,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "rabat vendeurse assurance auto habitation cdi primes deplafonnees|adm value|rabat",
-      "createdAt": "2026-11-11T12:40:25.491Z"
-    },
-    {
-      "id": "5a9d958d1a0060a1",
-      "title": "Rabat – télévendeur(se) expérimenté(e) assurance emprunteur | appels entrants/sortants – cdi",
-      "company": "Adm Value",
-      "city": "Rabat",
-      "contract": "CDI",
-      "experience": "3-5",
+      "id": "1cf9a1342d1a2430",
+      "title": "Conseillers clients en assurance avec ou sans expérience-casablanca",
+      "company": "Concentrix",
+      "city": "Casablanca",
+      "experience": "1-3",
       "remote": "Unknown",
       "category": "General",
-      "postedAt": "2026-11-11T00:00:00.000Z",
+      "postedAt": "2026-11-12T00:00:00.000Z",
       "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-rabat-televendeurse-experimentee-assurance-emprunteur-appels-entrantssortants-cdi-recrutement-adm-value-rabat-188134.html",
-      "sourceId": "offre-emploi-rabat-televendeurse-experimentee-assurance-emprunteur-appels-entrantssortants-cdi-recrutement-adm-value-rabat-188134.html",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-conseillers-clients-en-assurance-avec-ou-sans-experience-casablanca-recrutement-concentrix-casablanca-187770.html",
+      "sourceId": "offre-emploi-conseillers-clients-en-assurance-avec-ou-sans-experience-casablanca-recrutement-concentrix-casablanca-187770.html",
       "tags": [
         "rekrute",
-        "adm value",
-        "rabat",
+        "concentrix",
+        "casablanca",
         "general"
       ],
-      "ourSnippet": "Poste de Rabat – télévendeur(se) expérimenté(e) assurance emprunteur | appels entrants/sortants – cdi a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "ourSnippet": "Poste de Conseillers clients en assurance avec ou sans expérience-casablanca a Casablanca. Consulte l'annonce et postule via la source (ReKrute).",
       "trust": {
         "level": "Verified",
         "score": 89,
@@ -725,62 +837,29 @@
           "Date publiee"
         ]
       },
-      "dedupeKey": "rabat televendeurse experimentee assurance emprunteur appels entrantssortants cdi|adm value|rabat",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "dedupeKey": "conseillers clients en assurance avec ou sans experience-casablanca|concentrix|casablanca",
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
-      "id": "8b65800ed214bd68",
-      "title": "Responsable service formation en Assurance (H/F) Tanger",
-      "company": "Groupe Vilavi",
-      "city": "Tanger",
-      "contract": "CDI",
-      "experience": "5+",
-      "remote": "Unknown",
-      "category": "General",
-      "postedAt": "2026-11-11T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-responsable-service-formation-en-assurance-hf-tanger-recrutement-groupe-vilavi-tanger-186752.html",
-      "sourceId": "offre-emploi-responsable-service-formation-en-assurance-hf-tanger-recrutement-groupe-vilavi-tanger-186752.html",
-      "tags": [
-        "rekrute",
-        "groupe vilavi",
-        "tanger",
-        "general"
-      ],
-      "ourSnippet": "Poste de Responsable service formation en Assurance (H/F) Tanger a Tanger. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 89,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "responsable service formation en assurance hf tanger|groupe vilavi|tanger",
-      "createdAt": "2026-11-11T12:40:25.491Z"
-    },
-    {
-      "id": "bb257e9f8aa37898",
-      "title": "Chargé de portefeuille (H/F)",
-      "company": "Fondation Arrawaj",
+      "id": "258efb7454cc1e5d",
+      "title": "Responsable Recrutement",
+      "company": "Recrutement Yazaki Morocco",
       "city": "Meknes",
       "contract": "CDI",
       "experience": "1-3",
       "remote": "Unknown",
       "category": "General",
-      "postedAt": "2026-11-11T00:00:00.000Z",
+      "postedAt": "2026-11-12T00:00:00.000Z",
       "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-charge-de-portefeuille-hf-recrutement-fondation-arrawaj-meknes-187386.html",
-      "sourceId": "offre-emploi-charge-de-portefeuille-hf-recrutement-fondation-arrawaj-meknes-187386.html",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-responsable-recrutement-recrutement-yazaki-morocco-meknes-188457.html",
+      "sourceId": "offre-emploi-responsable-recrutement-recrutement-yazaki-morocco-meknes-188457.html",
       "tags": [
         "rekrute",
-        "fondation arrawaj",
+        "recrutement yazaki morocco",
         "meknes",
         "general"
       ],
-      "ourSnippet": "Poste de Chargé de portefeuille (H/F) a Meknes. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "ourSnippet": "Poste de Responsable Recrutement a Meknes. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
       "trust": {
         "level": "Verified",
         "score": 89,
@@ -791,128 +870,28 @@
           "Date publiee"
         ]
       },
-      "dedupeKey": "charge de portefeuille hf|fondation arrawaj|meknes",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "dedupeKey": "responsable recrutement|recrutement yazaki morocco|meknes",
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
-      "id": "70f0a580ba356fa9",
-      "title": "Superviseur Stations-Service",
-      "company": "Confidentiel",
-      "city": "Casablanca",
-      "contract": "CDI",
-      "experience": "3-5",
-      "remote": "Unknown",
-      "category": "General",
-      "postedAt": "2026-11-11T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-superviseur-stations-service-recrutement-confidentiel-casablanca-188414.html",
-      "sourceId": "offre-emploi-superviseur-stations-service-recrutement-confidentiel-casablanca-188414.html",
-      "tags": [
-        "rekrute",
-        "confidentiel",
-        "casablanca",
-        "general"
-      ],
-      "ourSnippet": "Poste de Superviseur Stations-Service a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 89,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "superviseur stations-service|confidentiel|casablanca",
-      "createdAt": "2026-11-11T12:40:25.491Z"
-    },
-    {
-      "id": "a8f8020ae74e0745",
-      "title": "Pilote Incident (F/H)",
-      "company": "Sofrecom Maroc",
-      "city": "Casablanca",
-      "contract": "CDI",
-      "experience": "3-5",
-      "remote": "Unknown",
-      "category": "General",
-      "postedAt": "2026-11-11T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-pilote-incident-fh-recrutement-sofrecom-maroc-casablanca-184931.html",
-      "sourceId": "offre-emploi-pilote-incident-fh-recrutement-sofrecom-maroc-casablanca-184931.html",
-      "tags": [
-        "rekrute",
-        "sofrecom maroc",
-        "casablanca",
-        "general"
-      ],
-      "ourSnippet": "Poste de Pilote Incident (F/H) a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 89,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "pilote incident fh|sofrecom maroc|casablanca",
-      "createdAt": "2026-11-11T12:40:25.491Z"
-    },
-    {
-      "id": "df8d876c9f667758",
-      "title": "Chef de Projet MOE - MOA (H/F)",
-      "company": "Sorec",
-      "city": "Rabat",
-      "contract": "CDI",
-      "experience": "5+",
-      "remote": "Unknown",
-      "category": "General",
-      "postedAt": "2026-11-11T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-chef-de-projet-moe---moa-hf-recrutement-sorec-rabat-188413.html",
-      "sourceId": "offre-emploi-chef-de-projet-moe---moa-hf-recrutement-sorec-rabat-188413.html",
-      "tags": [
-        "rekrute",
-        "sorec",
-        "rabat",
-        "general"
-      ],
-      "ourSnippet": "Poste de Chef de Projet MOE - MOA (H/F) a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 89,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "chef de projet moe - moa hf|sorec|rabat",
-      "createdAt": "2026-11-11T12:40:25.491Z"
-    },
-    {
-      "id": "e7100b7b7b38c315",
-      "title": "Chargé de portefeuille (H/F)",
-      "company": "Fondation Arrawaj",
-      "city": "Casablanca",
-      "contract": "CDI",
+      "id": "fee3125d7301f404",
+      "title": "Technicien Service Desk FR (ANAPEC)",
+      "company": "Econocom Maroc Sala Al",
+      "city": "Sala Al Jadida",
       "experience": "1-3",
       "remote": "Unknown",
       "category": "General",
-      "postedAt": "2026-11-11T00:00:00.000Z",
+      "postedAt": "2026-11-12T00:00:00.000Z",
       "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-charge-de-portefeuille-hf-recrutement-fondation-arrawaj-casablanca-187385.html",
-      "sourceId": "offre-emploi-charge-de-portefeuille-hf-recrutement-fondation-arrawaj-casablanca-187385.html",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-technicien-service-desk-fr-anapec-recrutement-econocom-maroc-sala-al-jadida-187206.html",
+      "sourceId": "offre-emploi-technicien-service-desk-fr-anapec-recrutement-econocom-maroc-sala-al-jadida-187206.html",
       "tags": [
         "rekrute",
-        "fondation arrawaj",
-        "casablanca",
+        "econocom maroc sala al",
+        "sala al jadida",
         "general"
       ],
-      "ourSnippet": "Poste de Chargé de portefeuille (H/F) a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "ourSnippet": "Poste de Technicien Service Desk FR (ANAPEC) a Sala Al Jadida. Consulte l'annonce et postule via la source (ReKrute).",
       "trust": {
         "level": "Verified",
         "score": 89,
@@ -923,29 +902,29 @@
           "Date publiee"
         ]
       },
-      "dedupeKey": "charge de portefeuille hf|fondation arrawaj|casablanca",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "dedupeKey": "technicien service desk fr anapec|econocom maroc sala al|sala al jadida",
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
-      "id": "cba39a05de15a092",
-      "title": "Chargé de portefeuille (H/F)",
-      "company": "Fondation Arrawaj Souk",
-      "city": "Souk Larbaa",
-      "contract": "CDI",
+      "id": "f37ab94a6a89439e",
+      "title": "Technicien Service Desk FR/EN",
+      "company": "Econocom Maroc Sala Al",
+      "city": "Sala Al Jadida",
+      "contract": "CDD",
       "experience": "1-3",
       "remote": "Unknown",
       "category": "General",
-      "postedAt": "2026-11-11T00:00:00.000Z",
+      "postedAt": "2026-11-12T00:00:00.000Z",
       "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-charge-de-portefeuille-hf-recrutement-fondation-arrawaj-souk-larbaa-187550.html",
-      "sourceId": "offre-emploi-charge-de-portefeuille-hf-recrutement-fondation-arrawaj-souk-larbaa-187550.html",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-technicien-service-desk-fren-recrutement-econocom-maroc-sala-al-jadida-187900.html",
+      "sourceId": "offre-emploi-technicien-service-desk-fren-recrutement-econocom-maroc-sala-al-jadida-187900.html",
       "tags": [
         "rekrute",
-        "fondation arrawaj souk",
-        "souk larbaa",
+        "econocom maroc sala al",
+        "sala al jadida",
         "general"
       ],
-      "ourSnippet": "Poste de Chargé de portefeuille (H/F) a Souk Larbaa. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "ourSnippet": "Poste de Technicien Service Desk FR/EN a Sala Al Jadida. Contrat CDD. Consulte l'annonce et postule via la source (ReKrute).",
       "trust": {
         "level": "Verified",
         "score": 89,
@@ -956,95 +935,60 @@
           "Date publiee"
         ]
       },
-      "dedupeKey": "charge de portefeuille hf|fondation arrawaj souk|souk larbaa",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "dedupeKey": "technicien service desk fren|econocom maroc sala al|sala al jadida",
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
-      "id": "191db644cbf03725",
-      "title": "Chargé de portefeuille (H/F)",
-      "company": "Fondation Arrawaj",
-      "city": "Salé",
-      "contract": "CDI",
-      "experience": "1-3",
-      "remote": "Unknown",
-      "category": "General",
-      "postedAt": "2026-11-11T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-charge-de-portefeuille-hf-recrutement-fondation-arrawaj-sale-188412.html",
-      "sourceId": "offre-emploi-charge-de-portefeuille-hf-recrutement-fondation-arrawaj-sale-188412.html",
-      "tags": [
-        "rekrute",
-        "fondation arrawaj",
-        "sale",
-        "general"
-      ],
-      "ourSnippet": "Poste de Chargé de portefeuille (H/F) a Salé. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 89,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "charge de portefeuille hf|fondation arrawaj|sale",
-      "createdAt": "2026-11-11T12:40:25.491Z"
-    },
-    {
-      "id": "e4543ce4f945ca5e",
-      "title": "COMPTABLE BILINGUE H/F",
-      "company": "Confidentiel",
-      "city": "Casablanca",
-      "contract": "CDI",
-      "experience": "0",
-      "remote": "Unknown",
-      "category": "Comptabilite",
-      "postedAt": "2026-11-11T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-comptable-bilingue-hf-recrutement-confidentiel-casablanca-188411.html",
-      "sourceId": "offre-emploi-comptable-bilingue-hf-recrutement-confidentiel-casablanca-188411.html",
-      "tags": [
-        "rekrute",
-        "confidentiel",
-        "casablanca",
-        "comptabilite"
-      ],
-      "ourSnippet": "Poste de COMPTABLE BILINGUE H/F a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 89,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "comptable bilingue hf|confidentiel|casablanca",
-      "createdAt": "2026-11-11T12:40:25.491Z"
-    },
-    {
-      "id": "ba3b6fa4685e7f1d",
-      "title": "Inspecteur Junior (H/F)",
-      "company": "Fondation Arrawaj",
+      "id": "fed09e793bd0a36c",
+      "title": "PMO – Support au programme Workplace (H/F)",
       "city": "Rabat",
       "contract": "CDI",
       "experience": "0",
       "remote": "Unknown",
       "category": "General",
-      "postedAt": "2026-11-11T00:00:00.000Z",
+      "postedAt": "2026-11-12T00:00:00.000Z",
       "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-inspecteur-junior-hf-recrutement-fondation-arrawaj-rabat-188410.html",
-      "sourceId": "offre-emploi-inspecteur-junior-hf-recrutement-fondation-arrawaj-rabat-188410.html",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-pmo-support-au-programme-workplace-hf-recrutement-afd.tech-rabat-188456.html",
+      "sourceId": "offre-emploi-pmo-support-au-programme-workplace-hf-recrutement-afd.tech-rabat-188456.html",
       "tags": [
         "rekrute",
-        "fondation arrawaj",
         "rabat",
         "general"
       ],
-      "ourSnippet": "Poste de Inspecteur Junior (H/F) a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "ourSnippet": "Poste de PMO – Support au programme Workplace (H/F) a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 79,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise absente",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "pmo support au programme workplace hf|rabat",
+      "createdAt": "2026-11-12T13:43:09.630Z"
+    },
+    {
+      "id": "3098c72e1f5b4998",
+      "title": "Chef de Projet IT",
+      "company": "Cac Centrale Automobile Cherifienne",
+      "city": "Casablanca",
+      "contract": "CDI",
+      "experience": "3-5",
+      "remote": "Unknown",
+      "category": "Tech",
+      "postedAt": "2026-11-12T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-chef-de-projet-it-recrutement-cac-centrale-automobile-cherifienne-casablanca-188387.html",
+      "sourceId": "offre-emploi-chef-de-projet-it-recrutement-cac-centrale-automobile-cherifienne-casablanca-188387.html",
+      "tags": [
+        "rekrute",
+        "cac centrale automobile cherifienne",
+        "casablanca",
+        "tech"
+      ],
+      "ourSnippet": "Poste de Chef de Projet IT a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
       "trust": {
         "level": "Verified",
         "score": 89,
@@ -1055,28 +999,192 @@
           "Date publiee"
         ]
       },
-      "dedupeKey": "inspecteur junior hf|fondation arrawaj|rabat",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "dedupeKey": "chef de projet it|cac centrale automobile cherifienne|casablanca",
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
-      "id": "7dd9aee9044fc7aa",
-      "title": "Assistant / Chargé de support Ventes IR Handset",
-      "company": "Gsm Al Maghrib",
+      "id": "95b26ee052f34f35",
+      "title": "Chef de Projet Data & IA",
+      "company": "Cac Centrale Automobile Cherifienne",
       "city": "Casablanca",
-      "experience": "1-3",
+      "contract": "CDI",
+      "experience": "3-5",
+      "remote": "Unknown",
+      "category": "Tech",
+      "postedAt": "2026-11-12T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-chef-de-projet-data-ia-recrutement-cac-centrale-automobile-cherifienne-casablanca-188388.html",
+      "sourceId": "offre-emploi-chef-de-projet-data-ia-recrutement-cac-centrale-automobile-cherifienne-casablanca-188388.html",
+      "tags": [
+        "rekrute",
+        "cac centrale automobile cherifienne",
+        "casablanca",
+        "tech"
+      ],
+      "ourSnippet": "Poste de Chef de Projet Data & IA a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "chef de projet data ia|cac centrale automobile cherifienne|casablanca",
+      "createdAt": "2026-11-12T13:43:09.630Z"
+    },
+    {
+      "id": "6e66333569aa7307",
+      "title": "Project Manager – Workplace (H/F)",
+      "city": "Rabat",
+      "contract": "CDI",
+      "experience": "0",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-12T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-project-manager-workplace-hf-recrutement-afd.tech-rabat-188455.html",
+      "sourceId": "offre-emploi-project-manager-workplace-hf-recrutement-afd.tech-rabat-188455.html",
+      "tags": [
+        "rekrute",
+        "rabat",
+        "general"
+      ],
+      "ourSnippet": "Poste de Project Manager – Workplace (H/F) a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 79,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise absente",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "project manager workplace hf|rabat",
+      "createdAt": "2026-11-12T13:43:09.630Z"
+    },
+    {
+      "id": "1485cc4b6dda265f",
+      "title": "Ingénieur Structuration Pre-Trade",
+      "company": "Societe Generale Gsc",
+      "city": "Casablanca",
+      "contract": "CDI",
+      "experience": "3-5",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-12T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-ingenieur-structuration-pre-trade-recrutement-societe-generale-gsc-casablanca-187895.html",
+      "sourceId": "offre-emploi-ingenieur-structuration-pre-trade-recrutement-societe-generale-gsc-casablanca-187895.html",
+      "tags": [
+        "rekrute",
+        "societe generale gsc",
+        "casablanca",
+        "general"
+      ],
+      "ourSnippet": "Poste de Ingénieur Structuration Pre-Trade a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "ingenieur structuration pre-trade|societe generale gsc|casablanca",
+      "createdAt": "2026-11-12T13:43:09.630Z"
+    },
+    {
+      "id": "9f41f7652e1905e0",
+      "title": "Team Manager Bilingue Franco-Anglophone",
+      "company": "Marketing Call Center",
+      "city": "Rabat",
+      "contract": "CDI",
+      "experience": "0",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-12T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-team-manager-bilingue-franco-anglophone-recrutement-marketing-call-center-rabat-186534.html",
+      "sourceId": "offre-emploi-team-manager-bilingue-franco-anglophone-recrutement-marketing-call-center-rabat-186534.html",
+      "tags": [
+        "rekrute",
+        "marketing call center",
+        "rabat",
+        "general"
+      ],
+      "ourSnippet": "Poste de Team Manager Bilingue Franco-Anglophone a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "team manager bilingue franco-anglophone|marketing call center|rabat",
+      "createdAt": "2026-11-12T13:43:09.630Z"
+    },
+    {
+      "id": "f76a027b342b3c86",
+      "title": "Commerciaux Sédentaires – Expert Fibre Optique (H/F)",
+      "company": "Marketing Call Center",
+      "city": "Rabat",
+      "contract": "CDI",
+      "experience": "0",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-12T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-commerciaux-sedentaires-expert-fibre-optique-hf-recrutement-marketing-call-center-rabat-187897.html",
+      "sourceId": "offre-emploi-commerciaux-sedentaires-expert-fibre-optique-hf-recrutement-marketing-call-center-rabat-187897.html",
+      "tags": [
+        "rekrute",
+        "marketing call center",
+        "rabat",
+        "general"
+      ],
+      "ourSnippet": "Poste de Commerciaux Sédentaires – Expert Fibre Optique (H/F) a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "commerciaux sedentaires expert fibre optique hf|marketing call center|rabat",
+      "createdAt": "2026-11-12T13:43:09.630Z"
+    },
+    {
+      "id": "f1637f0cd8a6ca88",
+      "title": "Conseiller Commercial BtoB en Téléphonie (H/F)",
+      "company": "Marketing Call Center",
+      "city": "Rabat",
+      "contract": "CDI",
+      "experience": "0",
       "remote": "Unknown",
       "category": "Vente",
-      "postedAt": "2026-11-11T00:00:00.000Z",
+      "postedAt": "2026-11-12T00:00:00.000Z",
       "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-assistant-charge-de-support-ventes-ir-handset-recrutement-gsm-al-maghrib-casablanca-188409.html",
-      "sourceId": "offre-emploi-assistant-charge-de-support-ventes-ir-handset-recrutement-gsm-al-maghrib-casablanca-188409.html",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-conseiller-commercial-btob-en-telephonie-hf-recrutement-marketing-call-center-rabat-188023.html",
+      "sourceId": "offre-emploi-conseiller-commercial-btob-en-telephonie-hf-recrutement-marketing-call-center-rabat-188023.html",
       "tags": [
         "rekrute",
-        "gsm al maghrib",
-        "casablanca",
+        "marketing call center",
+        "rabat",
         "vente"
       ],
-      "ourSnippet": "Poste de Assistant / Chargé de support Ventes IR Handset a Casablanca. Consulte l'annonce et postule via la source (ReKrute).",
+      "ourSnippet": "Poste de Conseiller Commercial BtoB en Téléphonie (H/F) a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
       "trust": {
         "level": "Verified",
         "score": 89,
@@ -1087,29 +1195,62 @@
           "Date publiee"
         ]
       },
-      "dedupeKey": "assistant charge de support ventes ir handset|gsm al maghrib|casablanca",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "dedupeKey": "conseiller commercial btob en telephonie hf|marketing call center|rabat",
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
-      "id": "a39bb3e018da034a",
-      "title": "ADAS HIL Automation Engineer Junior",
-      "company": "Alten Maroc",
+      "id": "046ca8d25e64bb9d",
+      "title": "Agente Backoffice Italofono - Weekend OFF",
+      "company": "Marketing Call Center",
+      "city": "Rabat",
+      "contract": "CDI",
+      "experience": "0",
+      "remote": "Unknown",
+      "category": "Tech",
+      "postedAt": "2026-11-12T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-agente-backoffice-italofono---weekend-off-recrutement-marketing-call-center-rabat-188159.html",
+      "sourceId": "offre-emploi-agente-backoffice-italofono---weekend-off-recrutement-marketing-call-center-rabat-188159.html",
+      "tags": [
+        "rekrute",
+        "marketing call center",
+        "rabat",
+        "tech"
+      ],
+      "ourSnippet": "Poste de Agente Backoffice Italofono - Weekend OFF a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "agente backoffice italofono - weekend off|marketing call center|rabat",
+      "createdAt": "2026-11-12T13:43:09.630Z"
+    },
+    {
+      "id": "36628003b816cf5c",
+      "title": "English-Speaking Customer Service Representative (Night Shift)",
+      "company": "Marketing Call Center",
       "city": "Rabat",
       "contract": "CDI",
       "experience": "0",
       "remote": "Unknown",
       "category": "General",
-      "postedAt": "2026-11-11T00:00:00.000Z",
+      "postedAt": "2026-11-12T00:00:00.000Z",
       "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-adas-hil-automation-engineer-junior-recrutement-alten-maroc-rabat-188408.html",
-      "sourceId": "offre-emploi-adas-hil-automation-engineer-junior-recrutement-alten-maroc-rabat-188408.html",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-english-speaking-customer-service-representative-night-shift-recrutement-marketing-call-center-rabat-187896.html",
+      "sourceId": "offre-emploi-english-speaking-customer-service-representative-night-shift-recrutement-marketing-call-center-rabat-187896.html",
       "tags": [
         "rekrute",
-        "alten maroc",
+        "marketing call center",
         "rabat",
         "general"
       ],
-      "ourSnippet": "Poste de ADAS HIL Automation Engineer Junior a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "ourSnippet": "Poste de English-Speaking Customer Service Representative (Night Shift) a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
       "trust": {
         "level": "Verified",
         "score": 89,
@@ -1120,8 +1261,169 @@
           "Date publiee"
         ]
       },
-      "dedupeKey": "adas hil automation engineer junior|alten maroc|rabat",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "dedupeKey": "english-speaking customer service representative night shift|marketing call center|rabat",
+      "createdAt": "2026-11-12T13:43:09.630Z"
+    },
+    {
+      "id": "e9cea8c32cc5f4b4",
+      "title": "Acheteur Junior",
+      "city": "Casablanca",
+      "contract": "CDI",
+      "experience": "0",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-12T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-acheteur-junior-recrutement-auto-nejma-maroc-s.a.-casablanca-188454.html",
+      "sourceId": "offre-emploi-acheteur-junior-recrutement-auto-nejma-maroc-s.a.-casablanca-188454.html",
+      "tags": [
+        "rekrute",
+        "casablanca",
+        "general"
+      ],
+      "ourSnippet": "Poste de Acheteur Junior a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 79,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise absente",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "acheteur junior|casablanca",
+      "createdAt": "2026-11-12T13:43:09.630Z"
+    },
+    {
+      "id": "8dd0404f146b619e",
+      "title": "Gestionnaire des habilitiations",
+      "company": "Akkodis Maroc",
+      "city": "Tanger",
+      "contract": "CDI",
+      "experience": "3-5",
+      "remote": "Unknown",
+      "category": "Tech",
+      "postedAt": "2026-11-12T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-gestionnaire-des-habilitiations-recrutement-akkodis-maroc-tanger-188453.html",
+      "sourceId": "offre-emploi-gestionnaire-des-habilitiations-recrutement-akkodis-maroc-tanger-188453.html",
+      "tags": [
+        "rekrute",
+        "akkodis maroc",
+        "tanger",
+        "tech"
+      ],
+      "ourSnippet": "Poste de Gestionnaire des habilitiations a Tanger. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "gestionnaire des habilitiations|akkodis maroc|tanger",
+      "createdAt": "2026-11-12T13:43:09.630Z"
+    },
+    {
+      "id": "d57d85552221c885",
+      "title": "Chargées de clientèle bilingues français / anglais rétention & fidélisation",
+      "company": "Telus Digital",
+      "city": "Casablanca",
+      "contract": "CDI",
+      "experience": "1-3",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-12T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-chargees-de-clientele-bilingues-francais-anglais-retention-fidelisation-recrutement-telus-digital-casablanca-187160.html",
+      "sourceId": "offre-emploi-chargees-de-clientele-bilingues-francais-anglais-retention-fidelisation-recrutement-telus-digital-casablanca-187160.html",
+      "tags": [
+        "rekrute",
+        "telus digital",
+        "casablanca",
+        "general"
+      ],
+      "ourSnippet": "Poste de Chargées de clientèle bilingues français / anglais rétention & fidélisation a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "chargees de clientele bilingues francais anglais retention fidelisation|telus digital|casablanca",
+      "createdAt": "2026-11-12T13:43:09.630Z"
+    },
+    {
+      "id": "94d827b40d57c050",
+      "title": "WAF, Bot Management & Micro-segmentation Lead (H/F)",
+      "city": "Rabat",
+      "contract": "CDI",
+      "experience": "3-5",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-12T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-waf-bot-management-micro-segmentation-lead-hf-recrutement-afd.tech-rabat-188452.html",
+      "sourceId": "offre-emploi-waf-bot-management-micro-segmentation-lead-hf-recrutement-afd.tech-rabat-188452.html",
+      "tags": [
+        "rekrute",
+        "rabat",
+        "general"
+      ],
+      "ourSnippet": "Poste de WAF, Bot Management & Micro-segmentation Lead (H/F) a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 79,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise absente",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "waf bot management micro-segmentation lead hf|rabat",
+      "createdAt": "2026-11-12T13:43:09.630Z"
+    },
+    {
+      "id": "456ce5e1a7ac5773",
+      "title": "Administrateur Azure DevOps / AKS",
+      "company": "Akkodis Maroc",
+      "city": "Tanger",
+      "contract": "CDI",
+      "experience": "3-5",
+      "remote": "Unknown",
+      "category": "Tech",
+      "postedAt": "2026-11-12T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-administrateur-azure-devops-aks-recrutement-akkodis-maroc-tanger-188451.html",
+      "sourceId": "offre-emploi-administrateur-azure-devops-aks-recrutement-akkodis-maroc-tanger-188451.html",
+      "tags": [
+        "rekrute",
+        "akkodis maroc",
+        "tanger",
+        "tech"
+      ],
+      "ourSnippet": "Poste de Administrateur Azure DevOps / AKS a Tanger. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "administrateur azure devops aks|akkodis maroc|tanger",
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
       "id": "b9a54591528eed35",
@@ -1154,7 +1456,7 @@
         ]
       },
       "dedupeKey": "regleur cnc citizen casablanca talents partners|talents partners|casablanca",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
       "id": "fbabb76b932ed536",
@@ -1181,7 +1483,7 @@
         ]
       },
       "dedupeKey": "regleur cnc citizen",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
       "id": "5d44ef20f8cb8af4",
@@ -1214,7 +1516,7 @@
         ]
       },
       "dedupeKey": "stagiaire en comptabilite finance casablanca bioprogreen|bioprogreen|casablanca",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
       "id": "a076becb328bf792",
@@ -1244,7 +1546,7 @@
         ]
       },
       "dedupeKey": "stagiaire en comptabilite finance|casablanca",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
       "id": "553be042e8e6abbe",
@@ -1279,7 +1581,7 @@
         ]
       },
       "dedupeKey": "stagiaire en marketing commerce international casablanca bioprogreen|bioprogreen|casablanca",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
       "id": "8b0fd088a80bed5e",
@@ -1309,7 +1611,7 @@
         ]
       },
       "dedupeKey": "stagiaire en marketing commerce international|casablanca",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
       "id": "530f5bf80d7f8ef8",
@@ -1342,7 +1644,7 @@
         ]
       },
       "dedupeKey": "stagiaire en developpement web casablanca casablanca bioprogreen|bioprogreen|casablanca",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
       "id": "5af3bb0201fa6375",
@@ -1372,7 +1674,7 @@
         ]
       },
       "dedupeKey": "stagiaire en developpement web casablanca|casablanca",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
       "id": "ffb5e8372d2f56b7",
@@ -1404,7 +1706,7 @@
         ]
       },
       "dedupeKey": "profil de gestion meknes acgo|acgo|meknes",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
       "id": "769ef523dd0ed653",
@@ -1431,137 +1733,7 @@
         ]
       },
       "dedupeKey": "profil de gestion",
-      "createdAt": "2026-11-11T12:40:25.491Z"
-    },
-    {
-      "id": "aa26ffab6cc19b16",
-      "title": "Ingénieur Qualité",
-      "company": "Super Auto Group",
-      "city": "Rabat",
-      "contract": "CDI",
-      "experience": "1-3",
-      "remote": "Unknown",
-      "category": "Tech",
-      "postedAt": "2026-11-10T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-ingenieur-qualite-recrutement-super-auto-group-rabat-188407.html",
-      "sourceId": "offre-emploi-ingenieur-qualite-recrutement-super-auto-group-rabat-188407.html",
-      "tags": [
-        "rekrute",
-        "super auto group",
-        "rabat",
-        "tech"
-      ],
-      "ourSnippet": "Poste de Ingénieur Qualité a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 89,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "ingenieur qualite|super auto group|rabat",
-      "createdAt": "2026-11-11T12:40:25.491Z"
-    },
-    {
-      "id": "54d8865516ceed7e",
-      "title": "Adjoint Responsable Service Après-Vente",
-      "city": "Rabat",
-      "contract": "CDI",
-      "experience": "1-3",
-      "remote": "Unknown",
-      "category": "Vente",
-      "postedAt": "2026-11-10T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-adjoint-responsable-service-apres-vente-recrutement-auto-nejma-maroc-s.a.-rabat-188406.html",
-      "sourceId": "offre-emploi-adjoint-responsable-service-apres-vente-recrutement-auto-nejma-maroc-s.a.-rabat-188406.html",
-      "tags": [
-        "rekrute",
-        "rabat",
-        "vente"
-      ],
-      "ourSnippet": "Poste de Adjoint Responsable Service Après-Vente a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 79,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise absente",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "adjoint responsable service apres-vente|rabat",
-      "createdAt": "2026-11-11T12:40:25.491Z"
-    },
-    {
-      "id": "958ad4c0ee6aa59a",
-      "title": "Ingénieur Test & Validation Sénior",
-      "company": "Alten Maroc",
-      "city": "Rabat",
-      "contract": "CDI",
-      "experience": "5+",
-      "remote": "Unknown",
-      "category": "General",
-      "postedAt": "2026-11-10T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-ingenieur-test-validation-senior-recrutement-alten-maroc-rabat-188405.html",
-      "sourceId": "offre-emploi-ingenieur-test-validation-senior-recrutement-alten-maroc-rabat-188405.html",
-      "tags": [
-        "rekrute",
-        "alten maroc",
-        "rabat",
-        "general"
-      ],
-      "ourSnippet": "Poste de Ingénieur Test & Validation Sénior a Rabat. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 89,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "ingenieur test validation senior|alten maroc|rabat",
-      "createdAt": "2026-11-11T12:40:25.491Z"
-    },
-    {
-      "id": "09ab9309ac18983a",
-      "title": "AGENT COMPTABLE",
-      "company": "Atlas Online",
-      "city": "Casablanca",
-      "contract": "CDI",
-      "experience": "0",
-      "remote": "Unknown",
-      "category": "Comptabilite",
-      "postedAt": "2026-11-10T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-agent-comptable-recrutement-atlas-online-casablanca-188404.html",
-      "sourceId": "offre-emploi-agent-comptable-recrutement-atlas-online-casablanca-188404.html",
-      "tags": [
-        "rekrute",
-        "atlas online",
-        "casablanca",
-        "comptabilite"
-      ],
-      "ourSnippet": "Poste de AGENT COMPTABLE a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 89,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "agent comptable|atlas online|casablanca",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
       "id": "96ebd684a0542333",
@@ -1593,7 +1765,7 @@
         ]
       },
       "dedupeKey": "des experts kenitra bcs risk|bcs risk|kenitra",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
       "id": "ed34497d89bf20e5",
@@ -1620,7 +1792,7 @@
         ]
       },
       "dedupeKey": "des experts",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
       "id": "c0deb1cf72ae6e87",
@@ -1654,7 +1826,7 @@
         ]
       },
       "dedupeKey": "professeure de francais primaire educateurtrice de francais agadir ecole gauthier|ecole gauthier|agadir",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
       "id": "59f01f1b3f06de87",
@@ -1685,7 +1857,7 @@
         ]
       },
       "dedupeKey": "professeure de francais primaire educateurtrice de francais|agadir",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
       "id": "b69c37e79ab57d7a",
@@ -1717,7 +1889,7 @@
         ]
       },
       "dedupeKey": "chargee marketing solutions domotique casablanca generale delectricite et domotique|generale delectricite et domotique|casablanca",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
       "id": "c4607ed25d27b767",
@@ -1744,40 +1916,7 @@
         ]
       },
       "dedupeKey": "chargee marketing solutions domotique",
-      "createdAt": "2026-11-11T12:40:25.491Z"
-    },
-    {
-      "id": "f1f6f538a858902e",
-      "title": "Commercial Solutions Domotique – Casablanca, Générale d’Electricité et Domotique",
-      "company": "Générale d’Electricité et Domotique",
-      "city": "Casablanca",
-      "remote": "Unknown",
-      "category": "Vente",
-      "postedAt": "2026-11-09T10:18:30.000Z",
-      "source": "EMPLOI_MAROC",
-      "sourceUrl": "https://www.emplois.co/commercial-solutions-domotique-casablanca-generale-delectricite-et-domotique-2",
-      "sourceId": "commercial-solutions-domotique-casablanca-generale-delectricite-et-domotique-2",
-      "tags": [
-        "emploi-maroc",
-        "rss",
-        "casablanca",
-        "commercial",
-        "generale delectricite et domotique",
-        "vente"
-      ],
-      "ourSnippet": "Poste de Commercial Solutions Domotique – Casablanca, Générale d’Electricité et Domotique a Casablanca. Consulte l'annonce et postule via la source (Emplois.co).",
-      "trust": {
-        "level": "Verified",
-        "score": 84,
-        "reasons": [
-          "Plateforme emploi marocaine",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "commercial solutions domotique casablanca generale delectricite et domotique|generale delectricite et domotique|casablanca",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
       "id": "bab9ef7f26e6ecbd",
@@ -1804,42 +1943,7 @@
         ]
       },
       "dedupeKey": "commercial solutions domotique",
-      "createdAt": "2026-11-11T12:40:25.491Z"
-    },
-    {
-      "id": "a0e48ff2a79101c0",
-      "title": "Enseignant de la langue anglaise – Tanger, Groupe scolaire",
-      "company": "Groupe scolaire",
-      "city": "Tanger",
-      "remote": "Unknown",
-      "category": "General",
-      "postedAt": "2026-11-09T10:14:31.000Z",
-      "source": "EMPLOI_MAROC",
-      "sourceUrl": "https://www.emplois.co/enseignant-de-la-langue-anglaise-tanger-groupe-scolaire",
-      "sourceId": "enseignant-de-la-langue-anglaise-tanger-groupe-scolaire",
-      "tags": [
-        "emploi-maroc",
-        "rss",
-        "enseignant",
-        "enseignant anglais",
-        "enseignant langue",
-        "groupe scolaire",
-        "tanger",
-        "general"
-      ],
-      "ourSnippet": "Poste de Enseignant de la langue anglaise – Tanger, Groupe scolaire a Tanger. Consulte l'annonce et postule via la source (Emplois.co).",
-      "trust": {
-        "level": "Verified",
-        "score": 84,
-        "reasons": [
-          "Plateforme emploi marocaine",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "enseignant de la langue anglaise tanger groupe scolaire|groupe scolaire|tanger",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
       "id": "638913c5caf2db4b",
@@ -1866,7 +1970,7 @@
         ]
       },
       "dedupeKey": "enseignant de la langue anglaise",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
       "id": "c42f019e154d54b8",
@@ -1893,7 +1997,7 @@
         ]
       },
       "dedupeKey": "architecte dinterieur hf",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
       "id": "59e9e9be3bcbd9a3",
@@ -1923,7 +2027,7 @@
         ]
       },
       "dedupeKey": "agent commercial de terrain casablanca|casablanca",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
       "id": "8544da691828e6c4",
@@ -1950,7 +2054,7 @@
         ]
       },
       "dedupeKey": "responsable departement import secteur industriel electrique",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
       "id": "00b2a4af33357457",
@@ -1977,7 +2081,7 @@
         ]
       },
       "dedupeKey": "technicienne support technique technico-commerciale",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
       "id": "71b493ea88a6d56c",
@@ -2004,7 +2108,7 @@
         ]
       },
       "dedupeKey": "responsable commercial",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
       "id": "47462e4af59393fd",
@@ -2031,7 +2135,7 @@
         ]
       },
       "dedupeKey": "techniciens sav",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
       "id": "1c5727e52c915243",
@@ -2058,7 +2162,7 @@
         ]
       },
       "dedupeKey": "expert seo creation de contenus",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
       "id": "3beeaf4b407dd2bc",
@@ -2085,61 +2189,7 @@
         ]
       },
       "dedupeKey": "ingenieur detat responsable logistique transport",
-      "createdAt": "2026-11-11T12:40:25.491Z"
-    },
-    {
-      "id": "261b5db36d041b03",
-      "title": "Formateur(trice) / expert(e) en anglais professionnel",
-      "remote": "Unknown",
-      "category": "General",
-      "postedAt": "2026-11-03T13:58:15.000Z",
-      "source": "OFFRES_EMPLOI",
-      "sourceUrl": "https://www.emplois.co/formateurtrice-experte-en-anglais-professionnel-raba-bet-consulting",
-      "sourceId": "formateurtrice-experte-en-anglais-professionnel-raba-bet-consulting",
-      "tags": [
-        "offres-emploi",
-        "rss",
-        "general"
-      ],
-      "ourSnippet": "Poste de Formateur(trice) / expert(e) en anglais professionnel au Maroc. Consulte l'annonce et postule via la source (Offres-emploi.ma).",
-      "trust": {
-        "level": "Verified",
-        "score": 64,
-        "reasons": [
-          "Moteur emploi aggregateur",
-          "Entreprise absente",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "formateurtrice experte en anglais professionnel",
-      "createdAt": "2026-11-11T12:40:25.491Z"
-    },
-    {
-      "id": "eeaae7ee26b310f9",
-      "title": "Pharmacien(ne) pour une pharmacie à kénitra (maghreb arabi)",
-      "remote": "Unknown",
-      "category": "Tech",
-      "postedAt": "2026-11-03T09:23:29.000Z",
-      "source": "OFFRES_EMPLOI",
-      "sourceUrl": "https://www.emplois.co/pharmacienne-pour-une-pharmacie-a-kenitra-maghreb-arabi-kenitra-pharmacie-aec",
-      "sourceId": "pharmacienne-pour-une-pharmacie-a-kenitra-maghreb-arabi-kenitra-pharmacie-aec",
-      "tags": [
-        "offres-emploi",
-        "rss",
-        "tech"
-      ],
-      "ourSnippet": "Poste de Pharmacien(ne) pour une pharmacie à kénitra (maghreb arabi) au Maroc. Consulte l'annonce et postule via la source (Offres-emploi.ma).",
-      "trust": {
-        "level": "Verified",
-        "score": 64,
-        "reasons": [
-          "Moteur emploi aggregateur",
-          "Entreprise absente",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "pharmacienne pour une pharmacie a kenitra maghreb arabi",
-      "createdAt": "2026-11-11T12:40:25.491Z"
+      "createdAt": "2026-11-12T13:43:09.630Z"
     },
     {
       "id": "9f6900301d3fe921",
