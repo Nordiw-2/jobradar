@@ -1,7 +1,73 @@
 {
-  "updatedAt": "2026-11-14T12:07:00.275Z",
+  "updatedAt": "2026-11-15T12:41:39.830Z",
   "total": 81,
   "jobs": [
+    {
+      "id": "edf33b50b1e13414",
+      "title": "EXPERT CAISSE",
+      "company": "Groupe Labelvie Carrefour",
+      "city": "Casablanca",
+      "contract": "CDI",
+      "experience": "0",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-14T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-expert-caisse-recrutement-groupe-labelvie---carrefour-casablanca-188491.html",
+      "sourceId": "offre-emploi-expert-caisse-recrutement-groupe-labelvie---carrefour-casablanca-188491.html",
+      "tags": [
+        "rekrute",
+        "groupe labelvie carrefour",
+        "casablanca",
+        "general"
+      ],
+      "ourSnippet": "Poste de EXPERT CAISSE a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "expert caisse|groupe labelvie carrefour|casablanca",
+      "createdAt": "2026-11-15T12:41:39.830Z"
+    },
+    {
+      "id": "7aa82a36bbaeaea4",
+      "title": "HR COORDINATOR Marrakech",
+      "company": "Groupe Labelvie Carrefour",
+      "city": "Marrakech",
+      "contract": "CDI",
+      "experience": "0",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-14T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-hr-coordinator-marrakech-recrutement-groupe-labelvie---carrefour-marrakech-188490.html",
+      "sourceId": "offre-emploi-hr-coordinator-marrakech-recrutement-groupe-labelvie---carrefour-marrakech-188490.html",
+      "tags": [
+        "rekrute",
+        "groupe labelvie carrefour",
+        "marrakech",
+        "general"
+      ],
+      "ourSnippet": "Poste de HR COORDINATOR Marrakech a Marrakech. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "hr coordinator marrakech|groupe labelvie carrefour|marrakech",
+      "createdAt": "2026-11-15T12:41:39.830Z"
+    },
     {
       "id": "2300b9a2b6cb9979",
       "title": "technicien laboratoire inorganique – Agadir, HUMAIN HR",
@@ -35,7 +101,7 @@
         ]
       },
       "dedupeKey": "technicien laboratoire inorganique agadir humain hr|humain hr|agadir",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "e3a6795657ab974d",
@@ -63,7 +129,7 @@
         ]
       },
       "dedupeKey": "technicien laboratoire inorganique",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "f51215c6c96e3e85",
@@ -96,7 +162,7 @@
         ]
       },
       "dedupeKey": "ingenieur energie fh|safran nacelles|casablanca",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "4e584c11f7cc197b",
@@ -129,7 +195,7 @@
         ]
       },
       "dedupeKey": "adjoint chef centre emplisseur rades tunisie|total energies tunisie|rades",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "4353f5aa7fd3097c",
@@ -162,7 +228,7 @@
         ]
       },
       "dedupeKey": "charge de communication sav de levenementiel des relations publiques et du sponsoring|groupe smeia|casablanca",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "343b4e73cfd19bb7",
@@ -195,7 +261,7 @@
         ]
       },
       "dedupeKey": "teleprospection telephonique en b to b junior|od services sidi maarouf|casablanca",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "195ffb14e3b5f5d7",
@@ -228,7 +294,7 @@
         ]
       },
       "dedupeKey": "teleprospection telephonique en b to b avec experience|od services sidi maarouf|casablanca",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "b86ad9ce5cca48a8",
@@ -261,7 +327,7 @@
         ]
       },
       "dedupeKey": "chargee coordination logistique skhirate|groupe labelvie carrefour|skhirat",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "940ec598e285c4be",
@@ -294,7 +360,7 @@
         ]
       },
       "dedupeKey": "comptable|gsm al maghrib|casablanca",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "fed8df20608cc40b",
@@ -327,7 +393,7 @@
         ]
       },
       "dedupeKey": "directeur commercial hf|maymana|rabat",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "9da506174375d1b3",
@@ -360,40 +426,7 @@
         ]
       },
       "dedupeKey": "superviseur rh - tanger|groupe labelvie carrefour|tanger",
-      "createdAt": "2026-11-14T12:07:00.275Z"
-    },
-    {
-      "id": "4a34e24d2aac1e35",
-      "title": "Project Manager",
-      "company": "Groupe Labelvie Carrefour",
-      "city": "Casablanca",
-      "contract": "CDI",
-      "experience": "5+",
-      "remote": "Unknown",
-      "category": "General",
-      "postedAt": "2026-11-13T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-project-manager-recrutement-groupe-labelvie---carrefour-casablanca-188484.html",
-      "sourceId": "offre-emploi-project-manager-recrutement-groupe-labelvie---carrefour-casablanca-188484.html",
-      "tags": [
-        "rekrute",
-        "groupe labelvie carrefour",
-        "casablanca",
-        "general"
-      ],
-      "ourSnippet": "Poste de Project Manager a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 89,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "project manager|groupe labelvie carrefour|casablanca",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "e32784672c2dcdd3",
@@ -426,7 +459,40 @@
         ]
       },
       "dedupeKey": "responsable prospection - marrakech|groupe labelvie carrefour|marrakech",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
+    },
+    {
+      "id": "4a34e24d2aac1e35",
+      "title": "Project Manager",
+      "company": "Groupe Labelvie Carrefour",
+      "city": "Casablanca",
+      "contract": "CDI",
+      "experience": "5+",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-13T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-project-manager-recrutement-groupe-labelvie---carrefour-casablanca-188484.html",
+      "sourceId": "offre-emploi-project-manager-recrutement-groupe-labelvie---carrefour-casablanca-188484.html",
+      "tags": [
+        "rekrute",
+        "groupe labelvie carrefour",
+        "casablanca",
+        "general"
+      ],
+      "ourSnippet": "Poste de Project Manager a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "project manager|groupe labelvie carrefour|casablanca",
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "88ae852f7a4fa8c0",
@@ -459,7 +525,7 @@
         ]
       },
       "dedupeKey": "intervenant informatique hf|groupe labelvie carrefour|casablanca",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "9410591e117912f6",
@@ -492,7 +558,7 @@
         ]
       },
       "dedupeKey": "gerant station de services|confidentiel ksar el|ksar el-kebir",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "a457a55a68e1ee62",
@@ -525,7 +591,7 @@
         ]
       },
       "dedupeKey": "commerciale assurance sante hf|crit|casablanca",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "4f104a0d6cb8d2bb",
@@ -558,7 +624,7 @@
         ]
       },
       "dedupeKey": "agent administratif clinique|confidentiel|rabat",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "4d267c774935384f",
@@ -591,7 +657,7 @@
         ]
       },
       "dedupeKey": "customer competence center specialist hf - anglophone|confidentiel|casablanca",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "4974fdff5da93095",
@@ -624,7 +690,7 @@
         ]
       },
       "dedupeKey": "conseiller commercial|groupe smeia|casablanca",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "ec23e1cb776d9961",
@@ -657,7 +723,7 @@
         ]
       },
       "dedupeKey": "agente de soporte al cliente espanol 100 chat y email sin llamadas espanol|marketing call center|rabat",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "fa674a6ba91fb9b7",
@@ -690,7 +756,7 @@
         ]
       },
       "dedupeKey": "magasinier gestionnaire de stock service apres-vente sav|oppo|casablanca",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "06abbec2848621ce",
@@ -723,7 +789,7 @@
         ]
       },
       "dedupeKey": "formateur formatrice|oppo|casablanca",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "cae36c4a8cfd64b2",
@@ -756,7 +822,7 @@
         ]
       },
       "dedupeKey": "directeurtrice du capital humain|es saadi marrakech resort|marrakech",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "ea41e7c11cb84e54",
@@ -789,7 +855,7 @@
         ]
       },
       "dedupeKey": "chargee de support executif|alh holding|casablanca",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "67d20f0a666b742f",
@@ -822,7 +888,7 @@
         ]
       },
       "dedupeKey": "responsable gardiennage regional|confidentiel tout le|marrakech",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "09d1263c1b7cc21a",
@@ -855,7 +921,7 @@
         ]
       },
       "dedupeKey": "gestionnaire dassurance|confidentiel|sale",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "c80a3843635ff644",
@@ -888,7 +954,7 @@
         ]
       },
       "dedupeKey": "controleur de gestion hf|somagec|casablanca",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "643fb04279c174e1",
@@ -920,7 +986,7 @@
         ]
       },
       "dedupeKey": "gestionnaire sous-traitance|manpower agences|casablanca",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "c2aae64208865137",
@@ -953,7 +1019,7 @@
         ]
       },
       "dedupeKey": "responsable prospection|groupe labelvie carrefour|casablanca",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "7cfe47503c43849a",
@@ -986,7 +1052,7 @@
         ]
       },
       "dedupeKey": "directeur methodes projets exp en grande distribution|groupe labelvie carrefour|casablanca",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "b2dfa0c81f10bb29",
@@ -1019,7 +1085,7 @@
         ]
       },
       "dedupeKey": "charge de marketing digital hf avec experience en gestion de campagnes ads|heomi|casablanca",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "28b180a94c664975",
@@ -1052,7 +1118,7 @@
         ]
       },
       "dedupeKey": "chauffeur experimente|confidentiel|casablanca",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "a466fd9d8cef584f",
@@ -1089,7 +1155,7 @@
         ]
       },
       "dedupeKey": "secretaire assistante de direction tanger zephyr horizon|zephyr horizon|tanger",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "483f6cc6ea959d18",
@@ -1116,7 +1182,7 @@
         ]
       },
       "dedupeKey": "secretaire assistante de direction",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "9d2411f37303120b",
@@ -1152,7 +1218,7 @@
         ]
       },
       "dedupeKey": "stagiaire femme commerciale -3 mois- tanger code 9|code 9|tanger",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "e613de8891f4d5bf",
@@ -1182,7 +1248,7 @@
         ]
       },
       "dedupeKey": "stagiaire femme commerciale -3 mois-|tanger",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "912bbcfcc66d9916",
@@ -1216,7 +1282,7 @@
         ]
       },
       "dedupeKey": "agent commercial independante en teletravail 20 dh htheure casablanca premier contact 1ercontact|premier contact 1ercontact|casablanca",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "26e66e32a743c145",
@@ -1246,7 +1312,7 @@
         ]
       },
       "dedupeKey": "agent commercial independante en teletravail 20 dh htheure|casablanca",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "ef84efefb0878fbe",
@@ -1279,7 +1345,7 @@
         ]
       },
       "dedupeKey": "chargee coordination logistique|groupe labelvie carrefour|skhirat",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "e48abe9ba599280b",
@@ -1312,7 +1378,7 @@
         ]
       },
       "dedupeKey": "vendeur - developpeur hf|centrale danone|ouarzazate",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "5c0ae05a5e66be8f",
@@ -1345,7 +1411,7 @@
         ]
       },
       "dedupeKey": "junior topline buyer hf|centrale danone|casablanca",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "bab7986ac4349ff1",
@@ -1378,7 +1444,7 @@
         ]
       },
       "dedupeKey": "hr safety manager hf|centrale danone|kenitra",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "8cd7cbb5d31535bb",
@@ -1411,7 +1477,7 @@
         ]
       },
       "dedupeKey": "supply chain capex controller hf|centrale danone|casablanca",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "a4f237a91150014f",
@@ -1444,7 +1510,7 @@
         ]
       },
       "dedupeKey": "material planner hf|centrale danone|casablanca",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "ace299af86f1cab3",
@@ -1477,7 +1543,7 @@
         ]
       },
       "dedupeKey": "responsable technique hf|centrale danone|meknes",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "665e0fb93e5acb96",
@@ -1511,73 +1577,7 @@
         ]
       },
       "dedupeKey": "stagiaire maintenance informatique|fondation arrawaj|rabat",
-      "createdAt": "2026-11-14T12:07:00.275Z"
-    },
-    {
-      "id": "ec69097a4d55a05d",
-      "title": "Technicien mécanicien",
-      "company": "Domino Hr Morocco",
-      "city": "Casablanca",
-      "contract": "CDI",
-      "experience": "1-3",
-      "remote": "Unknown",
-      "category": "General",
-      "postedAt": "2026-11-12T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-technicien-mecanicien-recrutement-domino-hr-morocco-casablanca-188464.html",
-      "sourceId": "offre-emploi-technicien-mecanicien-recrutement-domino-hr-morocco-casablanca-188464.html",
-      "tags": [
-        "rekrute",
-        "domino hr morocco",
-        "casablanca",
-        "general"
-      ],
-      "ourSnippet": "Poste de Technicien mécanicien a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 89,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "technicien mecanicien|domino hr morocco|casablanca",
-      "createdAt": "2026-11-14T12:07:00.275Z"
-    },
-    {
-      "id": "b4d434cb00310661",
-      "title": "Opérateur de Chargement",
-      "company": "Confidentiel El Jadida Jorf",
-      "city": "El Jadida",
-      "contract": "CDI",
-      "experience": "1-3",
-      "remote": "Unknown",
-      "category": "General",
-      "postedAt": "2026-11-12T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-operateur-de-chargement-recrutement-confidentiel-el-jadida-jorf-lasfar-188463.html",
-      "sourceId": "offre-emploi-operateur-de-chargement-recrutement-confidentiel-el-jadida-jorf-lasfar-188463.html",
-      "tags": [
-        "rekrute",
-        "confidentiel el jadida jorf",
-        "el jadida",
-        "general"
-      ],
-      "ourSnippet": "Poste de Opérateur de Chargement a El Jadida. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 89,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "operateur de chargement|confidentiel el jadida jorf|el jadida",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "b9a54591528eed35",
@@ -1610,7 +1610,7 @@
         ]
       },
       "dedupeKey": "regleur cnc citizen casablanca talents partners|talents partners|casablanca",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "fbabb76b932ed536",
@@ -1637,7 +1637,7 @@
         ]
       },
       "dedupeKey": "regleur cnc citizen",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "5d44ef20f8cb8af4",
@@ -1670,7 +1670,7 @@
         ]
       },
       "dedupeKey": "stagiaire en comptabilite finance casablanca bioprogreen|bioprogreen|casablanca",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "a076becb328bf792",
@@ -1700,7 +1700,7 @@
         ]
       },
       "dedupeKey": "stagiaire en comptabilite finance|casablanca",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "553be042e8e6abbe",
@@ -1735,7 +1735,7 @@
         ]
       },
       "dedupeKey": "stagiaire en marketing commerce international casablanca bioprogreen|bioprogreen|casablanca",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "8b0fd088a80bed5e",
@@ -1765,7 +1765,7 @@
         ]
       },
       "dedupeKey": "stagiaire en marketing commerce international|casablanca",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "530f5bf80d7f8ef8",
@@ -1798,7 +1798,7 @@
         ]
       },
       "dedupeKey": "stagiaire en developpement web casablanca casablanca bioprogreen|bioprogreen|casablanca",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "5af3bb0201fa6375",
@@ -1828,7 +1828,7 @@
         ]
       },
       "dedupeKey": "stagiaire en developpement web casablanca|casablanca",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "ffb5e8372d2f56b7",
@@ -1860,7 +1860,7 @@
         ]
       },
       "dedupeKey": "profil de gestion meknes acgo|acgo|meknes",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "769ef523dd0ed653",
@@ -1887,7 +1887,7 @@
         ]
       },
       "dedupeKey": "profil de gestion",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "96ebd684a0542333",
@@ -1919,7 +1919,7 @@
         ]
       },
       "dedupeKey": "des experts kenitra bcs risk|bcs risk|kenitra",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "ed34497d89bf20e5",
@@ -1946,7 +1946,7 @@
         ]
       },
       "dedupeKey": "des experts",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "59f01f1b3f06de87",
@@ -1977,7 +1977,7 @@
         ]
       },
       "dedupeKey": "professeure de francais primaire educateurtrice de francais|agadir",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "c4607ed25d27b767",
@@ -2004,7 +2004,7 @@
         ]
       },
       "dedupeKey": "chargee marketing solutions domotique",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "bab9ef7f26e6ecbd",
@@ -2031,7 +2031,7 @@
         ]
       },
       "dedupeKey": "commercial solutions domotique",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "638913c5caf2db4b",
@@ -2058,7 +2058,7 @@
         ]
       },
       "dedupeKey": "enseignant de la langue anglaise",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "c42f019e154d54b8",
@@ -2085,7 +2085,7 @@
         ]
       },
       "dedupeKey": "architecte dinterieur hf",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "59e9e9be3bcbd9a3",
@@ -2115,7 +2115,7 @@
         ]
       },
       "dedupeKey": "agent commercial de terrain casablanca|casablanca",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "8544da691828e6c4",
@@ -2142,7 +2142,7 @@
         ]
       },
       "dedupeKey": "responsable departement import secteur industriel electrique",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "00b2a4af33357457",
@@ -2169,7 +2169,7 @@
         ]
       },
       "dedupeKey": "technicienne support technique technico-commerciale",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "71b493ea88a6d56c",
@@ -2196,7 +2196,7 @@
         ]
       },
       "dedupeKey": "responsable commercial",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "47462e4af59393fd",
@@ -2223,7 +2223,7 @@
         ]
       },
       "dedupeKey": "techniciens sav",
-      "createdAt": "2026-11-14T12:07:00.275Z"
+      "createdAt": "2026-11-15T12:41:39.830Z"
     },
     {
       "id": "9f6900301d3fe921",
