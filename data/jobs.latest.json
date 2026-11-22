@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-11-21T13:25:29.526Z",
+  "updatedAt": "2026-11-22T13:16:48.575Z",
   "total": 81,
   "jobs": [
+    {
+      "id": "7c2905592a124e35",
+      "title": "Secrétaire Médicale",
+      "company": "Akdital",
+      "city": "Tanger",
+      "contract": "CDI",
+      "experience": "1-3",
+      "remote": "Unknown",
+      "category": "General",
+      "postedAt": "2026-11-21T00:00:00.000Z",
+      "source": "REKRUTE",
+      "sourceUrl": "https://www.rekrute.com/offre-emploi-secretaire-medicale-recrutement-akdital-tanger-188717.html",
+      "sourceId": "offre-emploi-secretaire-medicale-recrutement-akdital-tanger-188717.html",
+      "tags": [
+        "rekrute",
+        "akdital",
+        "tanger",
+        "general"
+      ],
+      "ourSnippet": "Poste de Secrétaire Médicale a Tanger. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
+      "trust": {
+        "level": "Verified",
+        "score": 89,
+        "reasons": [
+          "Plateforme recrutement reputee",
+          "Entreprise renseignee",
+          "Ville precise",
+          "Date publiee"
+        ]
+      },
+      "dedupeKey": "secretaire medicale|akdital|tanger",
+      "createdAt": "2026-11-22T13:16:48.575Z"
+    },
     {
       "id": "dd73ad4b9e60c6dc",
       "title": "Agent Réseau 24/7 (F/H)",
@@ -33,7 +66,7 @@
         ]
       },
       "dedupeKey": "agent reseau 247 fh|cgi technologies et solutions maroc|fes",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "634bf0d40906733b",
@@ -66,7 +99,7 @@
         ]
       },
       "dedupeKey": "consultant senior devops|cgi technologies et solutions maroc|casablanca",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "64c6bcd4be016d0a",
@@ -100,7 +133,7 @@
         ]
       },
       "dedupeKey": "commerciaux independants ambassadeurs et ambassadrices cosmeteva maroc tout le maroc cosmeteva|cosmeteva|tout le maroc",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "007d733e2043fc1b",
@@ -127,7 +160,7 @@
         ]
       },
       "dedupeKey": "commerciaux independants ambassadeurs et ambassadrices cosmeteva maroc",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "e6936cea273925a7",
@@ -160,7 +193,7 @@
         ]
       },
       "dedupeKey": "electromecanicien hf had soualem had soualem societe du secteur agroalimentaire|societe du secteur agroalimentaire|had soualem",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "d08c0c5170acc2c0",
@@ -187,7 +220,7 @@
         ]
       },
       "dedupeKey": "electromecanicien hf had soualem",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "917e4fde507f098c",
@@ -220,7 +253,7 @@
         ]
       },
       "dedupeKey": "ingenieur iam ciam|excel management conseil|rabat",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "a644d26a73005f18",
@@ -253,7 +286,7 @@
         ]
       },
       "dedupeKey": "facilities analyst|telus digital|casablanca",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "1cf0cef98c71743d",
@@ -286,7 +319,7 @@
         ]
       },
       "dedupeKey": "customer experience manager|telus digital|casablanca",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "474ebc87b580ae65",
@@ -319,7 +352,7 @@
         ]
       },
       "dedupeKey": "human resource manager|telus digital|casablanca",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "50189642dc92d168",
@@ -352,7 +385,7 @@
         ]
       },
       "dedupeKey": "ingenieur marque industrielle|safran nacelles|casablanca",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "473773b487aa1739",
@@ -385,7 +418,7 @@
         ]
       },
       "dedupeKey": "real time analyst|telus digital|casablanca",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "2b79c50651e1e0f3",
@@ -418,7 +451,7 @@
         ]
       },
       "dedupeKey": "operations team leader|telus digital|casablanca",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "cf29e799ad848ded",
@@ -451,7 +484,7 @@
         ]
       },
       "dedupeKey": "operations quality analyst|telus digital|casablanca",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "df52876bffc61b92",
@@ -484,7 +517,7 @@
         ]
       },
       "dedupeKey": "responsable atelier de production hf|orh assessment|nouaceur",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "b415bef2a1a81193",
@@ -517,7 +550,7 @@
         ]
       },
       "dedupeKey": "key account manager -fmcg-|smollan morocco|casablanca",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "07e987b703f240bd",
@@ -550,7 +583,7 @@
         ]
       },
       "dedupeKey": "operations team leader french english|telus digital|casablanca",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "50a15b788a9e6bbb",
@@ -583,7 +616,7 @@
         ]
       },
       "dedupeKey": "responsable logistique hf|universite internationale de rabat uir|rabat",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "66460dddb6217425",
@@ -616,7 +649,7 @@
         ]
       },
       "dedupeKey": "ingenieur detudes electricite energies renouvelables|novec sale|sale technopolis",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "4abb8c81e34afae0",
@@ -649,7 +682,7 @@
         ]
       },
       "dedupeKey": "chargee alumni alumni relations officer|universite internationale de rabat uir|rabat",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "c4fdeaa09ab6fc84",
@@ -682,7 +715,7 @@
         ]
       },
       "dedupeKey": "emirates cabin crew dubai emirats arabes unis|emirates airlines|dubai",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "c8729c83afd9bd08",
@@ -715,7 +748,7 @@
         ]
       },
       "dedupeKey": "cadre administratif et financierhf|confidentiel|casablanca",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "3cd35156028ec154",
@@ -749,7 +782,7 @@
         ]
       },
       "dedupeKey": "stagiaire ingenieur en genie industriel hf|groupe bel|tanger",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "343b4e73cfd19bb7",
@@ -782,7 +815,7 @@
         ]
       },
       "dedupeKey": "teleprospection telephonique en b to b junior|od services sidi maarouf|casablanca",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "f766ae04a38ef51f",
@@ -815,7 +848,7 @@
         ]
       },
       "dedupeKey": "assistante commercialeen reception dappels|maroc climate and security mcs carrier|casablanca",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "fe05714f155c499e",
@@ -848,7 +881,7 @@
         ]
       },
       "dedupeKey": "kinesitherapeute hf|confidentiel|rabat",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "e1e7cda606cd5997",
@@ -881,7 +914,7 @@
         ]
       },
       "dedupeKey": "responsable excellence des services hf|confidentiel rabat|rabat",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "17fa884bcdfb3eb2",
@@ -914,7 +947,7 @@
         ]
       },
       "dedupeKey": "animateur hse|best biscuits maroc had|had soualem",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "a2df718b44466f4d",
@@ -947,7 +980,7 @@
         ]
       },
       "dedupeKey": "assistante comptabilite finance administration hf marrakech|confidentiel|marrakech",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "0a44ef5e2209403f",
@@ -980,7 +1013,7 @@
         ]
       },
       "dedupeKey": "pmo|groupe labelvie carrefour|casablanca",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "881f258963fa5728",
@@ -1013,7 +1046,7 @@
         ]
       },
       "dedupeKey": "responsable audit et conformite|es saadi marrakech resort|marrakech",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "868b778535a1973b",
@@ -1046,7 +1079,7 @@
         ]
       },
       "dedupeKey": "assistante medicale|locamed|casablanca",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "10802df7af1ed107",
@@ -1079,7 +1112,7 @@
         ]
       },
       "dedupeKey": "chargee de facturation cdd 11 mois|maroc climate and security mcs carrier|casablanca",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "357b2e16a36db00e",
@@ -1112,7 +1145,7 @@
         ]
       },
       "dedupeKey": "credit analyst bilingual mf|maroc climate and security mcs carrier|casablanca",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "0b31578f9d3e7509",
@@ -1145,7 +1178,7 @@
         ]
       },
       "dedupeKey": "chargee daccompagnement des changements si|fmps fondation marocaine du prescolaire|rabat",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "033d27578c472a8e",
@@ -1178,7 +1211,7 @@
         ]
       },
       "dedupeKey": "executive assistant freng|telus digital|casablanca",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "77e374afba3c3c45",
@@ -1211,7 +1244,7 @@
         ]
       },
       "dedupeKey": "magasinier-cariste|pratt whitney|nouaceur",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "7e4ccdf025fdee92",
@@ -1244,7 +1277,7 @@
         ]
       },
       "dedupeKey": "coordinateurtrice juridique hf|mcdonalds maroc|casablanca",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "3a77ee1245459339",
@@ -1277,7 +1310,7 @@
         ]
       },
       "dedupeKey": "juriste senior immobilier developpement hf|mcdonalds maroc|casablanca",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "11bd9bac4100234c",
@@ -1310,7 +1343,7 @@
         ]
       },
       "dedupeKey": "ingenieur hydraulicien experimente|societe de developpement des services publics de distribution beni|beni mellal",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "1aae88861d57f1ad",
@@ -1343,7 +1376,7 @@
         ]
       },
       "dedupeKey": "directeur commercial|confidentiel|casablanca",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "c5403ee0bad5f85d",
@@ -1376,7 +1409,7 @@
         ]
       },
       "dedupeKey": "chef de produit|confidentiel|casablanca",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "7dd9b987b02f7ca1",
@@ -1409,40 +1442,7 @@
         ]
       },
       "dedupeKey": "chef comptable|confidentiel|casablanca",
-      "createdAt": "2026-11-21T13:25:29.526Z"
-    },
-    {
-      "id": "bb7c29671cd45dcb",
-      "title": "Réceptionniste Projet immobilier",
-      "company": "Confidentiel",
-      "city": "Casablanca",
-      "contract": "CDI",
-      "experience": "0",
-      "remote": "Unknown",
-      "category": "General",
-      "postedAt": "2026-11-20T00:00:00.000Z",
-      "source": "REKRUTE",
-      "sourceUrl": "https://www.rekrute.com/offre-emploi-receptionniste-projet-immobilier-recrutement-confidentiel-casablanca-188684.html",
-      "sourceId": "offre-emploi-receptionniste-projet-immobilier-recrutement-confidentiel-casablanca-188684.html",
-      "tags": [
-        "rekrute",
-        "confidentiel",
-        "casablanca",
-        "general"
-      ],
-      "ourSnippet": "Poste de Réceptionniste Projet immobilier a Casablanca. Contrat CDI. Consulte l'annonce et postule via la source (ReKrute).",
-      "trust": {
-        "level": "Verified",
-        "score": 89,
-        "reasons": [
-          "Plateforme recrutement reputee",
-          "Entreprise renseignee",
-          "Ville precise",
-          "Date publiee"
-        ]
-      },
-      "dedupeKey": "receptionniste projet immobilier|confidentiel|casablanca",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "02ad5fff931069c5",
@@ -1475,7 +1475,7 @@
         ]
       },
       "dedupeKey": "technicien methodes emboutissage casablanca talents partners|talents partners|casablanca",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "7c344e24c4e576e4",
@@ -1502,7 +1502,7 @@
         ]
       },
       "dedupeKey": "technicien methodes emboutissage",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "162392330a605a96",
@@ -1536,7 +1536,7 @@
         ]
       },
       "dedupeKey": "consultante en recrutement fh 100 teletravail rabat rabat le bon candidat|le bon candidat|rabat",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "0ef07235b0f5104a",
@@ -1566,7 +1566,7 @@
         ]
       },
       "dedupeKey": "consultante en recrutement fh 100 teletravail rabat|rabat",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "bd2fe2ab71895cad",
@@ -1599,7 +1599,7 @@
         ]
       },
       "dedupeKey": "magasinierere casablanca intl jobs|intl jobs|casablanca",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "6322ab8ffd83f006",
@@ -1626,7 +1626,7 @@
         ]
       },
       "dedupeKey": "magasinierere",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "95c650a5b3a8c565",
@@ -1658,7 +1658,7 @@
         ]
       },
       "dedupeKey": "coordinateur de production el jadida talents partners|talents partners|el jadida",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "450f0832ea4c0a9e",
@@ -1685,7 +1685,7 @@
         ]
       },
       "dedupeKey": "coordinateur de production",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "93128bb05577dee8",
@@ -1718,7 +1718,7 @@
         ]
       },
       "dedupeKey": "technicien facilities el jadida talents partners|talents partners|el jadida",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "fac0f0726f0ad1ff",
@@ -1745,7 +1745,7 @@
         ]
       },
       "dedupeKey": "technicien facilities",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "f429e090c6de47dd",
@@ -1780,7 +1780,7 @@
         ]
       },
       "dedupeKey": "technicien de laboratoire microbiologique casablanca humain hr|humain hr|casablanca",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "4669375d6418925e",
@@ -1811,7 +1811,7 @@
         ]
       },
       "dedupeKey": "technicien de laboratoire microbiologique|casablanca",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "2300b9a2b6cb9979",
@@ -1846,7 +1846,7 @@
         ]
       },
       "dedupeKey": "technicien laboratoire inorganique agadir humain hr|humain hr|agadir",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "e3a6795657ab974d",
@@ -1874,7 +1874,7 @@
         ]
       },
       "dedupeKey": "technicien laboratoire inorganique",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "a466fd9d8cef584f",
@@ -1911,7 +1911,7 @@
         ]
       },
       "dedupeKey": "secretaire assistante de direction tanger zephyr horizon|zephyr horizon|tanger",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "483f6cc6ea959d18",
@@ -1938,7 +1938,7 @@
         ]
       },
       "dedupeKey": "secretaire assistante de direction",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "e613de8891f4d5bf",
@@ -1968,7 +1968,7 @@
         ]
       },
       "dedupeKey": "stagiaire femme commerciale -3 mois-|tanger",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "26e66e32a743c145",
@@ -1998,7 +1998,7 @@
         ]
       },
       "dedupeKey": "agent commercial independante en teletravail 20 dh htheure|casablanca",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "fbabb76b932ed536",
@@ -2025,7 +2025,7 @@
         ]
       },
       "dedupeKey": "regleur cnc citizen",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "a076becb328bf792",
@@ -2055,7 +2055,7 @@
         ]
       },
       "dedupeKey": "stagiaire en comptabilite finance|casablanca",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "8b0fd088a80bed5e",
@@ -2085,7 +2085,7 @@
         ]
       },
       "dedupeKey": "stagiaire en marketing commerce international|casablanca",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "5af3bb0201fa6375",
@@ -2115,7 +2115,7 @@
         ]
       },
       "dedupeKey": "stagiaire en developpement web casablanca|casablanca",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "769ef523dd0ed653",
@@ -2142,7 +2142,7 @@
         ]
       },
       "dedupeKey": "profil de gestion",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "ed34497d89bf20e5",
@@ -2169,7 +2169,7 @@
         ]
       },
       "dedupeKey": "des experts",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "59f01f1b3f06de87",
@@ -2200,7 +2200,7 @@
         ]
       },
       "dedupeKey": "professeure de francais primaire educateurtrice de francais|agadir",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "c4607ed25d27b767",
@@ -2227,7 +2227,7 @@
         ]
       },
       "dedupeKey": "chargee marketing solutions domotique",
-      "createdAt": "2026-11-21T13:25:29.526Z"
+      "createdAt": "2026-11-22T13:16:48.575Z"
     },
     {
       "id": "9f6900301d3fe921",
